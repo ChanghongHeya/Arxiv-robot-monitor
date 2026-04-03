@@ -1,6 +1,6 @@
 # arXiv Monitor Report
 
-- Generated at: 2026-04-03 18:40 UTC
+- Generated at: 2026-04-03 19:06 UTC
 - Relevant papers: 9
 
 ## UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models

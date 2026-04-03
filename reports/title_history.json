@@ -15,6 +15,22 @@
         "AffordTissue: Dense Affordance Prediction for Tool-Action Specific Tissue Interaction",
         "Safety, Security, and Cognitive Risks in World Models"
       ]
+    },
+    {
+      "run_at": "2026-04-03T19:06:27Z",
+      "lookback_days": 2,
+      "paper_count": 9,
+      "titles": [
+        "UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models",
+        "UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving",
+        "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",
+        "DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning",
+        "Causal Scene Narration with Runtime Safety Supervision for Vision-Language-Action Driving",
+        "Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models",
+        "Boosting Vision-Language-Action Finetuning with Feasible Action Neighborhood Prior",
+        "AffordTissue: Dense Affordance Prediction for Tool-Action Specific Tissue Interaction",
+        "Safety, Security, and Cognitive Risks in World Models"
+      ]
     }
   ]
 }
