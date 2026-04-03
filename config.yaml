@@ -1,0 +1,27 @@
+arxiv:
+  base_url: "https://export.arxiv.org/api/query"
+  lookback_days: 2
+  user_agent: "hch-arxiv-monitor/1.0"
+  queries:
+    - name: "world_model"
+      search_query: '(ti:"world model" OR abs:"world model" OR ti:"world models" OR abs:"world models" OR ti:"latent dynamics" OR abs:"latent dynamics" OR ti:"model-based reinforcement learning" OR abs:"model-based reinforcement learning" OR ti:"predictive control" OR abs:"predictive control") AND (cat:cs.RO OR cat:eess.RO OR cat:cs.AI OR cat:cs.CV OR cat:cs.LG OR cat:cs.CL OR cat:cs.NE OR cat:stat.ML)'
+      max_results: 100
+    - name: "robot_foundation"
+      search_query: '(ti:"robot foundation model" OR abs:"robot foundation model" OR ti:"robotic foundation model" OR abs:"robotic foundation model" OR ti:"vision-language-action" OR abs:"vision-language-action" OR ti:"vision language action" OR abs:"vision language action" OR ti:"embodied foundation model" OR abs:"embodied foundation model" OR ti:"generalist robot" OR abs:"generalist robot" OR ti:"embodied AI" OR abs:"embodied AI" OR ti:"robot policy" OR abs:"robot policy") AND (cat:cs.RO OR cat:eess.RO OR cat:cs.AI OR cat:cs.CV OR cat:cs.LG OR cat:cs.CL OR cat:cs.NE OR cat:stat.ML)'
+      max_results: 100
+
+analysis:
+  openai_model: "gpt-5-mini"
+  min_heuristic_score: 5
+
+email:
+  enabled: true
+  recipient: "18735461194@163.com"
+  sender_name: "HCH arXiv Monitor"
+  smtp_host: "smtp.163.com"
+  smtp_port: 465
+  use_ssl: true
+
+output:
+  report_file: "reports/latest_report.md"
+  title_archive_file: "reports/title_history.json"

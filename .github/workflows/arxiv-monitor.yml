@@ -1,0 +1,40 @@
+name: arXiv Monitor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 */2 * *"
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: |
+          python run_monitor.py
+
+      - name: Commit latest report
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update arXiv daily report"
+          file_pattern: README.md reports/latest_report.md reports/title_history.json
