@@ -25,3 +25,4 @@ email:
 output:
   report_file: "reports/latest_report.md"
   title_archive_file: "reports/title_history.json"
+  sent_ids_file: "reports/sent_paper_ids.json"

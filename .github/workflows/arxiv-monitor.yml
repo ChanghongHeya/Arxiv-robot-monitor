@@ -37,4 +37,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update arXiv daily report"
-          file_pattern: README.md reports/latest_report.md reports/title_history.json
+          file_pattern: README.md reports/latest_report.md reports/title_history.json reports/sent_paper_ids.json

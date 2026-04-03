@@ -32,8 +32,9 @@
 
 - 写入 `reports/latest_report.md`，包含中文摘要总结和筛选原因
 - 把每次筛出来的标题累积记录到 `reports/title_history.json`
+- 把已经发过的 arXiv id 记录到 `reports/sent_paper_ids.json`，避免下次重复发
 - 每两天发送一封邮件到 `18735461194@163.com`
-- 不追踪更早历史，只关心最近 2 天的结果
+- 每次只发送“最近 2 天里还没发过”的论文
 
 ## 本地运行
 
@@ -85,3 +86,4 @@ python run_monitor.py
 - `src/arxiv_monitor/emailer.py`: 邮件发送
 - `reports/latest_report.md`: 最近一次报告
 - `reports/title_history.json`: 历史标题归档
+- `reports/sent_paper_ids.json`: 已发送 arXiv id 去重状态

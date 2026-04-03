@@ -9,6 +9,7 @@ from .config import load_config
 from .emailer import send_email
 from .readme_writer import update_readme
 from .reporter import build_report, save_report
+from .sent_state import load_sent_ids, save_sent_ids
 
 
 def parse_args() -> argparse.Namespace:
@@ -24,6 +25,8 @@ def main() -> int:
 
     report_file = config["output"]["report_file"]
     title_archive_file = config["output"]["title_archive_file"]
+    sent_ids_file = config["output"]["sent_ids_file"]
+    sent_ids = load_sent_ids(sent_ids_file)
 
     client = ArxivClient(
         base_url=config["arxiv"]["base_url"],
@@ -36,21 +39,25 @@ def main() -> int:
 
     for paper in recent_papers:
         analysis = analyzer.analyze(paper)
-        if analysis.is_relevant:
+        if analysis.is_relevant and paper.paper_id not in sent_ids:
             relevant_pairs.append((paper, analysis))
 
     report = build_report(relevant_pairs)
     save_report(report_file, report)
-    append_title_archive(title_archive_file, relevant_pairs, config["arxiv"]["lookback_days"])
     update_readme("README.md", relevant_pairs, config["arxiv"]["lookback_days"])
 
-    if config["email"]["enabled"] and not args.dry_run:
-        send_email(config, [paper for paper, _ in relevant_pairs])
+    if not args.dry_run:
+        append_title_archive(title_archive_file, relevant_pairs, config["arxiv"]["lookback_days"])
+        if config["email"]["enabled"]:
+            send_email(config, [paper for paper, _ in relevant_pairs])
+            sent_ids.update(paper.paper_id for paper, _ in relevant_pairs)
+            save_sent_ids(sent_ids_file, sent_ids)
 
     print(f"Fetched recent papers: {len(recent_papers)}")
     print(f"Relevant papers found: {len(relevant_pairs)}")
     print(f"Report written to: {report_file}")
     print(f"Title archive written to: {title_archive_file}")
+    print(f"Sent id state written to: {sent_ids_file}")
     return 0
 
 
