@@ -51,7 +51,7 @@ python run_monitor.py --dry-run
 export SMTP_USERNAME="你的163邮箱"
 export SMTP_PASSWORD="你的163邮箱SMTP授权码"
 export OPENAI_API_KEY="可选，不填则使用规则筛选"
-export EMAIL_TO="18735461194@163.com"
+export EMAIL_TO="1234567788@163.com"
 python run_monitor.py
 ```
 
