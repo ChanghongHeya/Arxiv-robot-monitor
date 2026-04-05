@@ -31,6 +31,12 @@
         "AffordTissue: Dense Affordance Prediction for Tool-Action Specific Tissue Interaction",
         "Safety, Security, and Cognitive Risks in World Models"
       ]
+    },
+    {
+      "run_at": "2026-04-05T03:52:21Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
