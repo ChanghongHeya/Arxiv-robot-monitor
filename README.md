@@ -4,10 +4,21 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-04-05 03:52 UTC
-- Relevant papers: 0
+- Updated at: 2026-04-07 03:47 UTC
+- Relevant papers: 10
 
-最近时间窗口内没有筛选到相关论文。
+| Title | Type | Authors |
+|---|---|---|
+| [E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834) | Robot Foundation / VLA | Jiajun Zhai, Hao Shi, Shangwei Guo, Kailun Yang, Kaiwei Wang |
+| [ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration](https://arxiv.org/abs/2604.04664) | Robot Foundation / VLA | Rongfeng Zhao, Xuanhao Zhang, Zhaochen Guo, Xiang Shao, Zhongpan Zhu, Bin He, Jie Chen |
+| [Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?](https://arxiv.org/abs/2604.04502) | Robot Foundation / VLA | Zhongru Zhang, Chenghan Yang, Qingzhou Lu, Yanjiang Guo, Jianke Zhang, Yucheng Hu, Jianyu Chen |
+| [FORMULA: FORmation MPC with neUral barrier Learning for safety Assurance](https://arxiv.org/abs/2604.04409) | World Model | Qintong Xie, Weishu Zhan, Peter Chin |
+| [RK-MPC: Residual Koopman Model Predictive Control for Quadruped Locomotion in Offroad Environments](https://arxiv.org/abs/2604.04221) | World Model | Sriram S. K. S. Narayanan, Umesh Vaidya |
+| [DriveVA: Video Action Models are Zero-Shot Drivers](https://arxiv.org/abs/2604.04198) | World Model | Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Michael Ying Yang, Francesco Nex, Hao Cheng |
+| [Adaptive Action Chunking at Inference-time for Vision-Language-Action Models](https://arxiv.org/abs/2604.04161) | Robot Foundation / VLA | Yuanchang Liang, Xiaobo Wang, Kai Wang, Shuo Wang, Xiaojiang Peng, Haoyu Chen, David Kim Huat Chua, Prahlad Vadakkepat |
+| [Adapting Neural Robot Dynamics on the Fly for Predictive Control](https://arxiv.org/abs/2604.04039) | World Model | Abdullah Altawaitan, Nikolay Atanasov |
+| [Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach](https://arxiv.org/abs/2604.03999) | World Model | Shibowen Zhang, Jiayang Wu, Guannan Liu, Helin Zhu, Junjie Liu, Zhehan Li, Junhong Guo, Xiaokun Leng, Hangxin Liu, Jingwen Zhang, Jikai Wang, Zonghai Chen, Zhicheng He, Jiayi Wang, Yao Su |
+| [VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956) | Robot Foundation / VLA | Ravi Ranjan, Agoritsa Polyzou |
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：

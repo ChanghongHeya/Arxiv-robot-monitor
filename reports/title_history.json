@@ -37,6 +37,23 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-04-07T03:47:02Z",
+      "lookback_days": 2,
+      "paper_count": 10,
+      "titles": [
+        "E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes",
+        "ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration",
+        "Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?",
+        "FORMULA: FORmation MPC with neUral barrier Learning for safety Assurance",
+        "RK-MPC: Residual Koopman Model Predictive Control for Quadruped Locomotion in Offroad Environments",
+        "DriveVA: Video Action Models are Zero-Shot Drivers",
+        "Adaptive Action Chunking at Inference-time for Vision-Language-Action Models",
+        "Adapting Neural Robot Dynamics on the Fly for Predictive Control",
+        "Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach",
+        "VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models"
+      ]
     }
   ]
 }
