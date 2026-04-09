@@ -54,6 +54,27 @@
         "Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach",
         "VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models"
       ]
+    },
+    {
+      "run_at": "2026-04-09T03:44:53Z",
+      "lookback_days": 2,
+      "paper_count": 14,
+      "titles": [
+        "PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing",
+        "INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling",
+        "Towards Multi-Object Nonprehensile Transportation via Shared Teleoperation: A Framework Based on Virtual Object Model Predictive Control",
+        "Telecom World Models: Unifying Digital Twins, Foundation Models, and Predictive Planning for 6G",
+        "The Rhetoric of Machine Learning",
+        "Infrastructure First: Enabling Embodied AI for Science in the Global South",
+        "Evolution of Video Generative Foundations",
+        "Action Images: End-to-End Policy Learning via Multiview Video Generation",
+        "Learning-Guided Force-Feedback Model Predictive Control with Obstacle Avoidance for Robotic Deburring",
+        "Rectified Schrödinger Bridge Matching for Few-Step Visual Navigation",
+        "A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model",
+        "SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation",
+        "Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment",
+        "Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming"
+      ]
     }
   ]
 }

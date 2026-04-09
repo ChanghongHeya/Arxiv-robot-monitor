@@ -4,21 +4,25 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-04-07 03:47 UTC
-- Relevant papers: 10
+- Updated at: 2026-04-09 03:44 UTC
+- Relevant papers: 14
 
 | Title | Type | Authors |
 |---|---|---|
-| [E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834) | Robot Foundation / VLA | Jiajun Zhai, Hao Shi, Shangwei Guo, Kailun Yang, Kaiwei Wang |
-| [ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration](https://arxiv.org/abs/2604.04664) | Robot Foundation / VLA | Rongfeng Zhao, Xuanhao Zhang, Zhaochen Guo, Xiang Shao, Zhongpan Zhu, Bin He, Jie Chen |
-| [Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?](https://arxiv.org/abs/2604.04502) | Robot Foundation / VLA | Zhongru Zhang, Chenghan Yang, Qingzhou Lu, Yanjiang Guo, Jianke Zhang, Yucheng Hu, Jianyu Chen |
-| [FORMULA: FORmation MPC with neUral barrier Learning for safety Assurance](https://arxiv.org/abs/2604.04409) | World Model | Qintong Xie, Weishu Zhan, Peter Chin |
-| [RK-MPC: Residual Koopman Model Predictive Control for Quadruped Locomotion in Offroad Environments](https://arxiv.org/abs/2604.04221) | World Model | Sriram S. K. S. Narayanan, Umesh Vaidya |
-| [DriveVA: Video Action Models are Zero-Shot Drivers](https://arxiv.org/abs/2604.04198) | World Model | Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Michael Ying Yang, Francesco Nex, Hao Cheng |
-| [Adaptive Action Chunking at Inference-time for Vision-Language-Action Models](https://arxiv.org/abs/2604.04161) | Robot Foundation / VLA | Yuanchang Liang, Xiaobo Wang, Kai Wang, Shuo Wang, Xiaojiang Peng, Haoyu Chen, David Kim Huat Chua, Prahlad Vadakkepat |
-| [Adapting Neural Robot Dynamics on the Fly for Predictive Control](https://arxiv.org/abs/2604.04039) | World Model | Abdullah Altawaitan, Nikolay Atanasov |
-| [Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach](https://arxiv.org/abs/2604.03999) | World Model | Shibowen Zhang, Jiayang Wu, Guannan Liu, Helin Zhu, Junjie Liu, Zhehan Li, Junhong Guo, Xiaokun Leng, Hangxin Liu, Jingwen Zhang, Jikai Wang, Zonghai Chen, Zhicheng He, Jiayi Wang, Yao Su |
-| [VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956) | Robot Foundation / VLA | Ravi Ranjan, Agoritsa Polyzou |
+| [PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing](https://arxiv.org/abs/2604.07230) | World Model | Ruihang Xu, Dewei Zhou, Xiaolong Shen, Fan Ma, Yi Yang |
+| [INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling](https://arxiv.org/abs/2604.07209) | World Model | InSpatio Team, Donghui Shen, Guofeng Zhang, Haomin Liu, Haoyu Ji, Hujun Bao, Hongjia Zhai, Jialin Liu, Jing Guo, Nan Wang, Siji Pan, Weihong Pan, Weijian Xie, Xianbin Liu, Xiaojun Xiang, Xiaoyu Zhang, Xinyu Chen, Yifu Wang, Yipeng Chen, Zhenzhou Fan, Zhewen Le, Zhichao Ye, Ziqiang Zhao |
+| [Towards Multi-Object Nonprehensile Transportation via Shared Teleoperation: A Framework Based on Virtual Object Model Predictive Control](https://arxiv.org/abs/2604.06932) | World Model | Xinyang Fan, Zhaoyang Chen, Shu Xin, Yi Ren, Zainan Jiang, Fenglei Ni, Hong Liu |
+| [Telecom World Models: Unifying Digital Twins, Foundation Models, and Predictive Planning for 6G](https://arxiv.org/abs/2604.06882) | World Model | Hang Zou, Yuzhi Yang, Lina Bariah, Yu Tian, Yuhuan Lu, Bohao Wang, Anis Bara, Brahim Mefgouda, Hao Liu, Yiwei Tao, Sergy Petrov, Salma Cheour, Nassim Sehad, Sumudu Samarakoon, Chongwen Huang, Samson Lasaulce, Mehdi Bennis, Mérouane Debbah |
+| [The Rhetoric of Machine Learning](https://arxiv.org/abs/2604.06754) | World Model | Robert C. Williamson |
+| [Infrastructure First: Enabling Embodied AI for Science in the Global South](https://arxiv.org/abs/2604.06722) | Robot Foundation / VLA | Shaoshan Liu, Jie Tang, Marwa S. Hassan, Mohamed H. Sharkawy, Moustafa M. G. Fouda, Tiewei Shang, Zixin Wang |
+| [Evolution of Video Generative Foundations](https://arxiv.org/abs/2604.06339) | Robot Foundation / VLA | Teng Hu, Jiangning Zhang, Hongrui Huang, Ran Yi, Zihan Su, Jieyu Weng, Zhucun Xue, Lizhuang Ma, Ming-Hsuan Yang, Dacheng Tao |
+| [Action Images: End-to-End Policy Learning via Multiview Video Generation](https://arxiv.org/abs/2604.06168) | Robot Foundation / VLA | Haoyu Zhen, Zixian Gao, Qiao Sun, Yilin Zhao, Yuncong Yang, Yilun Du, Tsun-Hsuan Wang, Yi-Ling Qiao, Chuang Gan |
+| [Learning-Guided Force-Feedback Model Predictive Control with Obstacle Avoidance for Robotic Deburring](https://arxiv.org/abs/2604.06133) | World Model | Krzysztof Wojciechowski, Ege Gursoy, Arthur Haffemayer, Sebastien Kleff, Vincent Bonnet, Florent Lamiraux, Nicolas Mansard |
+| [Rectified Schrödinger Bridge Matching for Few-Step Visual Navigation](https://arxiv.org/abs/2604.05673) | Robot Foundation / VLA | Wuyang Luan, Junhui Li, Weiguang Zhao, Wenjian Zhang, Tieru Wu, Rui Ma |
+| [A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model](https://arxiv.org/abs/2604.05672) | Robot Foundation / VLA | Kaidong Zhang, Jian Zhang, Rongtao Xu, Yu Sun, Shuoshuo Xue, Youpeng Wen, Xiaoyu Guo, Minghao Guo, Weijia Liufu, Liu Zihou, Kangyi Ji, Yangsong Zhang, Jiarun Zhu, Jingzhi Liu, Zihang Li, Ruiyi Chen, Meng Cao, Jingming Zhang, Shen Zhao, Xiaojun Chang, Feng Zheng, Ivan Laptev, Xiaodan Liang |
+| [SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation](https://arxiv.org/abs/2604.05656) | Robot Foundation / VLA | Wuyang Luan, Junhui Li, Weiguang Zhao, Wenjian Zhang, Tieru Wu, Rui Ma |
+| [Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment](https://arxiv.org/abs/2604.05614) | Robot Foundation / VLA | Theodor Wulff, Federico Tavella, Rahul Singh Maharjan, Manith Adikari, Angelo Cangelosi |
+| [Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming](https://arxiv.org/abs/2604.05595) | Robot Foundation / VLA | Baoshun Tong, Haoran He, Ling Pan, Yang Liu, Liang Lin |
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：
