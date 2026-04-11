@@ -1,158 +1,92 @@
 # arXiv Monitor Report
 
-- Generated at: 2026-04-09 03:44 UTC
-- Relevant papers: 14
+- Generated at: 2026-04-11 03:34 UTC
+- Relevant papers: 8
 
-## PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing
+## LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation
 
-- arXiv: https://arxiv.org/abs/2604.07230
-- Published: 2026-04-08
-- Queries: world_model
+- arXiv: https://arxiv.org/abs/2604.08475
+- Published: 2026-04-09
+- Queries: robot_foundation
 - Method: heuristic
-- Topic: world_model
-- Confidence: 60
-- Reason: 命中关键词: manipulation, world models
-- Summary: 世界模型方向: Achieving physically accurate object manipulation in image editing is essential for its potential applications in interactive world models。
+- Topic: robot_foundation
+- Confidence: 95
+- Reason: 命中关键词: large language model, manipulation, robotic, vision language action
+- Summary: 机器人大模型方向: Human-like generalization in open-world remains a fundamental challenge for robotic manipulation。
 
-## INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling
+## Orion-Lite: Distilling LLM Reasoning into Efficient Vision-Only Driving Models
 
-- arXiv: https://arxiv.org/abs/2604.07209
-- Published: 2026-04-08
-- Queries: world_model
+- arXiv: https://arxiv.org/abs/2604.08266
+- Published: 2026-04-09
+- Queries: robot_foundation
 - Method: heuristic
-- Topic: world_model
-- Confidence: 60
-- Reason: 命中关键词: navigation, world models
-- Summary: 世界模型方向: Building world models with spatial consistency and real-time interactivity remains a fundamental challenge in computer vision。
-
-## Towards Multi-Object Nonprehensile Transportation via Shared Teleoperation: A Framework Based on Virtual Object Model Predictive Control
-
-- arXiv: https://arxiv.org/abs/2604.06932
-- Published: 2026-04-08
-- Queries: world_model
-- Method: heuristic
-- Topic: world_model
+- Topic: robot_foundation
 - Confidence: 80
-- Reason: 命中关键词: manipulation, model predictive control, predictive control, robot
-- Summary: 世界模型方向: Multi-object nonprehensile transportation in teleoperation demands simultaneous trajectory tracking and tray orientation control。
+- Reason: 命中关键词: autonomous driving, vision language action, vla
+- Summary: 机器人大模型方向: Leveraging the general world knowledge of Large Language Models (LLMs) holds significant promise for improving the ability of autonomous driving systems to handle rare and complex 。
 
-## Telecom World Models: Unifying Digital Twins, Foundation Models, and Predictive Planning for 6G
+## ViVa: A Video-Generative Value Model for Robot Reinforcement Learning
 
-- arXiv: https://arxiv.org/abs/2604.06882
-- Published: 2026-04-08
-- Queries: world_model
-- Method: heuristic
-- Topic: world_model
-- Confidence: 95
-- Reason: 命中关键词: foundation model, foundation models, world model, world models
-- Summary: 世界模型方向: The integration of machine learning tools into telecom networks, has led to two prevailing paradigms, namely, language-based systems, such as Large Language Models (LLMs), and phys。
-
-## The Rhetoric of Machine Learning
-
-- arXiv: https://arxiv.org/abs/2604.06754
-- Published: 2026-04-08
-- Queries: world_model
-- Method: heuristic
-- Topic: world_model
-- Confidence: 60
-- Reason: 命中关键词: manipulation, world models
-- Summary: 世界模型方向: I examine the technology of machine learning from the perspective of rhetoric, which is simply the art of persuasion。
-
-## Infrastructure First: Enabling Embodied AI for Science in the Global South
-
-- arXiv: https://arxiv.org/abs/2604.06722
-- Published: 2026-04-08
+- arXiv: https://arxiv.org/abs/2604.08168
+- Published: 2026-04-09
 - Queries: robot_foundation
 - Method: heuristic
 - Topic: robot_foundation
-- Confidence: 70
-- Reason: 命中关键词: embodied, foundation models, robotic
-- Summary: 机器人大模型方向: Embodied AI for Science (EAI4S) brings intelligence into the laboratory by uniting perception, reasoning, and robotic action to autonomously run experiments in the physical world。
-
-## Evolution of Video Generative Foundations
-
-- arXiv: https://arxiv.org/abs/2604.06339
-- Published: 2026-04-07
-- Queries: world_model
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 60
-- Reason: 命中关键词: autonomous driving, multimodal, world models
-- Summary: 机器人大模型方向: The rapid advancement of Artificial Intelligence Generated Content (AIGC) has revolutionized video generation, enabling systems ranging from proprietary pioneers like OpenAI's Sora。
-
-## Action Images: End-to-End Policy Learning via Multiview Video Generation
-
-- arXiv: https://arxiv.org/abs/2604.06168
-- Published: 2026-04-07
-- Queries: world_model, robot_foundation
-- Method: heuristic
-- Topic: robot_foundation
 - Confidence: 95
-- Reason: 命中关键词: action model, robot, world action model, world action models, world models
-- Summary: 机器人大模型方向: World action models (WAMs) have emerged as a promising direction for robot policy learning, as they can leverage powerful video backbones to model the future states。
+- Reason: 命中关键词: manipulation, robot, vision language action, vla
+- Summary: 机器人大模型方向: Vision-language-action (VLA) models have advanced robot manipulation through large-scale pretraining, but real-world deployment remains challenging due to partial observability and。
 
-## Learning-Guided Force-Feedback Model Predictive Control with Obstacle Avoidance for Robotic Deburring
+## Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles
 
-- arXiv: https://arxiv.org/abs/2604.06133
-- Published: 2026-04-07
+- arXiv: https://arxiv.org/abs/2604.08031
+- Published: 2026-04-09
 - Queries: world_model
-- Method: heuristic
-- Topic: world_model
-- Confidence: 60
-- Reason: 命中关键词: model predictive control, predictive control, robotic
-- Summary: 世界模型方向: Model Predictive Control (MPC) is widely used for torque-controlled robots, but classical formulations often neglect real-time force feedback and struggle with contact-rich industr。
-
-## Rectified Schrödinger Bridge Matching for Few-Step Visual Navigation
-
-- arXiv: https://arxiv.org/abs/2604.05673
-- Published: 2026-04-07
-- Queries: robot_foundation
 - Method: heuristic
 - Topic: robot_foundation
 - Confidence: 90
-- Reason: 命中关键词: embodied, multimodal, navigation, robotic
-- Summary: 机器人大模型方向: Visual navigation is a core challenge in Embodied AI, requiring autonomous agents to translate high-dimensional sensory observations into continuous, long-horizon action trajectori。
+- Reason: 命中关键词: autonomous driving, large language model, model predictive control, predictive control
+- Summary: 机器人大模型方向: Most Human-Machine Interaction (HMI) research overlooks the maneuvering needs of passengers in autonomous driving (AD)。
 
-## A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model
+## HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation
 
-- arXiv: https://arxiv.org/abs/2604.05672
-- Published: 2026-04-07
+- arXiv: https://arxiv.org/abs/2604.07993
+- Published: 2026-04-09
 - Queries: robot_foundation
 - Method: heuristic
 - Topic: robot_foundation
 - Confidence: 95
-- Reason: 命中关键词: action model, manipulation, robot, vision language action, vla
-- Summary: 机器人大模型方向: Vision-Language-Action (VLA) models have emerged as a powerful paradigm for open-world robot manipulation, but their practical deployment is often constrained by cost: billion-scal。
+- Reason: 命中关键词: manipulation, robot, vision language action, vla
+- Summary: 机器人大模型方向: Humans achieve complex manipulation through coordinated whole-body control, whereas most Vision-Language-Action (VLA) models treat robot body parts largely independently, making hi。
 
-## SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation
+## MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models
 
-- arXiv: https://arxiv.org/abs/2604.05656
-- Published: 2026-04-07
+- arXiv: https://arxiv.org/abs/2604.07991
+- Published: 2026-04-09
+- Queries: world_model
+- Method: heuristic
+- Topic: robot_foundation
+- Confidence: 95
+- Reason: 命中关键词: autonomous driving, embodied, large language model, navigation, uav, world models
+- Summary: 机器人大模型方向: Recent advances in world models have demonstrated strong capabilities in simulating physical reality, making them an increasingly important foundation for embodied intelligence。
+
+## How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace
+
+- arXiv: https://arxiv.org/abs/2604.07973
+- Published: 2026-04-09
 - Queries: robot_foundation
 - Method: heuristic
 - Topic: robot_foundation
 - Confidence: 95
-- Reason: 命中关键词: manipulation, robotic, vision language action, vla
-- Summary: 机器人大模型方向: Vision-Language-Action (VLA) models based on flow matching -- such as pi0, pi0.5, and SmolVLA -- achieve state-of-the-art generalist robotic manipulation, yet their iterative denoi。
+- Reason: 命中关键词: embodied, multimodal, navigation, vision language action
+- Summary: 机器人大模型方向: Large multimodal models (LMMs) show strong visual-linguistic reasoning but their capacity for spatial decision-making and action remains unclear。
 
-## Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment
+## WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models
 
-- arXiv: https://arxiv.org/abs/2604.05614
-- Published: 2026-04-07
-- Queries: robot_foundation
+- arXiv: https://arxiv.org/abs/2604.07957
+- Published: 2026-04-09
+- Queries: world_model
 - Method: heuristic
-- Topic: robot_foundation
+- Topic: world_model
 - Confidence: 95
-- Reason: 命中关键词: multimodal, robot, vision language action, vla
-- Summary: 机器人大模型方向: Achieving robot transparency is a critical step toward effective human-robot collaboration。
-
-## Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming
-
-- arXiv: https://arxiv.org/abs/2604.05595
-- Published: 2026-04-07
-- Queries: robot_foundation
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 95
-- Reason: 命中关键词: embodied, manipulation, robotic, vision language action, vla
-- Summary: 机器人大模型方向: Vision-Language-Action (VLA) models have achieved remarkable success in robotic manipulation。
+- Reason: 命中关键词: embodied, navigation, world model, world models
+- Summary: 世界模型方向: Vision-language models (VLMs) and generative world models are opening new opportunities for embodied navigation。

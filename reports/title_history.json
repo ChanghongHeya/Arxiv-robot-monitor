@@ -75,6 +75,21 @@
         "Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment",
         "Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming"
       ]
+    },
+    {
+      "run_at": "2026-04-11T03:34:32Z",
+      "lookback_days": 2,
+      "paper_count": 8,
+      "titles": [
+        "LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation",
+        "Orion-Lite: Distilling LLM Reasoning into Efficient Vision-Only Driving Models",
+        "ViVa: A Video-Generative Value Model for Robot Reinforcement Learning",
+        "Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles",
+        "HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation",
+        "MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models",
+        "How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace",
+        "WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models"
+      ]
     }
   ]
 }
