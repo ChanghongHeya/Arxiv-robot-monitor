@@ -90,6 +90,12 @@
         "How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace",
         "WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models"
       ]
+    },
+    {
+      "run_at": "2026-04-13T04:18:08Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
