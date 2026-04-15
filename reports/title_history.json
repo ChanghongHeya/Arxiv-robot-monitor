@@ -96,6 +96,27 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-04-15T03:58:06Z",
+      "lookback_days": 2,
+      "paper_count": 14,
+      "titles": [
+        "Robotic Manipulation is Vision-to-Geometry Mapping ($f(v) \\rightarrow G$): Vision-Geometry Backbones over Language and Video Models",
+        "HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models",
+        "StarVLA-$α$: Reducing Complexity in Vision-Language-Action Systems",
+        "Grounded World Model for Semantically Generalizable Planning",
+        "LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment",
+        "GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth",
+        "DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models",
+        "Dyadic Partnership(DP): A Missing Link Towards Full Autonomy in Medical Robotics",
+        "ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation",
+        "WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models",
+        "3D-Anchored Lookahead Planning for Persistent Robotic Scene Memory via World-Model-Based MCTS",
+        "EmbodiedGovBench: A Benchmark for Governance, Recovery, and Upgrade Safety in Embodied Agent Systems",
+        "AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps",
+        "From Topology to Trajectory: LLM-Driven World Models For Supply Chain Resilience"
+      ]
     }
   ]
 }

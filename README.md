@@ -4,10 +4,25 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-04-13 04:18 UTC
-- Relevant papers: 0
+- Updated at: 2026-04-15 03:58 UTC
+- Relevant papers: 14
 
-最近时间窗口内没有筛选到相关论文。
+| Title | Type | Authors |
+|---|---|---|
+| [Robotic Manipulation is Vision-to-Geometry Mapping ($f(v) \rightarrow G$): Vision-Geometry Backbones over Language and Video Models](https://arxiv.org/abs/2604.12908) | Robot Foundation / VLA | Zijian Song, Qichang Li, Jiawei Zhou, Zhenlong Yuan, Tianshui Chen, Liang Lin, Guangrun Wang |
+| [HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models](https://arxiv.org/abs/2604.12447) | Robot Foundation / VLA | Zixing Chen, Yifeng Gao, Li Wang, Yunhan Zhao, Yi Liu, Jiayu Li, Xiang Zheng, Zuxuan Wu, Cong Wang, Xingjun Ma, Yu-Gang Jiang |
+| [StarVLA-$α$: Reducing Complexity in Vision-Language-Action Systems](https://arxiv.org/abs/2604.11757) | Robot Foundation / VLA | Jinhui Ye, Ning Gao, Senqiao Yang, Jinliang Zheng, Zixuan Wang, Yuxin Chen, Pengguang Chen, Yilun Chen, Shu Liu, Jiaya Jia |
+| [Grounded World Model for Semantically Generalizable Planning](https://arxiv.org/abs/2604.11751) | World Model | Quanyi Li, Lan Feng, Haonan Zhang, Wuyang Li, Letian Wang, Alexandre Alahi, Harold Soh |
+| [LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment](https://arxiv.org/abs/2604.11689) | Robot Foundation / VLA | Dujun Nie, Fengjiao Chen, Qi Lv, Jun Kuang, Xiaoyu Li, Xuezhi Cao, Xunliang Cai |
+| [GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth](https://arxiv.org/abs/2604.11585) | Robot Foundation / VLA | Krishna Jaganathan, Patricio Vela |
+| [DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models](https://arxiv.org/abs/2604.11572) | Robot Foundation / VLA | Siyuan Xu, Tianshi Wang, Fengling Li, Lei Zhu, Heng Tao Shen |
+| [Dyadic Partnership(DP): A Missing Link Towards Full Autonomy in Medical Robotics](https://arxiv.org/abs/2604.11423) | Robot Foundation / VLA | Nassir Navab, Zhongliang Jiang |
+| [ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation](https://arxiv.org/abs/2604.11386) | World Model | Yiran Qin, Jiahua Ma, Li Kang, Wenzhan Li, Yihang Jiao, Xin Wen, Xiufeng Song, Heng Zhou, Jiwen Yu, Zhenfei Yin, Xihui Liu, Philip Torr, Yilun Du, Ruimao Zhang |
+| [WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models](https://arxiv.org/abs/2604.11351) | World Model | Anlan Yu, Zaishu Chen, Peili Song, Zhiqing Hong, Haotian Wang, Desheng Zhang, Tian He, Yi Ding, Daqing Zhang |
+| [3D-Anchored Lookahead Planning for Persistent Robotic Scene Memory via World-Model-Based MCTS](https://arxiv.org/abs/2604.11302) | World Model | Bronislav Sidik, Dror Mizrahi |
+| [EmbodiedGovBench: A Benchmark for Governance, Recovery, and Upgrade Safety in Embodied Agent Systems](https://arxiv.org/abs/2604.11174) | Robot Foundation / VLA | Xue Qin, Simin Luan, John See, Cong Yang, Zhijun Li |
+| [AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps](https://arxiv.org/abs/2604.11135) | Robot Foundation / VLA | Liaoyuan Fan, Zetian Xu, Chen Cao, Wenyao Zhang, Mingqi Yuan, Jiayu Chen |
+| [From Topology to Trajectory: LLM-Driven World Models For Supply Chain Resilience](https://arxiv.org/abs/2604.11041) | World Model | Jia Luo |
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：
