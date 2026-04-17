@@ -117,6 +117,24 @@
         "AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps",
         "From Topology to Trajectory: LLM-Driven World Models For Supply Chain Resilience"
       ]
+    },
+    {
+      "run_at": "2026-04-17T04:10:09Z",
+      "lookback_days": 2,
+      "paper_count": 11,
+      "titles": [
+        "Learning Ad Hoc Network Dynamics via Graph-Structured World Models",
+        "World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems",
+        "Energy-based Regularization for Learning Residual Dynamics in Neural MPC for Omnidirectional Aerial Robots",
+        "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+        "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
+        "[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI",
+        "Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection",
+        "Beyond Conservative Automated Driving in Multi-Agent Scenarios via Coupled Model Predictive Control and Deep Reinforcement Learning",
+        "Beyond State Consistency: Behavior Consistency in Text-Based World Models",
+        "Jump-Start Reinforcement Learning with Vision-Language-Action Regularization",
+        "Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap"
+      ]
     }
   ]
 }
