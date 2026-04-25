@@ -165,6 +165,15 @@
         "Autonomous UAV Pipeline Near-proximity Inspection via Disturbance-Aware Predictive Visual Servoing",
         "RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation"
       ]
+    },
+    {
+      "run_at": "2026-04-25T03:50:22Z",
+      "lookback_days": 2,
+      "paper_count": 2,
+      "titles": [
+        "Long-Horizon Manipulation via Trace-Conditioned VLA Planning",
+        "Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training"
+      ]
     }
   ]
 }
