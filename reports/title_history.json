@@ -180,6 +180,22 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-04-29T04:27:27Z",
+      "lookback_days": 2,
+      "paper_count": 9,
+      "titles": [
+        "Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty",
+        "ProDrive: Proactive Planning for Autonomous Driving via Ego-Environment Co-Evolution",
+        "Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System",
+        "Exploiting Differential Flatness for Efficient Learning-based Model Predictive Control of Constrained Multi-Input Control Affine Systems",
+        "Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation",
+        "CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies",
+        "Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment",
+        "$M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills",
+        "AsyncShield: A Plug-and-Play Edge Adapter for Asynchronous Cloud-based VLA Navigation"
+      ]
     }
   ]
 }
