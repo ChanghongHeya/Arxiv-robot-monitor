@@ -196,6 +196,28 @@
         "$M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills",
         "AsyncShield: A Plug-and-Play Edge Adapter for Asynchronous Cloud-based VLA Navigation"
       ]
+    },
+    {
+      "run_at": "2026-05-01T04:45:59Z",
+      "lookback_days": 2,
+      "paper_count": 15,
+      "titles": [
+        "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation",
+        "LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models",
+        "RopeDreamer: A Kinematic Recurrent State Space Model for Dynamics of Flexible Deformable Linear Objects",
+        "A Pattern Language for Resilient Visual Agents",
+        "Flying by Inference: Active Inference World Models for Adaptive UAV Swarms",
+        "MotuBrain: An Advanced World Action Model for Robot Control",
+        "Can Tabular Foundation Models Guide Exploration in Robot Policy Learning?",
+        "PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations",
+        "RAY-TOLD: Ray-Based Latent Dynamics for Dense Dynamic Obstacle Avoidance with TDMPC",
+        "LA-Pose: Latent Action Pretraining Meets Pose Estimation",
+        "Judge, Then Drive: A Critic-Centric Vision Language Action Framework for Autonomous Driving",
+        "STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation",
+        "Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance",
+        "Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising",
+        "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents"
+      ]
     }
   ]
 }
