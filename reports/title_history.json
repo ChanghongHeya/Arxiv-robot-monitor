@@ -218,6 +218,12 @@
         "Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising",
         "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents"
       ]
+    },
+    {
+      "run_at": "2026-05-03T04:38:20Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
