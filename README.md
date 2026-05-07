@@ -4,10 +4,21 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-05-03 04:38 UTC
-- Relevant papers: 0
+- Updated at: 2026-05-07 04:32 UTC
+- Relevant papers: 10
 
-最近时间窗口内没有筛选到相关论文。
+| Title | Type | Authors |
+|---|---|---|
+| [Executable World Models for ARC-AGI-3 in the Era of Coding Agents](https://arxiv.org/abs/2605.05138) | World Model | Sergey Rodionov |
+| [ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation](https://arxiv.org/abs/2605.05126) | Robot Foundation / VLA | Wei Li, Jizhihui Liu, Li Yixing, Junwen Tong, Rui Shao, Liqiang Nie |
+| [From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models](https://arxiv.org/abs/2605.04678) | Robot Foundation / VLA | Yihan Lin, Haoyang Li, Yang Li, Haitao Shen, Yihan Zhao, Chao Shao, Jing Zhang |
+| [Right Model, Right Time: Real-Time Cascaded-Fidelity MPC for Bipedal Walking](https://arxiv.org/abs/2605.04607) | World Model | Franek Stark, Felix Wiebe, Shubham Vyas, Dennis Mronga, Frank Kirchner |
+| [Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination](https://arxiv.org/abs/2605.04568) | World Model | Jonathan Spieler, Sven Behnke |
+| [CRAFT: Counterfactual-to-Interactive Reinforcement Fine-Tuning for Driving Policies](https://arxiv.org/abs/2605.04470) | Robot Foundation / VLA | Keyu Chen, Nanfei Ye, Yida Wang, Wenchao Sun, Danqi Zhao, Hao Cheng, Sifa Zheng |
+| [Counterfactual identifiability beyond global monotonicity: non-monotone triangular structural causal models](https://arxiv.org/abs/2605.04413) | World Model | Pengcheng Tan, Jiang Chen, Dehui Du |
+| [Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2605.04128) | Robot Foundation / VLA | Lin Song, Wenbo Li, Guoqing Ma, Wei Tang, Bo Wang, Yuan Zhang, Yijun Yang, Yicheng Xiao, Jianhui Liu, Yanbing Zhang, Guohui Zhang, Wenhu Zhang, Hang Xu, Nan Jiang, Xin Han, Haoze Sun, Maoquan Zhang, Haoyang Huang, Nan Duan |
+| [Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior](https://arxiv.org/abs/2605.03855) | Robot Foundation / VLA | Shinas Shaji, Teena Chakkalayil Hassan, Sebastian Houben, Alex Mitrevski |
+| [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821) | Robot Foundation / VLA | Hao Wu, Yuqi Li, Yuan Gao, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang |
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：

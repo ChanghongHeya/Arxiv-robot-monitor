@@ -224,6 +224,23 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-05-07T04:32:22Z",
+      "lookback_days": 2,
+      "paper_count": 10,
+      "titles": [
+        "Executable World Models for ARC-AGI-3 in the Era of Coding Agents",
+        "ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation",
+        "From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models",
+        "Right Model, Right Time: Real-Time Cascaded-Fidelity MPC for Bipedal Walking",
+        "Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination",
+        "CRAFT: Counterfactual-to-Interactive Reinforcement Fine-Tuning for Driving Policies",
+        "Counterfactual identifiability beyond global monotonicity: non-monotone triangular structural causal models",
+        "Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation",
+        "Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior",
+        "RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models"
+      ]
     }
   ]
 }
