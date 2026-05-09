@@ -241,6 +241,23 @@
         "Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior",
         "RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models"
       ]
+    },
+    {
+      "run_at": "2026-05-09T04:20:44Z",
+      "lookback_days": 2,
+      "paper_count": 10,
+      "titles": [
+        "3D MRI Image Pretraining via Controllable 2D Slice Navigation Task",
+        "OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation",
+        "Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models",
+        "MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents",
+        "Toward Visually Realistic Simulation: A Benchmark for Evaluating Robot Manipulation in Simulation",
+        "EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields",
+        "VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts",
+        "HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning",
+        "MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware",
+        "TriRelVLA: Triadic Relational Structure for Generalizable Embodied Manipulation"
+      ]
     }
   ]
 }

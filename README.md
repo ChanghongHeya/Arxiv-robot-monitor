@@ -4,21 +4,21 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-05-07 04:32 UTC
+- Updated at: 2026-05-09 04:20 UTC
 - Relevant papers: 10
 
 | Title | Type | Authors |
 |---|---|---|
-| [Executable World Models for ARC-AGI-3 in the Era of Coding Agents](https://arxiv.org/abs/2605.05138) | World Model | Sergey Rodionov |
-| [ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation](https://arxiv.org/abs/2605.05126) | Robot Foundation / VLA | Wei Li, Jizhihui Liu, Li Yixing, Junwen Tong, Rui Shao, Liqiang Nie |
-| [From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models](https://arxiv.org/abs/2605.04678) | Robot Foundation / VLA | Yihan Lin, Haoyang Li, Yang Li, Haitao Shen, Yihan Zhao, Chao Shao, Jing Zhang |
-| [Right Model, Right Time: Real-Time Cascaded-Fidelity MPC for Bipedal Walking](https://arxiv.org/abs/2605.04607) | World Model | Franek Stark, Felix Wiebe, Shubham Vyas, Dennis Mronga, Frank Kirchner |
-| [Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination](https://arxiv.org/abs/2605.04568) | World Model | Jonathan Spieler, Sven Behnke |
-| [CRAFT: Counterfactual-to-Interactive Reinforcement Fine-Tuning for Driving Policies](https://arxiv.org/abs/2605.04470) | Robot Foundation / VLA | Keyu Chen, Nanfei Ye, Yida Wang, Wenchao Sun, Danqi Zhao, Hao Cheng, Sifa Zheng |
-| [Counterfactual identifiability beyond global monotonicity: non-monotone triangular structural causal models](https://arxiv.org/abs/2605.04413) | World Model | Pengcheng Tan, Jiang Chen, Dehui Du |
-| [Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2605.04128) | Robot Foundation / VLA | Lin Song, Wenbo Li, Guoqing Ma, Wei Tang, Bo Wang, Yuan Zhang, Yijun Yang, Yicheng Xiao, Jianhui Liu, Yanbing Zhang, Guohui Zhang, Wenhu Zhang, Hang Xu, Nan Jiang, Xin Han, Haoze Sun, Maoquan Zhang, Haoyang Huang, Nan Duan |
-| [Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior](https://arxiv.org/abs/2605.03855) | Robot Foundation / VLA | Shinas Shaji, Teena Chakkalayil Hassan, Sebastian Houben, Alex Mitrevski |
-| [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821) | Robot Foundation / VLA | Hao Wu, Yuqi Li, Yuan Gao, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang |
+| [3D MRI Image Pretraining via Controllable 2D Slice Navigation Task](https://arxiv.org/abs/2605.06487) | World Model | Yu Wang, Qingchao Chen |
+| [OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation](https://arxiv.org/abs/2605.06481) | Robot Foundation / VLA | Yushan Liu, Peibo Sun, Shoujie Li, Yifan Xie, Lingfeng Zhang, Xintao Chao, Shiyuan Dong, Fang Chen, Xiao-Ping Zhang, Wenbo Ding |
+| [Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models](https://arxiv.org/abs/2605.06388) | World Model | Nilaksh, Saurav Jha, Artem Zholus, Sarath Chandar |
+| [MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334) | World Model | Ashwani Anand, Ivi Chatzi, Ritam Raha, Anne-Kathrin Schmuck |
+| [Toward Visually Realistic Simulation: A Benchmark for Evaluating Robot Manipulation in Simulation](https://arxiv.org/abs/2605.06311) | Robot Foundation / VLA | Yixin Zhu, Zixiong Wang, Jian Yang, Jin Xie, Jingyi Yu, Jiayuan Gu, Beibei Wang |
+| [EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields](https://arxiv.org/abs/2605.06192) | World Model | Zhaoyang Yang, Yurun Jin, Lizhe Qi, Cong Huang, Kai Chen |
+| [VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts](https://arxiv.org/abs/2605.06175) | Robot Foundation / VLA | Yuhua Jiang, Junjie Lu, Xinyao Qin, Xiaoyu Chen, Kaixin Wang, Feifei Gao, Li Zhao |
+| [HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning](https://arxiv.org/abs/2605.05951) | World Model | Haoyun Tang, Haodong Cui, Keyao Xu, Kun Wang, Zhandong Mei |
+| [MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware](https://arxiv.org/abs/2605.05945) | Robot Foundation / VLA | Senthil Palanisamy, Abhishek Anand, Satpal Singh Rathor, Pratyush Patnaik, Shubhanshu Khatana |
+| [TriRelVLA: Triadic Relational Structure for Generalizable Embodied Manipulation](https://arxiv.org/abs/2605.05714) | Robot Foundation / VLA | Hanyu Zhou, Chuanhao Ma, Gim Hee Lee |
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：
