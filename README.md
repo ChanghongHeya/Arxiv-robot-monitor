@@ -4,21 +4,10 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-05-09 04:20 UTC
-- Relevant papers: 10
+- Updated at: 2026-05-11 04:56 UTC
+- Relevant papers: 0
 
-| Title | Type | Authors |
-|---|---|---|
-| [3D MRI Image Pretraining via Controllable 2D Slice Navigation Task](https://arxiv.org/abs/2605.06487) | World Model | Yu Wang, Qingchao Chen |
-| [OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation](https://arxiv.org/abs/2605.06481) | Robot Foundation / VLA | Yushan Liu, Peibo Sun, Shoujie Li, Yifan Xie, Lingfeng Zhang, Xintao Chao, Shiyuan Dong, Fang Chen, Xiao-Ping Zhang, Wenbo Ding |
-| [Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models](https://arxiv.org/abs/2605.06388) | World Model | Nilaksh, Saurav Jha, Artem Zholus, Sarath Chandar |
-| [MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334) | World Model | Ashwani Anand, Ivi Chatzi, Ritam Raha, Anne-Kathrin Schmuck |
-| [Toward Visually Realistic Simulation: A Benchmark for Evaluating Robot Manipulation in Simulation](https://arxiv.org/abs/2605.06311) | Robot Foundation / VLA | Yixin Zhu, Zixiong Wang, Jian Yang, Jin Xie, Jingyi Yu, Jiayuan Gu, Beibei Wang |
-| [EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields](https://arxiv.org/abs/2605.06192) | World Model | Zhaoyang Yang, Yurun Jin, Lizhe Qi, Cong Huang, Kai Chen |
-| [VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts](https://arxiv.org/abs/2605.06175) | Robot Foundation / VLA | Yuhua Jiang, Junjie Lu, Xinyao Qin, Xiaoyu Chen, Kaixin Wang, Feifei Gao, Li Zhao |
-| [HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning](https://arxiv.org/abs/2605.05951) | World Model | Haoyun Tang, Haodong Cui, Keyao Xu, Kun Wang, Zhandong Mei |
-| [MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware](https://arxiv.org/abs/2605.05945) | Robot Foundation / VLA | Senthil Palanisamy, Abhishek Anand, Satpal Singh Rathor, Pratyush Patnaik, Shubhanshu Khatana |
-| [TriRelVLA: Triadic Relational Structure for Generalizable Embodied Manipulation](https://arxiv.org/abs/2605.05714) | Robot Foundation / VLA | Hanyu Zhou, Chuanhao Ma, Gim Hee Lee |
+最近时间窗口内没有筛选到相关论文。
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：
