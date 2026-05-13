@@ -264,6 +264,48 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-05-13T04:40:20Z",
+      "lookback_days": 2,
+      "paper_count": 35,
+      "titles": [
+        "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
+        "SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation",
+        "GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization",
+        "Reinforcing VLAs in Task-Agnostic World Models",
+        "PriorZero: Bridging Language Priors and World Models for Decision Making",
+        "TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning",
+        "Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete",
+        "World Action Models: The Next Frontier in Embodied AI",
+        "Closing the Motion Execution Gap: From Semantic Motion Task Constraints to Kinematic Control",
+        "Learning Action Manifold with Multi-view Latent Priors for Robotic Manipulation",
+        "See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model",
+        "Beyond World-Frame Action Heads: Motion-Centric Action Frames for Vision-Language-Action Models",
+        "DreamAvoid: Critical-Phase Test-Time Dreaming to Avoid Failures in VLA Policies",
+        "OOM-Free Alpamayo via CPU-GPU Memory Swapping for Vision-Language-Action Models",
+        "Dynamic Execution Commitment of Vision-Language-Action Models",
+        "RIO: Flexible Real-Time Robot I/O for Cross-Embodiment Robot Learning",
+        "The DAWN of World-Action Interactive Models",
+        "Offline Policy Evaluation for Manipulation Policies via Discounted Liveness Formulation",
+        "Overcoming Dynamics-Blindness: Training-Free Pace-and-Path Correction for VLA Models",
+        "3D-Belief: Embodied Belief Inference via Generative 3D World Modeling",
+        "RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking",
+        "SEVO: Semantic-Enhanced Virtual Observation for Robust VLA Manipulation via Active Illumination and Data-Centric Collection",
+        "HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models",
+        "PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models",
+        "CapVector: Learning Transferable Capability Vectors in Parametric Space for Vision-Language-Action Models",
+        "Is Your Driving World Model an All-Around Player?",
+        "Unified Noise Steering for Efficient Human-Guided VLA Adaptation",
+        "ALAM: Algebraically Consistent Latent Transitions for Vision-Language-Action Models",
+        "DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving",
+        "VEGA: Visual Encoder Grounding Alignment for Spatially-Aware Vision-Language-Action Models",
+        "CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving",
+        "How Mobile World Model Guides GUI Agents?",
+        "Data-Asymmetric Latent Imagination and Reranking for 3D Robotic Imitation Learning",
+        "Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs",
+        "StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception"
+      ]
     }
   ]
 }
