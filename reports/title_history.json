@@ -306,6 +306,37 @@
         "Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs",
         "StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception"
       ]
+    },
+    {
+      "run_at": "2026-05-15T04:45:43Z",
+      "lookback_days": 2,
+      "paper_count": 24,
+      "titles": [
+        "Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction",
+        "Pelican-Unified 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action",
+        "Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model",
+        "Slot-MPC: Goal-Conditioned Model Predictive Control with Object-Centric Representations",
+        "FU-MPC: Frontier- and Uncertainty-Aware Model Predictive Control for Efficient and Accurate UAV Exploration with Motorized LiDAR",
+        "IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification",
+        "Learning Cross-Coupled and Regime Dependent Dynamics for Aerial Manipulation",
+        "EponaV2: Driving World Model with Comprehensive Future Reasoning",
+        "TeachAnything: A Multimodal Crowdsourcing Platform for Training Embodied AI Agents in Symmetrical Reality",
+        "When Robots Do the Chores: A Benchmark and Agent for Long-Horizon Household Task Execution",
+        "Coding Agent Is Good As World Simulator",
+        "MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving",
+        "Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs",
+        "FrameSkip: Learning from Fewer but More Informative Frames in VLA Training",
+        "TinySDP: Real Time Semidefinite Optimization for Certifiable and Agile Edge Robotics",
+        "Learning POMDP World Models from Observations with Language-Model Priors",
+        "Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models",
+        "AttenA+: Rectifying Action Inequality in Robotic Foundation Models",
+        "RotVLA: Rotational Latent Action for Vision-Language-Action Model",
+        "BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning",
+        "What Limits Vision-and-Language Navigation ?",
+        "D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models",
+        "Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models",
+        "What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models"
+      ]
     }
   ]
 }
