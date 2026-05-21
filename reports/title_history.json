@@ -343,6 +343,29 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-05-21T05:06:29Z",
+      "lookback_days": 2,
+      "paper_count": 16,
+      "titles": [
+        "Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs",
+        "PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction",
+        "A Terrain-Adaptive epsilon-Constraint MPC for Uneven Terrain Kinodynamic Planning",
+        "Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving",
+        "Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation",
+        "VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of Vision-Language-Action Models",
+        "GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation",
+        "VBT-MPC: Vision-Based Tactile MPC for Contour Following",
+        "Beyond Binary Success: A Diagnostic Meta-Evaluation Framework for Fine-Grained Manipulation",
+        "World-Ego Modeling for Long-Horizon Evolution in Hybrid Embodied Tasks",
+        "RoHIL: Robust Human-in-the-Loop Robotic Reinforcement Learning Against Illumination Variations",
+        "RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models",
+        "HEAT: Heterogeneous End-to-End Autonomous Driving via Trajectory-Guided World Models",
+        "FlyMirage: A Fully Automated Generation Pipeline for Diverse and Scalable UAV Flight Data via Generative World Model",
+        "PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models",
+        "SafeAlign-VLA: A Negative-Enhanced Safe Alignment Framework for Risk-Aware Autonomous Driving"
+      ]
     }
   ]
 }
