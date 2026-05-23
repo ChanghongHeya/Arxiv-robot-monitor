@@ -366,6 +366,23 @@
         "PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models",
         "SafeAlign-VLA: A Negative-Enhanced Safe Alignment Framework for Risk-Aware Autonomous Driving"
       ]
+    },
+    {
+      "run_at": "2026-05-23T04:35:38Z",
+      "lookback_days": 2,
+      "paper_count": 10,
+      "titles": [
+        "GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations",
+        "From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model",
+        "Branch-Stochastic Model Predictive Control for Motion Planning under Multi-Modal Uncertainty with Scenario Clustering",
+        "Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts",
+        "Terminal Constraint Model Predictive Control for Image-Based Visual Servoing of UAVs with Kalman Filter-Based Moment Loss Compensation",
+        "How can reasoning capability empower the AI copilot robot in endoscopic surgery",
+        "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action",
+        "Action with Visual Primitives",
+        "Beyond Euclidean Proximity: Repairing Latent World Models with Horizon-Matched Trajectory Reachability Metrics",
+        "LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model"
+      ]
     }
   ]
 }
