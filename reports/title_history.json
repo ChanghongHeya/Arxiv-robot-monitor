@@ -383,6 +383,12 @@
         "Beyond Euclidean Proximity: Repairing Latent World Models with Horizon-Matched Trajectory Reachability Metrics",
         "LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model"
       ]
+    },
+    {
+      "run_at": "2026-05-25T05:17:15Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }

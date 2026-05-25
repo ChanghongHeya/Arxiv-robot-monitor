@@ -4,21 +4,10 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-05-23 04:35 UTC
-- Relevant papers: 10
+- Updated at: 2026-05-25 05:17 UTC
+- Relevant papers: 0
 
-| Title | Type | Authors |
-|---|---|---|
-| [GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations](https://arxiv.org/abs/2605.22812) | Robot Foundation / VLA | Wenxuan Guo, Ziyuan Li, Meng Zhang, Yichen Liu, Yimeng Dong, Chuxi Xu, Yunfei Wei, Ze Chen, Erjin Zhou, Jianjiang Feng |
-| [From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model](https://arxiv.org/abs/2605.22671) | Robot Foundation / VLA | Bing Hu, Zaijing Li, Rui Shao, Junda Chen, April Hua Liu, Wei-Shi Zheng, Liqiang Nie |
-| [Branch-Stochastic Model Predictive Control for Motion Planning under Multi-Modal Uncertainty with Scenario Clustering](https://arxiv.org/abs/2605.22600) | World Model | Zekun Xing, Ramkrishna Chaudhari, Marion Leibold, Dirk Wollherr, Martin Buss |
-| [Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts](https://arxiv.org/abs/2605.22446) | Robot Foundation / VLA | Zhen Sun, Yongjian Guo, Haoran Sun, Luqiao Wang, Wei Lu, Jiachi Ji, Shengzhe Ji, Junwu Xiong, Zhijun Meng |
-| [Terminal Constraint Model Predictive Control for Image-Based Visual Servoing of UAVs with Kalman Filter-Based Moment Loss Compensation](https://arxiv.org/abs/2605.22443) | World Model | X. Wang, Y. Cao, W. L. W. Leong, Y. R. Tan, S. Huang, S. H. R. Teo, C. Xiang |
-| [How can reasoning capability empower the AI copilot robot in endoscopic surgery](https://arxiv.org/abs/2605.22322) | Robot Foundation / VLA | Guankun Wang, Long Bai, Hongliang Ren |
-| [Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](https://arxiv.org/abs/2605.22283) | Robot Foundation / VLA | Pengteng Li, Weiyu Guo, He Zhang, Tiefu Cai, Xiao He, Yandong Guo, Hui Xiong |
-| [Action with Visual Primitives](https://arxiv.org/abs/2605.22183) | Robot Foundation / VLA | Weilong Guo, Yuchen Wang, Renping Zhou, Yunfeng Zhang, Rui Fang, Yue Meng, Wenda Xu, Yuan He, Gao Huang |
-| [Beyond Euclidean Proximity: Repairing Latent World Models with Horizon-Matched Trajectory Reachability Metrics](https://arxiv.org/abs/2605.22164) | World Model | Liangyu Li, Shengzhi Wang, Qingwen Liu |
-| [LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model](https://arxiv.org/abs/2605.22089) | Robot Foundation / VLA | Xiaodong Mei, Diankun Zhang, Hongwei Xie, Guang Chen, Hangjun Ye, Dan Xu |
+最近时间窗口内没有筛选到相关论文。
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：
