@@ -389,6 +389,26 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-05-27T05:12:00Z",
+      "lookback_days": 2,
+      "paper_count": 13,
+      "titles": [
+        "Riding the Shifting Potential: When Reactive Control Suffices for Multi-Goal Behavior",
+        "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies",
+        "Can VLA Models Learn from Real-World Data Continually without Forgetting?",
+        "When Does LeJEPA Learn a World Model?",
+        "Scaling World-Model Reinforcement Learning Through Diffusion Policy Optimization",
+        "AgentGrounder: Zero-Shot 3D Visual Pointcloud Grounding using Multimodal Language Models",
+        "Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models",
+        "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation",
+        "OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation",
+        "Rethinking VLM Representation for VLA Initialization",
+        "Compliant Non-Prehensile Pushing Manipulation",
+        "Back to Parsimonious Latents: Learning Task-Centric World Models from Visual Foundations",
+        "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models"
+      ]
     }
   ]
 }
