@@ -4,24 +4,10 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-05-27 05:12 UTC
-- Relevant papers: 13
+- Updated at: 2026-05-31 05:14 UTC
+- Relevant papers: 0
 
-| Title | Type | Authors |
-|---|---|---|
-| [Riding the Shifting Potential: When Reactive Control Suffices for Multi-Goal Behavior](https://arxiv.org/abs/2605.27314) | World Model | Vito Mengers, Oliver Brock |
-| [FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies](https://arxiv.org/abs/2605.27284) | Robot Foundation / VLA | Xintong Hu, Xuhong Huang, Jinyu Zhang, Yutong Yao, Yuchong Sun, Qiuyue Wang, Mingsheng Li, Sicheng Xie, Yitao Liu, Junhao Chen, Yixuan Chen, Yingming Zheng, Shuai Bai, Tao Yu |
-| [Can VLA Models Learn from Real-World Data Continually without Forgetting?](https://arxiv.org/abs/2605.26820) | Robot Foundation / VLA | Jiarun Zhu, Yijun Hong, Xiaoquan Sun, Zetian Xu, Mingqi Yuan, Zhiyong Wang, Wenjun Zeng, Jiayu Chen |
-| [When Does LeJEPA Learn a World Model?](https://arxiv.org/abs/2605.26379) | World Model | David Klindt, Yann LeCun, Randall Balestriero |
-| [Scaling World-Model Reinforcement Learning Through Diffusion Policy Optimization](https://arxiv.org/abs/2605.26282) | World Model | Xiaoyuan Cheng, Wenxuan Yuan, Zhancun Mu, Yuanzhao Zhang, Yiming Yang, Hai Wang, Zhuo Sun, Che Liu |
-| [AgentGrounder: Zero-Shot 3D Visual Pointcloud Grounding using Multimodal Language Models](https://arxiv.org/abs/2605.25901) | Robot Foundation / VLA | Cuong Huynh, Maxim Popov, Denis Gridusov, Sergey Kolyubin |
-| [Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models](https://arxiv.org/abs/2605.25889) | Robot Foundation / VLA | Jianwei Tai |
-| [WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation](https://arxiv.org/abs/2605.25874) | Robot Foundation / VLA | Kaining Ying, Hengrui Hu, Siyu Ren, Jiamu Li, Fengjiao Chen, Ziwen Wang, Xuezhi Cao, Xunliang Cai, Henghui Ding |
-| [OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation](https://arxiv.org/abs/2605.25829) | Robot Foundation / VLA | Xinzhe Chen, Sihua Ren, Liqi Huang, Haowen Sun, Mingyang Li, Xingyu Chen, Zeyang Liu, Xuguang Lan |
-| [Rethinking VLM Representation for VLA Initialization](https://arxiv.org/abs/2605.25802) | Robot Foundation / VLA | Weifeng Lin, Siyuan Huang, Hao Li, Tingwei Chen, Ruichuan An, Xinyu Wei, Jianbo Liu, Hongsheng Li |
-| [Compliant Non-Prehensile Pushing Manipulation](https://arxiv.org/abs/2605.25672) | World Model | Francesco Cufino, Mario Selvaggio, Fabio Amadio, Fabio Ruggiero |
-| [Back to Parsimonious Latents: Learning Task-Centric World Models from Visual Foundations](https://arxiv.org/abs/2605.25620) | World Model | Minghao Fu, Fan Feng, Nicklas Hansen, Biwei Huang |
-| [EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models](https://arxiv.org/abs/2605.25477) | Robot Foundation / VLA | Perry Dong, Kuo-Han Hung, Tian Gao, Dorsa Sadigh, Chelsea Finn |
+最近时间窗口内没有筛选到相关论文。
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：

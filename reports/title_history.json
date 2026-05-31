@@ -409,6 +409,12 @@
         "Back to Parsimonious Latents: Learning Task-Centric World Models from Visual Foundations",
         "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models"
       ]
+    },
+    {
+      "run_at": "2026-05-31T05:14:56Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
