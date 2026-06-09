@@ -427,6 +427,39 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-06-09T05:01:00Z",
+      "lookback_days": 2,
+      "paper_count": 26,
+      "titles": [
+        "MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models",
+        "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models",
+        "Your Model Already Knows: Attention-Guided Safety Filter for Vision-Language-Action Models",
+        "ProbeAct: Probe-Guided Training-Free Failure Recovery in Vision-Language-Action Models",
+        "Physics-Aware Sparse Learning and Selective Online Adaptation for Euler-Lagrange Robot Dynamics",
+        "ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies",
+        "CT-VAM: A Cerebello-Thalamic-Inspired Vision-Action Model for Efficient Visuomotor Control",
+        "Prisma-World: Camera-Controllable Multi-Agent Video World Model",
+        "Targeting World Models to Compromise Robot Learning Pipelines",
+        "$ω$-EVA: Envision, Verify, and Act with Latent Interactive World Models",
+        "Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer",
+        "TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation",
+        "FF-JEPA: Long-Horizon Planning in World Models with Latent Planners",
+        "Back to the Familiar Future: Failure Recovery for VLA Policies via Pre-Imagined Milestone Selection",
+        "MotionWAM: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation",
+        "Bridging the Agent-World Gap: Text World Models for LLM-based Agents",
+        "Scaling by Diversified Experience for Vision-Language-Action Models",
+        "C$^3$ache: Accelerating World Action Models with Cross Inference Chunk Cache",
+        "Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis",
+        "Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks",
+        "Safe, Fluent and Acceptable Motion Generation and Execution for Human--Robot Interaction in Manufacturing Environments",
+        "Dream-Tac: A Unified Tactile World Action Model for Contact-Rich Robot Manipulation",
+        "BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving",
+        "FiberTune: Preserving Action-Fiber Visual Residuals in Vision-Language-Action Fine-Tuning",
+        "GEAR-VLA: Learning Geometry-Aware Action Representations for Generalizable Robotic Manipulation",
+        "Two Bridges, One Pathway: From VLMs to Generalizable VLAs with Embodied Trajectory-Coupled Data"
+      ]
     }
   ]
 }
