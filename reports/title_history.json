@@ -460,6 +460,39 @@
         "GEAR-VLA: Learning Geometry-Aware Action Representations for Generalizable Robotic Manipulation",
         "Two Bridges, One Pathway: From VLMs to Generalizable VLAs with Embodied Trajectory-Coupled Data"
       ]
+    },
+    {
+      "run_at": "2026-06-11T05:25:33Z",
+      "lookback_days": 2,
+      "paper_count": 26,
+      "titles": [
+        "World Pilot: Steering Vision-Language-Action Models with World-Action Priors",
+        "VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving",
+        "APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies",
+        "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy",
+        "Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering",
+        "Making Foresight Actionable: Repurposing Representation Alignment in World Action Models",
+        "Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning",
+        "DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model",
+        "World Model Self-Distillation: Training World Models to Solve General Tasks",
+        "When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models",
+        "DuoBench: A Reproducible Benchmark for Bimanual Manipulation in Simulation and the Real World",
+        "TacCoRL: Integrating Tactile Feedback into VLA via Simulation",
+        "Dynamic Execution Horizon Prediction for Chunk-based Robot Policies",
+        "PLUME: Probabilistic Latent Unified World Modeling and Parameter Estimation for Multi-Finger Manipulation",
+        "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models",
+        "TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation",
+        "WorldOlympiad: Can Your World Model Survive a Triathlon?",
+        "Monte Carlo Pass Search: Using Trajectory Generation for 3D Counterfactual Pass Evaluation in Football",
+        "LIBERO-Occ: Evaluating and Improving Vision-Language-Action Models under Scene-Induced Occlusion via Viewpoint Imagination",
+        "MODIP: Efficient Model-Based Optimization for Diffusion Policies",
+        "IMPACT: Learning Internal-Model Predictive Control for Forceful Robotic Manipulation",
+        "Beyond APIs: Probing the Limits of MLLMs in Physical Tool Use",
+        "Dexterous Point Policy: Learning Point-based Dexterous Hand Policies from Human Demonstrations",
+        "VeriSpace: Spatially Grounded Action Verification for Vision-Language-Action Models",
+        "Uncovering Vulnerability of Vision-Language-Action Models under Joint-Level Physical Faults",
+        "Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models"
+      ]
     }
   ]
 }
