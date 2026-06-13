@@ -493,6 +493,26 @@
         "Uncovering Vulnerability of Vision-Language-Action Models under Joint-Level Physical Faults",
         "Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models"
       ]
+    },
+    {
+      "run_at": "2026-06-13T05:18:01Z",
+      "lookback_days": 2,
+      "paper_count": 13,
+      "titles": [
+        "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers",
+        "$\\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation",
+        "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
+        "SPARC: Reliable Spatial Annotations from Robot Demonstrations at Scale",
+        "NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation",
+        "VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models",
+        "GIVE: Grounding Human Gestures in Vision-Language-Action Models",
+        "See Selectively, Act Adaptively: Dual-Level Structural Decomposition for Bimanual Robot Manipulation",
+        "Scale Buys Interpolation, Structure Buys a Horizon: Certified Predictability for Equivariant World Models",
+        "EA-WM: Event-Aware World Models with Task-Specification Grounding for Long-Horizon Manipulation",
+        "Diffusion Transformer World-Action Model for AV Scene Prediction",
+        "Trajectory-Level Redirection Attacks on Vision-Language-Action Models",
+        "SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation"
+      ]
     }
   ]
 }
