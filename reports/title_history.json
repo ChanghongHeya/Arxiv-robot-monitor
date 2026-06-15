@@ -513,6 +513,12 @@
         "Trajectory-Level Redirection Attacks on Vision-Language-Action Models",
         "SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation"
       ]
+    },
+    {
+      "run_at": "2026-06-15T06:19:34Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
