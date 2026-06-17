@@ -519,6 +519,45 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-06-17T06:06:30Z",
+      "lookback_days": 2,
+      "paper_count": 32,
+      "titles": [
+        "Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion",
+        "Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
+        "EgoCS-400K: An Egocentric Gameplay Dataset for World Models",
+        "WireCraft: A Simulation Benchmark for Industrial DLO Manipulation",
+        "Uncertainty Quantification for Flow-Based Vision-Language-Action Models",
+        "ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation",
+        "PearlVLA: Progressive Embodied Action-Plan Refinement in Latent Space",
+        "WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT",
+        "Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models",
+        "ActWorld: From Explorable to Interactive World Model via Action-Aware Memory",
+        "MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation",
+        "OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation",
+        "GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning",
+        "WeaveLA: Event Driven Cross-Subtask Latent Memory Weaving for Repetitive Robot Manipulation",
+        "ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining",
+        "T-Rex: Tactile-Reactive Dexterous Manipulation",
+        "Geometric Action Model for Robot Policy Learning",
+        "R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies",
+        "Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation",
+        "ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning",
+        "DreamX-World 1.0: A General-Purpose Interactive World Model",
+        "ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments",
+        "DataLadder: A Simulation-Enabled Interconversion Toolchain for the Embodied Data Pyramid",
+        "Medical world models: representing medical states, modelling clinical dynamics and guiding intervention policies",
+        "ARB4WM: An Adversarial Robustness Benchmark for World Models in Continuous Control",
+        "Kairos: A Native World Model Stack for Physical AI",
+        "APEX: Adaptive Policy Execution for Precise Manipulation",
+        "BRICKS-WM: Building Reusability via Interface Composition Kinetics for Structured World Models",
+        "HOLO-MPPI: Multi-Scenario Motion Planning via Hierarchical Policy Optimization",
+        "An Augmented Reality Brain-Robot Interface for Generalist Robot Arm Manipulation",
+        "FlowMPC: Improving Flow Matching policies with World Models",
+        "GraphWorld: Long-Horizon Planning with World Models for End-to-End Autonomous Driving"
+      ]
     }
   ]
 }
