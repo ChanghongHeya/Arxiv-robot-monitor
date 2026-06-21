@@ -558,6 +558,12 @@
         "FlowMPC: Improving Flow Matching policies with World Models",
         "GraphWorld: Long-Horizon Planning with World Models for End-to-End Autonomous Driving"
       ]
+    },
+    {
+      "run_at": "2026-06-21T05:57:39Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
