@@ -564,6 +564,41 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-06-23T04:56:12Z",
+      "lookback_days": 2,
+      "paper_count": 28,
+      "titles": [
+        "LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models",
+        "LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation",
+        "Flatness Preserves Instruction Following in Vision-Language-Action Models",
+        "dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion Vision-Language-Action Models",
+        "RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models",
+        "A Watermark for Vision-Language-Action and World Action Models",
+        "BiliVLA: Scene-Aware Vision-Language-Action Model with Reinforcement Learning for Autonomous Biliary Endoscopic Navigation",
+        "SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors",
+        "Flowing With Purpose: Latent Action Guided Flow Matching Policies For Robotic Manipulation",
+        "From Pixels to Concepts: Growing Rich 3D Semantic Scene Graph Forests utilizing Foundation Models",
+        "IOI: Decoupling Kinematics and Physics for Interactive World Models",
+        "Causal Reward World Models: Zero-shot Reward Design for Automated Skill Generation",
+        "P-JEPA: Procedural Video Representation Learning via Joint Embedding Predictive Architecture",
+        "Assistron: Bayesian Shared Autonomy with Off-the-shelf Vision-Language-Action Models",
+        "Flow as Flow: Modeling Robot Velocity Fields as Probability Velocity Fields for Flow-Based Object Manipulation",
+        "Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents",
+        "AdaReP:Adaptive Re-Planning under Model Mismatch for Neural World-Model Predictive Control",
+        "Attacking the Trusted Imagination: Oracle-Level Integrity Attacks on Imagine-then-Act World Models",
+        "Intend, Reflect, Refine: An Adaptive Multimodal Reflection Framework for Autonomous Driving",
+        "HiL-ResRL: A Model-Agnostic Finetuning Adapter via Human-in-the-loop Residual Reinforcement Learning",
+        "Cloak: Zero-Shot Cross-Embodiment Manipulation by Masking the End-Effector from the VLA",
+        "Active Inference as the Test-Time Scaling Law for Physical AI Agents",
+        "UniFS: Unified Fast-to-Slow Hierarchical Architecture for Vision-Language-Action Models",
+        "Temporal Logic Guidance for Action-Only Diffusion Policies with World Models",
+        "PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models",
+        "Imagine to Ensure Safety in Hierarchical Reinforcement Learning",
+        "Self-Evolving Cognitive Framework via Causal World Modeling for Embodied Scientific Intelligence",
+        "Reference-Free Assessment of Physical Consistency in World Model-based Video Generation"
+      ]
     }
   ]
 }
