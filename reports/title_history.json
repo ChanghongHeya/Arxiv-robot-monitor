@@ -599,6 +599,38 @@
         "Self-Evolving Cognitive Framework via Causal World Modeling for Embodied Scientific Intelligence",
         "Reference-Free Assessment of Physical Consistency in World Model-based Video Generation"
       ]
+    },
+    {
+      "run_at": "2026-06-25T05:00:46Z",
+      "lookback_days": 2,
+      "paper_count": 25,
+      "titles": [
+        "Learning Action Priors for Cross-embodiment Robot Manipulation",
+        "ForceBand: Learning Forceful Manipulation with sEMG",
+        "In-Context World Modeling for Robotic Control",
+        "FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation",
+        "Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models",
+        "USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning",
+        "ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models",
+        "Event-Adaptive Motion Planning with Distilled Vision-Language Model in Safety-Critical Situations",
+        "WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning",
+        "Beyond One-Size-Fits-All: Diagnosis-Driven Online Reinforcement Learning with Offline Priors",
+        "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
+        "Beyond Next-Observation Prediction: Agent-Authored World Modeling for Sequential Decision Making",
+        "Decoupling Semantics and Geometric Grounding: Spatial Visual Prompts for Language-Conditioned Imitation Learning",
+        "Reflective VLA: In-Context Action Consequences Make VLAs Generalize",
+        "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+        "World Models in Pieces: Structural Certification for General Agents",
+        "MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models",
+        "Compact Object-Level Representations with Open-Vocabulary Understanding for Indoor Visual Relocalization",
+        "World Value Models for Robotic Manipulation",
+        "Solving Markov Decision Processes with Future Information via MPC",
+        "Qwen-AgentWorld: Language World Models for General Agents",
+        "G$^3$VLA: Geometric inductive bias for Vision-Language-Action Models",
+        "Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos",
+        "Grounding Generative Policies in Physics: Optimization-Guided Diffusion for Robot Control",
+        "Autonomous Video Generation with Counterfactual Controllability for Self-Evolving World Models"
+      ]
     }
   ]
 }
