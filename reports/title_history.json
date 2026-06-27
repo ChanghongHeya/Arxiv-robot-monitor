@@ -631,6 +631,27 @@
         "Grounding Generative Policies in Physics: Optimization-Guided Diffusion for Robot Control",
         "Autonomous Video Generation with Counterfactual Controllability for Self-Evolving World Models"
       ]
+    },
+    {
+      "run_at": "2026-06-27T04:49:31Z",
+      "lookback_days": 2,
+      "paper_count": 14,
+      "titles": [
+        "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+        "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays",
+        "PhysiFormer: Learning to Simulate Mechanics in World Space",
+        "RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection",
+        "LA4VLA: Learning to Act without Seeing via Language-Action Pretraining",
+        "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
+        "Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
+        "DMuon: Efficient Distributed Muon Training with Near-Adam Overhead",
+        "PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies",
+        "PAMAE: Phase-Aware-MoE Action Experts Towards Reliable Flow-Matching Vision-Language-Action Policies",
+        "ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models",
+        "Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds",
+        "Improving Vision-Language-Action Model Fine-Tuning with Structured Stage and Keyframe Supervision",
+        "PhysEditWorld: A Large-Scale Dataset Toward Physics-Editable World Models"
+      ]
     }
   ]
 }
