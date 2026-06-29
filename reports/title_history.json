@@ -652,6 +652,12 @@
         "Improving Vision-Language-Action Model Fine-Tuning with Structured Stage and Keyframe Supervision",
         "PhysEditWorld: A Large-Scale Dataset Toward Physics-Editable World Models"
       ]
+    },
+    {
+      "run_at": "2026-06-29T05:26:40Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
