@@ -658,6 +658,44 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-07-01T05:18:46Z",
+      "lookback_days": 2,
+      "paper_count": 31,
+      "titles": [
+        "DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation",
+        "AdaJEPA: An Adaptive Latent World Model",
+        "Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments",
+        "OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation",
+        "Adapting Generalist Robot Policies with Semantic Reinforcement Learning",
+        "Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models",
+        "UniTacVLA: Unified Tactile Understanding and Prediction in Vision Language Action Models",
+        "World-Model Collapse as a Phase Transition",
+        "One Video, One World: Turning Monocular Video into Physical 4D Scenes",
+        "Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation",
+        "3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance",
+        "Delta-JEPA: Learning Action-Sensitive World Models via Latent Difference Decoding",
+        "ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving",
+        "Long-term Traffic Simulation via Structured Autoregressive Modeling",
+        "Diffusion-based 4D Trajectory Prediction and Distributed Control for UAV Swarms",
+        "MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents",
+        "Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving",
+        "A Modular Vision-Language-Action Robotics Framework for Indoor Environments",
+        "ELASTIC: Efficiently Learning to Adaptively Scale Test-Time Compute for Generative Control Policies",
+        "Self-Evolving World Models for LLM Agent Planning",
+        "Sequential Planning via Anchored Robotic Keypoints",
+        "Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision",
+        "Vision-Language-Action Models: Experimental Insights from a Real-World UR5 Platform",
+        "OWMDrive: Causality-Aware End-to-End Autonomous Driving via 4D Occupancy World Model",
+        "Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation",
+        "SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance",
+        "OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model",
+        "Pondering the Way: Spatial-perceiving World Action Model for Embodied Navigation",
+        "Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models",
+        "LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving",
+        "The CRISTAL Method: Neurosymbolic analysis from AI-synthesized world models"
+      ]
     }
   ]
 }
