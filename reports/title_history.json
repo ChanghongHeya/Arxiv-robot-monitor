@@ -696,6 +696,12 @@
         "LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving",
         "The CRISTAL Method: Neurosymbolic analysis from AI-synthesized world models"
       ]
+    },
+    {
+      "run_at": "2026-07-05T04:52:55Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
