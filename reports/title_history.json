@@ -702,6 +702,40 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-07-07T04:45:59Z",
+      "lookback_days": 2,
+      "paper_count": 27,
+      "titles": [
+        "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+        "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
+        "Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation",
+        "Multiplayer Interactive World Models with Representation Autoencoders",
+        "MoP-JEPA: Hard-Assigned Predictor Mixtures for Stochastic JEPA World Models",
+        "Green for Go, Red for No: Visual Grounding via Semantic Segmentation for VLA Navigation Policies",
+        "InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization",
+        "Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Control",
+        "DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation",
+        "PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis",
+        "CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models",
+        "Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning",
+        "KAM-WM: Kinematic Affordance Maps from Latent World Models for Robot Manipulation",
+        "PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving",
+        "SEAM: Smooth Execution of Action-Chunked Motion for Vision-Language-Action Policies",
+        "Simple-to-Complex Structured Demonstrations for Vision-Language-Action Learning",
+        "Mask2Real-WM: Segmentation Masks as a Sim-to-Real Bridge for Controllable Dexterous World Models",
+        "CRISP: A Spatiotemporal Camera-Radar Backbone for Driving via Forecasting-Based World-Model Pretraining",
+        "VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models",
+        "Operator-on-F complements value-equivalence: a planning-time diagnostic for latent world models",
+        "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
+        "ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI",
+        "Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling",
+        "Last-Meter Precision Navigation for UAVs: A Diffusion-Refined Aerial Visual Servoing Approach",
+        "GPU-Accelerated Polygonal Signed Distance Functions for Real-Time Collision Avoidance",
+        "XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control",
+        "!Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics"
+      ]
     }
   ]
 }
