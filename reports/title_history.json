@@ -736,6 +736,37 @@
         "XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control",
         "!Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics"
       ]
+    },
+    {
+      "run_at": "2026-07-09T04:47:39Z",
+      "lookback_days": 2,
+      "paper_count": 24,
+      "titles": [
+        "Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation",
+        "Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting",
+        "Initiation Safety: A Missing Dimension in Generalist-Robot Safety",
+        "Multi-Agent Robotic Control with Onboard Vision-Language Models",
+        "TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation",
+        "Safe Reinforcement Learning using Ideas from Model Predictive Control",
+        "Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators",
+        "Ace! Motion Planning of Professional-Level Table Tennis Serves with a Robot Arm",
+        "WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time",
+        "Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review",
+        "NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation",
+        "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
+        "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
+        "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
+        "Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning",
+        "SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models",
+        "A Definition and Roadmap for World Models",
+        "Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement",
+        "Optimal Transport Q-Learning for Flow Policy Steering and Acceleration",
+        "Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition",
+        "MoWorld: A Flash World Model",
+        "MP-MPPI: A Motion Primitive Guided Sampling-Based Optimizer for Model Predictive Control",
+        "Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure",
+        "DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control"
+      ]
     }
   ]
 }
