@@ -767,6 +767,19 @@
         "Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure",
         "DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control"
       ]
+    },
+    {
+      "run_at": "2026-07-11T04:08:52Z",
+      "lookback_days": 2,
+      "paper_count": 6,
+      "titles": [
+        "FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation",
+        "Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents",
+        "WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving",
+        "Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix",
+        "TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning",
+        "LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action"
+      ]
     }
   ]
 }
