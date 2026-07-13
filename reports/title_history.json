@@ -780,6 +780,12 @@
         "TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning",
         "LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action"
       ]
+    },
+    {
+      "run_at": "2026-07-13T04:27:00Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
