@@ -786,6 +786,31 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-07-15T03:55:08Z",
+      "lookback_days": 2,
+      "paper_count": 18,
+      "titles": [
+        "DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation",
+        "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models",
+        "ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning",
+        "ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning",
+        "Hy-Embodied-VLM-1.0: Efficient Physical-World Agents",
+        "Autonomous Tracking and Terminal Guidance of Moving Targets for Fixed-Wing UAVs",
+        "Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference",
+        "TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors",
+        "VistaVLA: Geometry- and Semantic-Aware 3D Gaussian-Grounded VLA for Robotic Manipulation",
+        "MobileSAM2: Lightweight Segment Anything for Spatial Intelligence",
+        "Reducing Temporal Redundancy for Efficient Vision-Language-Action Inference",
+        "From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence",
+        "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model",
+        "WarpMPC: Large-Batch MPC on GPU via ADMM with Unrolled $LDL^\\top$ Factorization",
+        "See like a Robot: Robot-Centric Pointmaps for Vision-Language-Action Models",
+        "WALA Learning Executable Latent Actions from Action-Labeled Demonstrations and Action-Free Videos",
+        "Towards Predictive, Aligned, and Scalable Robot Learning",
+        "VIA: Visual Interface Agent for Robot Control"
+      ]
     }
   ]
 }
