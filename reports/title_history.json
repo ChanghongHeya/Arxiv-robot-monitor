@@ -811,6 +811,43 @@
         "Towards Predictive, Aligned, and Scalable Robot Learning",
         "VIA: Visual Interface Agent for Robot Control"
       ]
+    },
+    {
+      "run_at": "2026-07-17T03:57:00Z",
+      "lookback_days": 2,
+      "paper_count": 30,
+      "titles": [
+        "Hierarchical Denoising For Multi-Step Visual Reasoning",
+        "RoboTTT: Context Scaling for Robot Policies",
+        "Concept-Guided Spatial Regularization for World Models in Atari Pong",
+        "DriftWorld: Fast World Modeling through Drifting",
+        "CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking",
+        "AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight",
+        "Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation",
+        "FoMoVLA: Bridging Visual Foresight and Motion Guidance for Vision-Language-Action Models",
+        "Lights, Camera, Malfunction: When Illumination Robustness Leaves VLA Models Blind to Color",
+        "Reflex: Real-Time VLA Control through Streaming Inference",
+        "Action QFormer: Structured Representation Shaping under Action Supervision in Vision-Language-Action Models",
+        "Representation-Aligned Tactile Grounding for Contact-Rich Robotic Manipulation",
+        "Active Real-World Factor-Based Evaluation for Generalist Robot Policies",
+        "DiMaS: Distribution Matching for Steering Vision-Language-Action Models",
+        "Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection",
+        "M$^\\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming",
+        "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch",
+        "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
+        "S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving",
+        "Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning",
+        "Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning",
+        "Towards Spatial Supersensing in the Wild",
+        "Design and Control of the \"QuadBoat\": A Quadruped Surface Vehicle for Drowning Rescue",
+        "UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following",
+        "The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models",
+        "When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models",
+        "Semantic Anchoring for Robotic Action Representations",
+        "Grounded world models in biological organisms and future embodied AI",
+        "Learning Physics-Guided Residual Dynamics for Deformable Object Simulation",
+        "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment"
+      ]
     }
   ]
 }
