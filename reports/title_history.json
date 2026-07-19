@@ -848,6 +848,12 @@
         "Learning Physics-Guided Residual Dynamics for Deformable Object Simulation",
         "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment"
       ]
+    },
+    {
+      "run_at": "2026-07-19T04:18:40Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
