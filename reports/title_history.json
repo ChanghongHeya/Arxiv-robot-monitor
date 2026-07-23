@@ -874,6 +874,28 @@
         "GeoWorldAD: Geometry World Action Model for Autonomous Driving",
         "HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis"
       ]
+    },
+    {
+      "run_at": "2026-07-23T04:11:19Z",
+      "lookback_days": 2,
+      "paper_count": 15,
+      "titles": [
+        "Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats",
+        "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids",
+        "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
+        "LAVIFT: Latent-Action-Guided Vision Fine-Tuning for Surgical Interaction Recognition",
+        "KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding",
+        "Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning",
+        "Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination",
+        "LENS: LLM-guided Environment Simplification for Planning and Control in Clutter",
+        "Masked Visual Actions for Unified World Modeling",
+        "Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents",
+        "NaviAIS: A Scenario-Level Vessel Trajectory Prediction Dataset withVectorized Lane Priors and the NaviLane Forecasting Framework",
+        "Koopman DCM: Unstable Eigenfunctions as Data-driven Representations for Legged Balancing",
+        "DWM: Separating World Effects from Actions in Latent World Models",
+        "RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation",
+        "Do AI-Native Biotechs Need Departments? Benchmarking Company World Models for AI-Driven Drug Development"
+      ]
     }
   ]
 }
