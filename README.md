@@ -4,26 +4,13 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-07-23 04:11 UTC
-- Relevant papers: 15
+- Updated at: 2026-07-25 03:59 UTC
+- Relevant papers: 2
 
 | Title | Type | Authors |
 |---|---|---|
-| [Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats](https://arxiv.org/abs/2607.20352) | World Model | Alejandro Gonzalez-Garcia, Wei Wang, Wei Xiao, Wilm Decre, Jan Swevers, Carlo Ratti, Daniela Rus |
-| [Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids](https://arxiv.org/abs/2607.20345) | Robot Foundation / VLA | Roger Sala Sisó, Tiago Silvério, Jakob Sand, Tran Nguyen Le |
-| [ReferTrack: Referring Then Tracking for Embodied Visual Tracking](https://arxiv.org/abs/2607.20061) | Robot Foundation / VLA | Hanjing Ye, Tianle Zeng, Jiazhao Zhang, Shaoan Wang, Zibo Zhang, Weisi Situ, Yuchen Zhou, Yonggen Ling, Hong Zhang |
-| [LAVIFT: Latent-Action-Guided Vision Fine-Tuning for Surgical Interaction Recognition](https://arxiv.org/abs/2607.19889) | World Model | Jiajun Cheng, Subarna Tripathi, Sainan Liu, Xiaofan Yu, Shan Lin |
-| [KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding](https://arxiv.org/abs/2607.19876) | Robot Foundation / VLA | Zeyu Liu, Zhangzhe Zhu, Yang Zhang, Chenyou Fan, Chenjia Bai, Xuelong Li |
-| [Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning](https://arxiv.org/abs/2607.19809) | World Model | Taisuke Takayama, Naoto Yoshida, Tadahiro Taniguchi |
-| [Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination](https://arxiv.org/abs/2607.19719) | World Model | Jiaqi Li, Xinglong Zhang, Haibin Xie, Yixing Lan, Wei Pan, Xin Xu |
-| [LENS: LLM-guided Environment Simplification for Planning and Control in Clutter](https://arxiv.org/abs/2607.19633) | Robot Foundation / VLA | Aileen Liao, Rachel Holladay, Dinesh Jayaraman, Michael Posa |
-| [Masked Visual Actions for Unified World Modeling](https://arxiv.org/abs/2607.19343) | World Model | Hadi Alzayer, Wenlong Huang, Haonan Chen, Christopher Luey, Lvmin Zhang, Maneesh Agrawala, Gordon Wetzstein, Li Fei-Fei, Yilun Du, Jiajun Wu, Jia-Bin Huang |
-| [Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents](https://arxiv.org/abs/2607.19190) | Robot Foundation / VLA | Guanxiong Chen, Qianjun Xia, Jiawei Peng, Heng Zhang, Bole Ma, Justin Qian, Ziyi Jiao, Bingyang Zhou, Luoxin Ye, Kaifeng Zhang, Kunyi Wang, Weijia Zeng, Yunuo Chen, Pengzhi Yang, Ziqiu Zeng, Huamin Wang, Chao Liu, Alan Yuille, Fan Shi, Changxi Zheng, Yunzhu Li, Chenfanfu Jiang, Peter Yichen Chen |
-| [NaviAIS: A Scenario-Level Vessel Trajectory Prediction Dataset withVectorized Lane Priors and the NaviLane Forecasting Framework](https://arxiv.org/abs/2607.18887) | Robot Foundation / VLA | Yuan Gui, Hongchen Luo, Liqi Qu, Longyue Fu, Jiao Wang |
-| [Koopman DCM: Unstable Eigenfunctions as Data-driven Representations for Legged Balancing](https://arxiv.org/abs/2607.18760) | World Model | Stéphane Caron |
-| [DWM: Separating World Effects from Actions in Latent World Models](https://arxiv.org/abs/2607.18715) | World Model | Yi-Ge Zhang, Tianqi Du, Qi Zhang, Yisen Wang |
-| [RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation](https://arxiv.org/abs/2607.18709) | Robot Foundation / VLA | Ziqin Wang, Hao Li, Weijun Wang, Junhao Cai, Jia Zeng, Yilun Chen, Jiangmiao Pang, Si Liu |
-| [Do AI-Native Biotechs Need Departments? Benchmarking Company World Models for AI-Driven Drug Development](https://arxiv.org/abs/2607.18696) | World Model | Yinan Wang |
+| [AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588) | Robot Foundation / VLA | Mengfei Zhao, Dihong Huang, Yikai Tang, Peihao Li, Mingxuan Yan, Ruiqi Zhuang, Yanjia Huang, Jie Wang, Hai Zhai, Tony Zhou, Rui Zhang, Zhexi Luo, Yuchen Huang, Jianfei Yang, Jiachen Li |
+| [HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving](https://arxiv.org/abs/2607.20988) | Robot Foundation / VLA | Quanfu Yu, Xian Wu, Hao Xu, Liulong Ma |
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：

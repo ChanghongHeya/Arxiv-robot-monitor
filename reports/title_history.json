@@ -896,6 +896,15 @@
         "RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation",
         "Do AI-Native Biotechs Need Departments? Benchmarking Company World Models for AI-Driven Drug Development"
       ]
+    },
+    {
+      "run_at": "2026-07-25T03:59:28Z",
+      "lookback_days": 2,
+      "paper_count": 2,
+      "titles": [
+        "AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation",
+        "HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving"
+      ]
     }
   ]
 }
