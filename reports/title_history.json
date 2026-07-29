@@ -905,6 +905,32 @@
         "AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation",
         "HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving"
       ]
+    },
+    {
+      "run_at": "2026-07-29T04:08:50Z",
+      "lookback_days": 2,
+      "paper_count": 19,
+      "titles": [
+        "DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models",
+        "SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models",
+        "HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone",
+        "Shared Voxel-Map-Based Cooperative Indoor UAV Guidance with a Multi-Agent Soft Actor-Critic Controller",
+        "A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models",
+        "CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model",
+        "Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control",
+        "VisualPatchWorld: Code World Models as Latent Structured Representations for Planning",
+        "Data Pyramid for Embodied Manipulation",
+        "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+        "τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision",
+        "ArmnetBench v0.1: Parallel Real-World Evaluation of Manipulation Policies on a Low-Cost Arm Farm",
+        "Model Predictive Planner for UAV Navigation in Non-Convex Air Corridors",
+        "FeelWorld: Visuo-Tactile World Model for Hierarchical Contact Prediction and Planning",
+        "DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning",
+        "A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference",
+        "Scaling GUI Agents with Visual State Transitions",
+        "Moving-Horizon Estimation and Nonlinear Model Predictive Control of Cable-Driven Soft Manipulators",
+        "FutureRTC: Real-Time Robot Execution with Anticipatory-Conditioned Action Chunking"
+      ]
     }
   ]
 }
