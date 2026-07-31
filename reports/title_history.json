@@ -931,6 +931,37 @@
         "Moving-Horizon Estimation and Nonlinear Model Predictive Control of Cable-Driven Soft Manipulators",
         "FutureRTC: Real-Time Robot Execution with Anticipatory-Conditioned Action Chunking"
       ]
+    },
+    {
+      "run_at": "2026-07-31T04:19:30Z",
+      "lookback_days": 2,
+      "paper_count": 24,
+      "titles": [
+        "ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine",
+        "QQWorld: Quantile-Quantile Matching for World Model Regularization",
+        "Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation",
+        "MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation",
+        "ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow",
+        "RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents",
+        "Learning to Understand Body Language from Flight through Robust 3D Avatar Placing",
+        "RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy",
+        "World Action Planner: Generalizable Decision-Making with Action-Conditioned World Models",
+        "Cross-Embodiment Transfer via Behavior-Aligned Representations",
+        "Failure Detection for Surgical Robot Imitation Policies via Flow-Matching World Modeling",
+        "Leveraging Trajectory Graphs for Pre-Execution Error Diagnosis in Agentic LLM Systems",
+        "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+        "Mental World Modeling",
+        "Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications",
+        "DLAM: Distributional Latent Actions with Temporal Constraints",
+        "Mitigating Compounding Error via Video Representation Regularization",
+        "RL$^2$-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models",
+        "CheckVLA: Execution-Time Verification with Action-Conditioned World Model for Long-Horizon Mobile Manipulation",
+        "CalTwin: Towards Calibrated, Shift-Robust Medical World Models via Fisher-Information Regularisation",
+        "ActSWM: Action-Sensitive World Models for Long-Horizon Planning in Open-World Games",
+        "Enfold: Folding World-Generator Computation into Predictive Representations for Efficient Embodied Control",
+        "ContactFlow: A video action conditioning that transfers across embodiments",
+        "Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models"
+      ]
     }
   ]
 }
