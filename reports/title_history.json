@@ -962,6 +962,12 @@
         "ContactFlow: A video action conditioning that transfers across embodiments",
         "Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models"
       ]
+    },
+    {
+      "run_at": "2026-08-03T04:26:26Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
