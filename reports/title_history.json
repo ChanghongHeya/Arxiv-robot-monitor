@@ -968,6 +968,39 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-08-05T03:56:03Z",
+      "lookback_days": 2,
+      "paper_count": 26,
+      "titles": [
+        "Track4Action: Distilling World-Centric 3D Tracker into Vision-Language-Action Policies",
+        "PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud",
+        "Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution",
+        "Enactive Artificial Intelligence: A Decision-Centric Architecture for Complex Systems",
+        "UniNav: A Unified World-Action Diffusion Model for Visual Navigation",
+        "Structure-Aware Robust Fine-Tuning: Defending Vision-Language-Action Robots Against Physical Attention Hijacking",
+        "DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack",
+        "How Should Vision-Language-Action Models Use Proprioceptive State?",
+        "CUDA MPC: A GPU-Native Solver for Model Predictive Control",
+        "EmbodiedVAE: Disentangled Video VAE for Efficient and Controllable Embodied Manipulation",
+        "ValueFormer: A Causal Transformer Value Function with Stage-Aware Labels for Semi-Autonomous Vision-Language-Action Policies",
+        "RealWeather: Realistic and Scene-Faithful Weather Translation with Driving World Models",
+        "Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data",
+        "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
+        "Grounded Semantic Re-Binding for Robust Instruction Generalization in Vision-Language-Action Models",
+        "DF$^3$: World Modeling via Decoder-Free Feature Forecasting in Autonomous Navigation",
+        "Faster-WAM: Do World Action Models Need Deep Action Modules?",
+        "ChainVLA: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation",
+        "Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation",
+        "Look Where It Matters: Adaptive Visual Refinement for Vision-Language-Action Models",
+        "PhyCheck: Fine-Grained Evidence-Grounded Dataset for Physical Law Understanding in Video-LLMs",
+        "ProWorld: Progress-Aware Hyperbolic World Models for Long-Horizon Visual Goal Reaching",
+        "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
+        "Multi-View Unified Camera Fields: Geometry-Shaped Action-Facing Representations for RGB-Only Multi-Camera VLA Policies",
+        "ReTouch: Empowering Contact-Rich Dexterous Manipulation with Online-Refined Tactile Prediction",
+        "Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs"
+      ]
     }
   ]
 }
