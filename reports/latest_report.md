@@ -1,290 +1,290 @@
 # arXiv Monitor Report
 
-- Generated at: 2026-08-05 03:56 UTC
+- Generated at: 2026-08-07 03:46 UTC
 - Relevant papers: 26
 
-## Track4Action: Distilling World-Centric 3D Tracker into Vision-Language-Action Policies
+## $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation
 
-- arXiv: https://arxiv.org/abs/2608.03727
-- Published: 2026-08-04
-- Queries: robot_foundation
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 80
-- Reason: 命中关键词: robot, vision language action, vla
-- Summary: 机器人大模型方向: Action labels tell a vision-language-action (VLA) policy which robot commands to imitate, but not how those commands change the 3D world。
-
-## PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud
-
-- arXiv: https://arxiv.org/abs/2608.03682
-- Published: 2026-08-04
-- Queries: robot_foundation
+- arXiv: https://arxiv.org/abs/2608.06375
+- Published: 2026-08-06
+- Queries: world_model
 - Method: heuristic
 - Topic: robot_foundation
 - Confidence: 95
-- Reason: 命中关键词: robot, vision language action, vla, world action models
-- Summary: 机器人大模型方向: Physical AI policies require inference throughout their lifecycle, including model evaluation, cloud reinforcement learning rollout, edge GPU serving, and onboard deployment。
+- Reason: 命中关键词: action model, locomotion, manipulation, robot, vla, world action model
+- Summary: 机器人大模型方向: Humanoid household tasks often require concurrent loco-manipulation, where the robot must move, adjust posture, maintain balance, and manipulate objects as a single coordinated beh。
 
-## Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution
+## DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation
 
-- arXiv: https://arxiv.org/abs/2608.03483
-- Published: 2026-08-04
+- arXiv: https://arxiv.org/abs/2608.06374
+- Published: 2026-08-06
 - Queries: robot_foundation
 - Method: heuristic
 - Topic: robot_foundation
 - Confidence: 95
 - Reason: 命中关键词: manipulation, robot, vision language action, vla
-- Summary: 机器人大模型方向: Existing chunk-based Vision-Language-Action (VLA) models execute a fixed number of actions (i.e., execution horizon) before replanning, turning replanning into a task-agnostic peri。
+- Summary: 机器人大模型方向: Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an o。
 
-## Enactive Artificial Intelligence: A Decision-Centric Architecture for Complex Systems
+## GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions
 
-- arXiv: https://arxiv.org/abs/2608.03413
-- Published: 2026-08-04
-- Queries: world_model
-- Method: heuristic
-- Topic: world_model
-- Confidence: 80
-- Reason: 命中关键词: world model, world models
-- Summary: 世界模型方向: As artificial intelligence (AI) continues to evolve and mature, recent AI practices have moved beyond large language models (LLMs) and text or image generation tasks, increasingly 。
-
-## UniNav: A Unified World-Action Diffusion Model for Visual Navigation
-
-- arXiv: https://arxiv.org/abs/2608.03244
-- Published: 2026-08-04
-- Queries: world_model
+- arXiv: https://arxiv.org/abs/2608.06332
+- Published: 2026-08-06
+- Queries: world_model, robot_foundation
 - Method: heuristic
 - Topic: robot_foundation
 - Confidence: 95
-- Reason: 命中关键词: action model, embodied, navigation, world action model, world models
-- Summary: 机器人大模型方向: Image-goal visual navigation is a fundamental capability for embodied agents。
+- Reason: 命中关键词: generalist robot, manipulation, robot, robotic, world model, world models
+- Summary: 机器人大模型方向: Generalist robot policies exhibit strong capabilities, but their robustness in complex and unseen environments remains limited。
 
-## Structure-Aware Robust Fine-Tuning: Defending Vision-Language-Action Robots Against Physical Attention Hijacking
+## EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning
 
-- arXiv: https://arxiv.org/abs/2608.03231
-- Published: 2026-08-04
-- Queries: robot_foundation
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 95
-- Reason: 命中关键词: manipulation, robotic, vision language action, vla
-- Summary: 机器人大模型方向: Vision-Language-Action (VLA) policies promise general robotic manipulation, but their robustness against physical-world attacks remains fragile。
-
-## DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack
-
-- arXiv: https://arxiv.org/abs/2608.03207
-- Published: 2026-08-04
-- Queries: robot_foundation
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 80
-- Reason: 命中关键词: robot, vision language action, vla
-- Summary: 机器人大模型方向: Flow-matching vision-language-action (VLA) models such as pi0 generate robot actions by integrating a learned denoising velocity field, and have been reported to resist adversarial。
-
-## How Should Vision-Language-Action Models Use Proprioceptive State?
-
-- arXiv: https://arxiv.org/abs/2608.03052
-- Published: 2026-08-04
-- Queries: robot_foundation
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 80
-- Reason: 命中关键词: robot, vision language action, vla
-- Summary: 机器人大模型方向: Recent Vision-Language-Action (VLA) models almost universally take robot proprioceptive state as input, yet wire it in incompatible ways -- serialized into text prompts, projected 。
-
-## CUDA MPC: A GPU-Native Solver for Model Predictive Control
-
-- arXiv: https://arxiv.org/abs/2608.03051
-- Published: 2026-08-04
-- Queries: world_model
-- Method: heuristic
-- Topic: world_model
-- Confidence: 60
-- Reason: 命中关键词: model predictive control, predictive control, robotics
-- Summary: 世界模型方向: Model Predictive Control (MPC) delivers constraint-aware control, but its reliance on online optimization limits its use on systems with fast dynamics, high-dimensional models, or 。
-
-## EmbodiedVAE: Disentangled Video VAE for Efficient and Controllable Embodied Manipulation
-
-- arXiv: https://arxiv.org/abs/2608.02990
-- Published: 2026-08-04
-- Queries: world_model
-- Method: heuristic
-- Topic: world_model
-- Confidence: 95
-- Reason: 命中关键词: embodied, manipulation, robot, robotic, world models
-- Summary: 世界模型方向: Latent diffusion models (LDMs) have recently significantly advanced embodied learning in constructing powerful embodied manipulation world models。
-
-## ValueFormer: A Causal Transformer Value Function with Stage-Aware Labels for Semi-Autonomous Vision-Language-Action Policies
-
-- arXiv: https://arxiv.org/abs/2608.02958
-- Published: 2026-08-03
-- Queries: robot_foundation
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 80
-- Reason: 命中关键词: robot, vision language action, vla
-- Summary: 机器人大模型方向: Vision-Language-Action (VLA) policies trained by behavior cloning fail silently: from the action stream alone, a collapsing rollout looks much like one making clean progress, becau。
-
-## RealWeather: Realistic and Scene-Faithful Weather Translation with Driving World Models
-
-- arXiv: https://arxiv.org/abs/2608.02953
-- Published: 2026-08-03
+- arXiv: https://arxiv.org/abs/2608.06197
+- Published: 2026-08-06
 - Queries: world_model
 - Method: heuristic
 - Topic: world_model
 - Confidence: 70
-- Reason: 命中关键词: autonomous driving, world model, world models
-- Summary: 世界模型方向: Realistic weather translation is valuable for developing and evaluating autonomous driving systems, yet collecting paired videos of the same scenes under different weather conditio。
+- Reason: 命中关键词: large language model, world model
+- Summary: 世界模型方向: Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verificatio。
 
-## Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data
+## Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features
 
-- arXiv: https://arxiv.org/abs/2608.02580
-- Published: 2026-08-03
-- Queries: robot_foundation
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 70
-- Reason: 命中关键词: manipulation, robot, vision language action
-- Summary: 机器人大模型方向: Learning generalizable robot manipulation policies requires large-scale and diverse demonstration data。
-
-## CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs
-
-- arXiv: https://arxiv.org/abs/2608.02578
-- Published: 2026-08-03
-- Queries: robot_foundation
-- Method: heuristic
-- Topic: world_model
-- Confidence: 60
-- Reason: 命中关键词: robot, world action models
-- Summary: 世界模型方向: World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual polic。
-
-## Grounded Semantic Re-Binding for Robust Instruction Generalization in Vision-Language-Action Models
-
-- arXiv: https://arxiv.org/abs/2608.02497
-- Published: 2026-08-03
-- Queries: robot_foundation
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 95
-- Reason: 命中关键词: manipulation, robotic, robotics, vision language action, vla
-- Summary: 机器人大模型方向: Vision-Language-Action (VLA) models excel in robotic manipulation but suffer catastrophic performance drops when canonical instructions are simply paraphrased。
-
-## DF$^3$: World Modeling via Decoder-Free Feature Forecasting in Autonomous Navigation
-
-- arXiv: https://arxiv.org/abs/2608.02428
-- Published: 2026-08-03
-- Queries: world_model
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 70
-- Reason: 命中关键词: foundation model, navigation, robotic
-- Summary: 机器人大模型方向: Forecasting future states from video sequences is a critical challenge for autonomous robotic systems and a fundamental objective of world modeling。
-
-## Faster-WAM: Do World Action Models Need Deep Action Modules?
-
-- arXiv: https://arxiv.org/abs/2608.02365
-- Published: 2026-08-03
+- arXiv: https://arxiv.org/abs/2608.06008
+- Published: 2026-08-06
 - Queries: world_model
 - Method: heuristic
 - Topic: world_model
 - Confidence: 95
-- Reason: 命中关键词: embodied, robot, world action models, world models
-- Summary: 世界模型方向: World Action Models (WAMs) couple robot action prediction with video world models。
+- Reason: 命中关键词: autonomous driving, world action models, world model
+- Summary: 世界模型方向: Large video diffusion models provide rich spatiotemporal priors for autonomous driving, but existing world-action models often inherit the cost of iterative future-video generation。
 
-## ChainVLA: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation
+## Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation
 
-- arXiv: https://arxiv.org/abs/2608.02326
-- Published: 2026-08-03
-- Queries: robot_foundation
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 80
-- Reason: 命中关键词: manipulation, vision language action, vla
-- Summary: 机器人大模型方向: Humans perform long-horizon manipulation by retaining knowledge of what earlier actions have established while continuously adapting the motion underway。
-
-## Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation
-
-- arXiv: https://arxiv.org/abs/2608.02257
-- Published: 2026-08-03
-- Queries: robot_foundation
-- Method: heuristic
-- Topic: robot_foundation
-- Confidence: 95
-- Reason: 命中关键词: embodied, manipulation, multimodal, robot, robotic, vision language action
-- Summary: 机器人大模型方向: Mobile manipulation is a key capability for embodied intelligence, enabling robots to accomplish complex multi-stage tasks in open-world environments。
-
-## Look Where It Matters: Adaptive Visual Refinement for Vision-Language-Action Models
-
-- arXiv: https://arxiv.org/abs/2608.02197
-- Published: 2026-08-03
+- arXiv: https://arxiv.org/abs/2608.05999
+- Published: 2026-08-06
 - Queries: robot_foundation
 - Method: heuristic
 - Topic: robot_foundation
 - Confidence: 95
 - Reason: 命中关键词: embodied, manipulation, robotic, vision language action, vla
-- Summary: 机器人大模型方向: Visual representations of VLA models remain unreliable for spatially precise robotic manipulation。
+- Summary: 机器人大模型方向: Vision-language-action (VLA) models have demonstrated remarkable capabilities in robotic manipulation by leveraging pretrained vision-language models。
 
-## PhyCheck: Fine-Grained Evidence-Grounded Dataset for Physical Law Understanding in Video-LLMs
+## SkillMemo: Expert-guided Skill Memory Framework for Compositional Embodied Manipulation
 
-- arXiv: https://arxiv.org/abs/2608.02150
-- Published: 2026-08-03
+- arXiv: https://arxiv.org/abs/2608.05970
+- Published: 2026-08-06
+- Queries: robot_foundation
+- Method: heuristic
+- Topic: robot_foundation
+- Confidence: 95
+- Reason: 命中关键词: embodied, manipulation, robotic, vision language action, vla
+- Summary: 机器人大模型方向: Embodied visuomotor models, including Diffusion Policy (DP) and Vision-Language-Action (VLA) models, have demonstrated promising performance on robotic manipulation benchmarks。
+
+## GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models
+
+- arXiv: https://arxiv.org/abs/2608.05948
+- Published: 2026-08-06
 - Queries: world_model
 - Method: heuristic
 - Topic: world_model
 - Confidence: 60
 - Reason: 命中关键词: embodied, world models
-- Summary: 世界模型方向: Embodied intelligence and world models require video understanding systems to go beyond recognizing objects and actions and develop an understanding of physical regularities。
+- Summary: 世界模型方向: Physics engines facilitate large-scale training and evaluation for embodied intelligence, while generative video world models are emerging as implicit simulators of future states a。
 
-## ProWorld: Progress-Aware Hyperbolic World Models for Long-Horizon Visual Goal Reaching
+## AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents
 
-- arXiv: https://arxiv.org/abs/2608.01926
-- Published: 2026-08-03
+- arXiv: https://arxiv.org/abs/2608.05891
+- Published: 2026-08-06
 - Queries: world_model
 - Method: heuristic
 - Topic: world_model
 - Confidence: 80
 - Reason: 命中关键词: world model, world models
-- Summary: 世界模型方向: JEPA-style visual world models offer an effective paradigm for visual goal planning by predicting future latent representations。
+- Summary: 世界模型方向: Mobile GUI agents can operate apps through pixel perception and touch actions, making them a promising interface for collecting and improving long-horizon mobile interaction polici。
 
-## Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills
+## XEWorld: Can Action-Conditioned World Models Generalize to Unseen Robot Embodiments?
 
-- arXiv: https://arxiv.org/abs/2608.01851
-- Published: 2026-08-03
+- arXiv: https://arxiv.org/abs/2608.05799
+- Published: 2026-08-06
+- Queries: world_model
+- Method: heuristic
+- Topic: world_model
+- Confidence: 95
+- Reason: 命中关键词: manipulation, robot, robotic, world models
+- Summary: 世界模型方向: Action-conditioned world models are promising learned simulators for robotic manipulation, yet evaluating them exclusively on training robots fails to reveal whether they capture p。
+
+## When Agentic AI Meets Integrated Sensing and Communication
+
+- arXiv: https://arxiv.org/abs/2608.05792
+- Published: 2026-08-06
+- Queries: world_model
+- Method: heuristic
+- Topic: robot_foundation
+- Confidence: 90
+- Reason: 命中关键词: multimodal, uav, world models
+- Summary: 机器人大模型方向: Agentic artificial intelligence (AI) is transforming Integrated Sensing and Communication (ISAC) from a function-oriented physical-layer technology into a goal-driven, closed-loop 。
+
+## In-Context VLA: Endowing Vision-Language-Action Models with Language via In-Context Post-Training and Agentic Tool Use
+
+- arXiv: https://arxiv.org/abs/2608.05738
+- Published: 2026-08-06
 - Queries: robot_foundation
 - Method: heuristic
 - Topic: robot_foundation
 - Confidence: 95
-- Reason: 命中关键词: large language model, robot, vision language action, vla
-- Summary: 机器人大模型方向: Robot learning is splitting into two bets: policies that bake competence into frozen weights (vision-language-action, or VLA, models), and agents that write and refine their own ex。
+- Reason: 命中关键词: manipulation, robot, vision language action, vla
+- Summary: 机器人大模型方向: Vision-Language-Action (VLA) models have become the dominant recipe for generalist manipulation, yet they are almost universally trained by behavior cloning: a policy imitates expe。
 
-## Multi-View Unified Camera Fields: Geometry-Shaped Action-Facing Representations for RGB-Only Multi-Camera VLA Policies
+## LAWM-3D: Learning 3D-Aware Latent Actions from Human Videos for Generalizable Robot World Models
 
-- arXiv: https://arxiv.org/abs/2608.01826
-- Published: 2026-08-03
+- arXiv: https://arxiv.org/abs/2608.05706
+- Published: 2026-08-06
+- Queries: world_model
+- Method: heuristic
+- Topic: robot_foundation
+- Confidence: 95
+- Reason: 命中关键词: embodied, foundation model, robot, world model, world models
+- Summary: 机器人大模型方向: World models enable agents to perform forward rollout and planning without real-world interaction。
+
+## DreamGuard: Efficient Runtime Guardrail for LLM Agents via Risk-Aware World Model
+
+- arXiv: https://arxiv.org/abs/2608.05695
+- Published: 2026-08-06
+- Queries: world_model
+- Method: heuristic
+- Topic: world_model
+- Confidence: 70
+- Reason: 命中关键词: large language model, world model
+- Summary: 世界模型方向: As large language model (LLM) agents increasingly invoke external tools and interact with real-world systems, unsafe actions may cause irreversible consequences on external states,。
+
+## JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment
+
+- arXiv: https://arxiv.org/abs/2608.05674
+- Published: 2026-08-06
+- Queries: world_model
+- Method: heuristic
+- Topic: world_model
+- Confidence: 80
+- Reason: 命中关键词: manipulation, robot, world model
+- Summary: 世界模型方向: Robot data is scarce, so generalist policies need to learn from heterogeneous sources, including human egocentric video, simulation, and real robots, which differ in supervision an。
+
+## Uncertainty-Aware World Model for Aerial Image-Goal Navigation
+
+- arXiv: https://arxiv.org/abs/2608.05597
+- Published: 2026-08-06
+- Queries: world_model
+- Method: heuristic
+- Topic: world_model
+- Confidence: 95
+- Reason: 命中关键词: navigation, uav, world model, world models
+- Summary: 世界模型方向: Aerial image-goal navigation requires an unmanned aerial vehicle (UAV) to reach a target location specified by a goal image。
+
+## Quantum-Structured World Models (QSWMs) for Predictive Latent Dynamics
+
+- arXiv: https://arxiv.org/abs/2608.05371
+- Published: 2026-08-05
+- Queries: world_model
+- Method: heuristic
+- Topic: world_model
+- Confidence: 60
+- Reason: 命中关键词: latent dynamics, world models
+- Summary: 世界模型方向: World models learn latent states that summarize interaction histories, evolve over time, and support prediction, simulation, or planning。
+
+## World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation
+
+- arXiv: https://arxiv.org/abs/2608.05369
+- Published: 2026-08-05
 - Queries: robot_foundation
 - Method: heuristic
 - Topic: robot_foundation
 - Confidence: 95
-- Reason: 命中关键词: manipulation, robotic, vision language action, vla
-- Summary: 机器人大模型方向: Vision-Language-Action (VLA) models have shown strong generalization in robotic manipulation, yet complex contact-rich tasks often benefit from multi-camera observations that joint。
+- Reason: 命中关键词: manipulation, robot, vision language action, vla
+- Summary: 机器人大模型方向: Vision-language-action (VLA) models often treat main-view and wrist-view observations as parallel visual inputs, overlooking their distinct roles in robot manipulation。
 
-## ReTouch: Empowering Contact-Rich Dexterous Manipulation with Online-Refined Tactile Prediction
+## BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation
 
-- arXiv: https://arxiv.org/abs/2608.01824
-- Published: 2026-08-03
+- arXiv: https://arxiv.org/abs/2608.05042
+- Published: 2026-08-05
 - Queries: robot_foundation
 - Method: heuristic
 - Topic: robot_foundation
 - Confidence: 95
-- Reason: 命中关键词: action model, manipulation, robot, vision language action, vla
-- Summary: 机器人大模型方向: Fusing tactile signals has proven effective for contact-rich manipulation, enabling robots to perceive contact states and adapt to rapidly changing physical interactions。
+- Reason: 命中关键词: manipulation, robot, robotic, vision language action, vla
+- Summary: 机器人大模型方向: Leveraging pre-trained vision-language models (VLMs) to construct vision-language-action (VLA) models has emerged as a promising paradigm for 3D robot manipulation。
 
-## Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs
+## DreamWAM: Beyond RGB Future Prediction for World Action Models
 
-- arXiv: https://arxiv.org/abs/2608.01755
-- Published: 2026-08-03
+- arXiv: https://arxiv.org/abs/2608.04996
+- Published: 2026-08-05
+- Queries: world_model
+- Method: heuristic
+- Topic: world_model
+- Confidence: 60
+- Reason: 命中关键词: manipulation, world action models
+- Summary: 世界模型方向: World Action Models (WAMs) learn action-relevant representations by predicting how the observed world will evolve。
+
+## Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models
+
+- arXiv: https://arxiv.org/abs/2608.04765
+- Published: 2026-08-05
 - Queries: robot_foundation
 - Method: heuristic
 - Topic: robot_foundation
 - Confidence: 80
-- Reason: 命中关键词: autonomous driving, vision language action, vla
-- Summary: 机器人大模型方向: Recent Vision-Language-Action (VLA) models for autonomous driving (AD) increasingly utilize chain-of-thought (CoT) supervision to enhance the reasoning capabilities of their Vision。
+- Reason: 命中关键词: robotic, vision language action, vla
+- Summary: 机器人大模型方向: Vision-language-action (VLA) models provide a unified paradigm for connecting visual perception, language understanding, and robotic control。
+
+## Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies
+
+- arXiv: https://arxiv.org/abs/2608.04692
+- Published: 2026-08-05
+- Queries: robot_foundation
+- Method: heuristic
+- Topic: robot_foundation
+- Confidence: 95
+- Reason: 命中关键词: embodied, robot, vision language action, vla
+- Summary: 机器人大模型方向: Task-vector arithmetic offers a closed-form way to modify a model, yet its behavioral locality remains unclear in closed-loop robot control。
+
+## Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models
+
+- arXiv: https://arxiv.org/abs/2608.04633
+- Published: 2026-08-05
+- Queries: robot_foundation
+- Method: heuristic
+- Topic: robot_foundation
+- Confidence: 95
+- Reason: 命中关键词: manipulation, robot, vision language action, vla
+- Summary: 机器人大模型方向: Recent Vision-Language-Action (VLA) methods improve generalization by aligning their representations with 3D scene geometry。
+
+## Retrieve in Time, Correct in Frequency
+
+- arXiv: https://arxiv.org/abs/2608.04527
+- Published: 2026-08-05
+- Queries: robot_foundation
+- Method: heuristic
+- Topic: robot_foundation
+- Confidence: 80
+- Reason: 命中关键词: manipulation, vision language action, vla
+- Summary: 机器人大模型方向: Frozen vision-language-action (VLA) policies generate temporally extended action chunks, but long-horizon manipulation remains vulnerable to accumulated execution error and visual 。
+
+## GUARD: Grounding Uncertainty and Ablation-Based Risk Detection for Diffusion-Based VLAs
+
+- arXiv: https://arxiv.org/abs/2608.04510
+- Published: 2026-08-05
+- Queries: robot_foundation
+- Method: heuristic
+- Topic: robot_foundation
+- Confidence: 90
+- Reason: 命中关键词: multimodal, vision language action, vla
+- Summary: 机器人大模型方向: Diffusion-based vision-language-action (VLA) policies can generate plausible actions even when their predictions are weakly grounded in the visual and language evidence defining th。
+
+## Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference
+
+- arXiv: https://arxiv.org/abs/2608.04428
+- Published: 2026-08-05
+- Queries: robot_foundation
+- Method: heuristic
+- Topic: robot_foundation
+- Confidence: 80
+- Reason: 命中关键词: embodied, vision language action, vla
+- Summary: 机器人大模型方向: Vision-language-action (VLA) models have emerged as a key component in embodied AI。

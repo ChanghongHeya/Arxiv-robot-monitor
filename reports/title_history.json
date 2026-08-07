@@ -1001,6 +1001,39 @@
         "ReTouch: Empowering Contact-Rich Dexterous Manipulation with Online-Refined Tactile Prediction",
         "Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs"
       ]
+    },
+    {
+      "run_at": "2026-08-07T03:46:17Z",
+      "lookback_days": 2,
+      "paper_count": 26,
+      "titles": [
+        "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
+        "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+        "GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions",
+        "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
+        "Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features",
+        "Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation",
+        "SkillMemo: Expert-guided Skill Memory Framework for Compositional Embodied Manipulation",
+        "GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models",
+        "AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents",
+        "XEWorld: Can Action-Conditioned World Models Generalize to Unseen Robot Embodiments?",
+        "When Agentic AI Meets Integrated Sensing and Communication",
+        "In-Context VLA: Endowing Vision-Language-Action Models with Language via In-Context Post-Training and Agentic Tool Use",
+        "LAWM-3D: Learning 3D-Aware Latent Actions from Human Videos for Generalizable Robot World Models",
+        "DreamGuard: Efficient Runtime Guardrail for LLM Agents via Risk-Aware World Model",
+        "JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment",
+        "Uncertainty-Aware World Model for Aerial Image-Goal Navigation",
+        "Quantum-Structured World Models (QSWMs) for Predictive Latent Dynamics",
+        "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
+        "BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation",
+        "DreamWAM: Beyond RGB Future Prediction for World Action Models",
+        "Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models",
+        "Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies",
+        "Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models",
+        "Retrieve in Time, Correct in Frequency",
+        "GUARD: Grounding Uncertainty and Ablation-Based Risk Detection for Diffusion-Based VLAs",
+        "Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference"
+      ]
     }
   ]
 }
