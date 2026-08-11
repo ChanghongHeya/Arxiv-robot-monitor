@@ -1040,6 +1040,33 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-08-11T03:01:38Z",
+      "lookback_days": 2,
+      "paper_count": 20,
+      "titles": [
+        "Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning",
+        "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
+        "SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation",
+        "World Tokens: Enhancing Embodied Policies with Training-Time World Modeling",
+        "Model Discovery Agent: LLM-assisted Bayesian experiment design for data-efficient discovery of mechanistic world models",
+        "Nonlinear Model Predictive Control of a Robotic Soft Esophagus",
+        "verdi: retrieval is not transfer for continual world model optimization",
+        "RecoverFly: A Failure-Aware Reinforcement Learning Post-Training Framework for Aerial Vision-Language Navigation",
+        "VANE: Reliable Test-Time Training for Vision-Language-Action Models via Future Visual Representation Prediction",
+        "Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation",
+        "JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling",
+        "WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation",
+        "Trajectory Divergence Horizon Decision for Reliable Dual-Arm Surgical Subtask Manipulation",
+        "Latent World Models with Monotone Planning Costs for Image-Goal Navigation",
+        "From Recovery to Drop-off: How Action Post-training Reduces a VLM's Late-Layer Depth Decodability",
+        "Preview-Based Relative-Motion Control of an Insertion Tool for Neural-Thread Placement in Pulsating Tissue",
+        "OnEvoMemory: Evolving Memory through Online Robot Rollouts for Pretrained Robot Policies",
+        "WA-SpecDec: World-Aware Speculative Decoding for Vision-Language-Action Models",
+        "Population-Scalable Multi-Agent World Modeling",
+        "Vid2WAM: Distilling Video Diffusion Priors into World Action Models"
+      ]
     }
   ]
 }
