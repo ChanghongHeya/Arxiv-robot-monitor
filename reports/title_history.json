@@ -1067,6 +1067,31 @@
         "Population-Scalable Multi-Agent World Modeling",
         "Vid2WAM: Distilling Video Diffusion Priors into World Action Models"
       ]
+    },
+    {
+      "run_at": "2026-08-13T03:24:02Z",
+      "lookback_days": 2,
+      "paper_count": 18,
+      "titles": [
+        "Better Slots, Better Worlds: Representation Quality & Robustness in Object-Centric World Models",
+        "Learning Loco-Manipulation From SMPC Demonstrations With Sparse Offline-to-Online RL",
+        "Policy-Induced Hand Priors in Humanoid Dual-Arm Manipulation: Diagnosing and Mitigating Initial-Pose Dependence",
+        "G0.5: One Autoregressive Stream for Robot Reasoning and Action",
+        "StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models",
+        "Adaptation of Generalist Robot Policies with Minimal Data",
+        "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+        "VIScore: Diagnosing Planning-Relevant Quality in Latent World Models",
+        "R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video",
+        "XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving",
+        "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+        "Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models",
+        "JEPA-WAM: Stage-Level Joint-Embedding Prediction for World-Action Models in Robot Manipulation",
+        "Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting",
+        "Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent",
+        "Nonlinear Model Predictive Control via Sequential Convex Programming for Drone-to-Drone Docking",
+        "Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models",
+        "PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots"
+      ]
     }
   ]
 }
