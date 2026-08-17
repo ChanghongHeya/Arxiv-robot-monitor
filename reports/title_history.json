@@ -1092,6 +1092,12 @@
         "Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models",
         "PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots"
       ]
+    },
+    {
+      "run_at": "2026-08-17T02:17:19Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
