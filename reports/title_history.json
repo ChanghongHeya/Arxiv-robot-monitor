@@ -1098,6 +1098,40 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-08-19T02:16:00Z",
+      "lookback_days": 2,
+      "paper_count": 27,
+      "titles": [
+        "Hydra-0: Action Flow for Generalist World Modeling and Control",
+        "Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving",
+        "Towards Zero-Shot Task Transfer with Neurosymbolic World Models",
+        "Effector-Centric NMPC of Tiltable-Multirotors for Offset-Free Omnidirectional Aerial Manipulation",
+        "CompCPZ: Preserving Multi-Modal Intent in Language-Guided Robot Manipulation",
+        "LIBERO-VIFO: Benchmarking the Capability and Safety of Visual Cue Following in Vision-Language-Action Models",
+        "Calibrated Predictive Safety for Heterogeneous Robots: An Action-Conditioned JEPA Framework with Model-Based Safety Shields",
+        "Reuse Before You Retrieve: Diagnosing Headroom and Complementarity for Test-Time Augmentation of Embodied Multimodal Policies",
+        "EATR-Stereo: Embodiment-Aware Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control",
+        "Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups",
+        "Teach and Grow: An Agent-Centered Architecture for General Robot Learning",
+        "Q-Learning With World Models",
+        "Inference-Time Attention Steering for Vision-Language-Action Driving Models",
+        "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+        "$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+        "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+        "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
+        "When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents",
+        "FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy",
+        "Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents",
+        "Throwing a Tight Spiral American Football by a Humanoid Robot",
+        "NebulaVLA: A Dual-Frequency Vision-Language-Action Model With Guide Action for Robotic Manipulation",
+        "Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos",
+        "DriveCache: Action-Aware Caching for Driving World Model Inference",
+        "GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation",
+        "SparkVLA: Stop-Aware Hierarchical VLA with Adaptive Action Chunking for Long-Horizon Manipulation",
+        "US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina"
+      ]
     }
   ]
 }
