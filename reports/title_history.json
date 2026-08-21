@@ -1132,6 +1132,29 @@
         "SparkVLA: Stop-Aware Hierarchical VLA with Adaptive Action Chunking for Long-Horizon Manipulation",
         "US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina"
       ]
+    },
+    {
+      "run_at": "2026-08-21T02:20:55Z",
+      "lookback_days": 2,
+      "paper_count": 16,
+      "titles": [
+        "Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms",
+        "G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs",
+        "EXIMO: VLM Guided Exploration of VLA Policies",
+        "An Irreducible Quantum Advantage in Aligning World Models with Reality",
+        "World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms",
+        "OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation",
+        "Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation",
+        "Hybrid Feedback Sampling for Sample-Efficient Model Predictive Control",
+        "Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control",
+        "DA-WAM: Decision-Aligned Future Latents for Driving World Models",
+        "GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting",
+        "Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning",
+        "Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI",
+        "Reinforced Planning with Latent World Models",
+        "Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation",
+        "Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots"
+      ]
     }
   ]
 }
