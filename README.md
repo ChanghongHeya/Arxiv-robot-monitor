@@ -4,27 +4,10 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-08-21 02:20 UTC
-- Relevant papers: 16
+- Updated at: 2026-08-23 02:21 UTC
+- Relevant papers: 0
 
-| Title | Type | Authors |
-|---|---|---|
-| [Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms](https://arxiv.org/abs/2608.20111) | Robot Foundation / VLA | Yanchen Guan, Xingcheng Liu, Bin Rao, Chengyue Wang, Guofa Li, Yunjian Li, Lishengsa Yue, Zhiyong Cui, Chengzhong Xu, Zhenning Li |
-| [G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs](https://arxiv.org/abs/2608.19964) | Robot Foundation / VLA | Bhavya Gupta, Onat Gungor, Tajana Rosing |
-| [EXIMO: VLM Guided Exploration of VLA Policies](https://arxiv.org/abs/2608.19891) | Robot Foundation / VLA | Bhavya Sukhija, Oliver Groth, Mohit Shridhar, Tim Hertweck, Michael Bloesch, Markus Wulfmeier, Abbas Abdolmaleki, Martin Riedmiller |
-| [An Irreducible Quantum Advantage in Aligning World Models with Reality](https://arxiv.org/abs/2608.19779) | World Model | Josep Lumbreras, Hailan Ma, Jayne Thompson, Mile Gu |
-| [World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms](https://arxiv.org/abs/2608.19661) | Robot Foundation / VLA | Markus Buchholz, Ignacio Carlucho, Yvan R. Petillot |
-| [OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation](https://arxiv.org/abs/2608.19589) | Robot Foundation / VLA | Jiaqi Wang, Zhou Fang, Qiongfeng Shi, Yi Zhou |
-| [Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation](https://arxiv.org/abs/2608.19490) | Robot Foundation / VLA | Prachi Garg, Steve Xing, Prahit Yaugand, Saurabh Gupta, Derek Hoiem |
-| [Hybrid Feedback Sampling for Sample-Efficient Model Predictive Control](https://arxiv.org/abs/2608.19443) | World Model | Chaoyi Pan, Zeji Yi, John Zhang, Zachary Manchester, Guannan Qu, Guanya Shi |
-| [Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control](https://arxiv.org/abs/2608.19375) | World Model | Harry Zhang, Dan Negrut |
-| [DA-WAM: Decision-Aligned Future Latents for Driving World Models](https://arxiv.org/abs/2608.19085) | World Model | Ruiguo Zhong, Benshan Ma, Xiaolong Chen, Lang Zhang, Mingyue Feng, Yaonong Wang, Pei Liu, Jun Ma |
-| [GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting](https://arxiv.org/abs/2608.19066) | Robot Foundation / VLA | Yechan Park, HyunJin Kim |
-| [Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning](https://arxiv.org/abs/2608.18746) | World Model | Jiawei Wang, Ke Rui, Yushen Zuo, Yichun Feng, Minglei Li |
-| [Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI](https://arxiv.org/abs/2608.18671) | Robot Foundation / VLA | Mohammad Zamani, Fatemeh Ziaeetabar |
-| [Reinforced Planning with Latent World Models](https://arxiv.org/abs/2608.18669) | World Model | Armin Sommer, Jannik Schilling |
-| [Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation](https://arxiv.org/abs/2608.18647) | World Model | Harry Robertshaw, Maxence Boels, Nikola Fischer, Sebastien Ourselin, Christos Bergeles, Alejandro Granados, Thomas C Booth |
-| [Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots](https://arxiv.org/abs/2608.18552) | World Model | SeongWon Nam, Hyunyong Lee, Hansol Kang, Jiman Park, Yeongwoo Son, Bumsu Yi, Jaeyoung Oh, Hyouk Ryeol Choi |
+最近时间窗口内没有筛选到相关论文。
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：

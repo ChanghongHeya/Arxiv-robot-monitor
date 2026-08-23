@@ -1155,6 +1155,12 @@
         "Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation",
         "Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots"
       ]
+    },
+    {
+      "run_at": "2026-08-23T02:21:05Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
