@@ -1161,6 +1161,30 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-08-25T02:15:51Z",
+      "lookback_days": 2,
+      "paper_count": 17,
+      "titles": [
+        "GeoWAM: Visual Geometry World Action Models for Autonomous Driving",
+        "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models",
+        "Reward-Free Continual Adaptation for Resilient Space Robots",
+        "ROS2SmolVLA: Enabling Small Vision-Language-Action Models for Integration into Industrial-Grade Lightweight Robots",
+        "Think Only When Needed: Prompt-Authority Control for Selective Slow-Path Intervention in Vision-Language-Action Manipulation",
+        "Guided Riemannian Optimization (GuRO): Bridging Model Predictive Control and Decision Transformers",
+        "EchoWM: Open and Enterable Omnimodal World Models",
+        "Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation",
+        "InstructMove: A Text-Indispensable Benchmark for Instruction-Following Manipulation",
+        "UniMem: Unifying Multimodal Memory and Control for Vision-Language-Action Models",
+        "LpWM: A Case for Sparse Representations in World Models",
+        "Where World Models Break: Natural-Input Failure Discovery",
+        "Robust Bimanual Vision-Language-Action Models via Embarrassingly Simple Modality Masking",
+        "LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models",
+        "Beyond Instance Slots: Semantically Rich World Models for Physical Interaction Planning",
+        "DreamMimic: Learning Visuomotor Whole-Body Loco-Manipulation via World Model",
+        "On the Capability Separation Between World-Model Policy Learning and Imitated World-Action Models"
+      ]
     }
   ]
 }
