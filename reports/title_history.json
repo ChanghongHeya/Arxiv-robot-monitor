@@ -1185,6 +1185,31 @@
         "DreamMimic: Learning Visuomotor Whole-Body Loco-Manipulation via World Model",
         "On the Capability Separation Between World-Model Policy Learning and Imitated World-Action Models"
       ]
+    },
+    {
+      "run_at": "2026-08-27T10:51:18Z",
+      "lookback_days": 2,
+      "paper_count": 18,
+      "titles": [
+        "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models",
+        "One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation",
+        "4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting",
+        "Code World Model: Coding Agent as World Brain",
+        "MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization",
+        "TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback",
+        "LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation",
+        "PRISM: Projection-Integrated Sampling-Based MPC with Bayesian Cost Tuning for Bimanual Manipulation",
+        "GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation",
+        "RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation",
+        "ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models",
+        "4DStreamCtrl: Interactive Video Generation with Online 4D Control",
+        "Towards safe and optimal flight: Viability Kernel MPC for Fully Actuated Multirotor",
+        "A Taxonomy of Construction Task Activities for Robot Workers",
+        "V-Link: Recovering Lost Visual Representations in Action DiT for Vision-Language-Action Models",
+        "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
+        "LeFlow: Generative Latent Flow Planning for World Models",
+        "Gripper-aware Vision Language Action Models"
+      ]
     }
   ]
 }

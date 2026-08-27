@@ -4,28 +4,29 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-08-25 02:15 UTC
-- Relevant papers: 17
+- Updated at: 2026-08-27 10:51 UTC
+- Relevant papers: 18
 
 | Title | Type | Authors |
 |---|---|---|
-| [GeoWAM: Visual Geometry World Action Models for Autonomous Driving](https://arxiv.org/abs/2608.23486) | Robot Foundation / VLA | Yiren Lu, Xin Ye, Jiaming Liu, Jin Yao, Yi-chung Chen, Liam Merino, Dhruva Dixith Kurra, Min Cai, Tom Lampo, Yu Yin, Danhua Guo, Burhan Yaman |
-| [Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models](https://arxiv.org/abs/2608.23478) | Robot Foundation / VLA | Sangoh Lee, Sangwoo Mo, Wook-Shin Han |
-| [Reward-Free Continual Adaptation for Resilient Space Robots](https://arxiv.org/abs/2608.23452) | World Model | Andrej Orsula, Miguel Olivares-Mendez, Carol Martinez |
-| [ROS2SmolVLA: Enabling Small Vision-Language-Action Models for Integration into Industrial-Grade Lightweight Robots](https://arxiv.org/abs/2608.23320) | Robot Foundation / VLA | Nils Mandischer, Noah Böckmann, Ludwig Holl, Lars Mikelsons |
-| [Think Only When Needed: Prompt-Authority Control for Selective Slow-Path Intervention in Vision-Language-Action Manipulation](https://arxiv.org/abs/2608.23224) | Robot Foundation / VLA | Zhiruo Zhou, Zelin Li, Xiwen Chen, Jiazhuo Li, Chenwei Wang, Huiming Chen, Xiaojun Zhu |
-| [Guided Riemannian Optimization (GuRO): Bridging Model Predictive Control and Decision Transformers](https://arxiv.org/abs/2608.23204) | World Model | Hossein Abdi, Satya Prakash Dash, Mingfei Sun |
-| [EchoWM: Open and Enterable Omnimodal World Models](https://arxiv.org/abs/2608.23189) | World Model | Songchun Zhang, Yaowei Li, Junhao Zhuang, Weiyang Jin, Haoyu Wang, Xin Lu, Yilang Sun, Shiyi Zhang, Haoran Li, Xiaoxiao Ma, Yuming Li, Yijun Liu, Yaofeng Su, Yanwen Ma, Haoyu Wu, Zihan Su, Yue Ma, Lvmin Zhang, Haoyang Huang, Zeyue Xue, Anyi Rao, Nan Duan |
-| [Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation](https://arxiv.org/abs/2608.23138) | Robot Foundation / VLA | Xiwen Chen, Zelin Li, Zhiruo Zhou, Huiming Chen, Chenwei Wang, Xiaojun Zhu |
-| [InstructMove: A Text-Indispensable Benchmark for Instruction-Following Manipulation](https://arxiv.org/abs/2608.22990) | Robot Foundation / VLA | Mengao Zhao, Ziang Li, Chaodong Huang, Mengchen Ma, Haoyi Jiang, Yiwei Jin, Xinjie Wang, Yun Du, Xuewu Lin, Taojun Ding, Hongyu Xie, Jackson Jiang, Chunlei Yu, Kaihua Zhang, Lichao Huang, Liu Liu, Tianwei Lin, Zhizhong Su |
-| [UniMem: Unifying Multimodal Memory and Control for Vision-Language-Action Models](https://arxiv.org/abs/2608.22869) | Robot Foundation / VLA | Lars Osterberg, Maggie Wang, Mac Schwager |
-| [LpWM: A Case for Sparse Representations in World Models](https://arxiv.org/abs/2608.22764) | World Model | Yilun Kuang, Yash Dagade, Quentin Le Lidec, Lucas Maes, Randall Balestriero, Yann LeCun |
-| [Where World Models Break: Natural-Input Failure Discovery](https://arxiv.org/abs/2608.22421) | World Model | Zhanpeng Shi, Zi Liang, Rong Feng, Shiqin Tang, Xuyang Chen, Hongzong Li |
-| [Robust Bimanual Vision-Language-Action Models via Embarrassingly Simple Modality Masking](https://arxiv.org/abs/2608.22419) | Robot Foundation / VLA | Dongzhou Cheng, Ziang Li, Yixiao Zhou, Haojuan Li, Jinghao Zhang, Lei Lei, Minjing Dong, Jie Gui, Jiaqi Wang |
-| [LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models](https://arxiv.org/abs/2608.22403) | Robot Foundation / VLA | Zhenhao Shen, Jiaqi Liang, Jasper Lu, Feng Jiang, Yuran Wang, Chuanbo Wei, Jiayi Liu, Jianchun Yang, Qize Yu, Jiadi You, Ce Hao, Guanqi He, Chen Xie, Ruihai Wu |
-| [Beyond Instance Slots: Semantically Rich World Models for Physical Interaction Planning](https://arxiv.org/abs/2608.22294) | World Model | Juntao Cheng, Jingkai Wang, Yijun Shen, Xiansheng Chen, Zhiwei Yu |
-| [DreamMimic: Learning Visuomotor Whole-Body Loco-Manipulation via World Model](https://arxiv.org/abs/2608.22278) | World Model | Jie Yin, Xingyu Lai |
-| [On the Capability Separation Between World-Model Policy Learning and Imitated World-Action Models](https://arxiv.org/abs/2608.22197) | World Model | Yang Yu |
+| [StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models](https://arxiv.org/abs/2608.26067) | Robot Foundation / VLA | Zhe Liu, Jinghua Hou, Yuxiang Lu, Zhenya Yang, Xianzhe Fan, Junwei Luo, Junyi Li, Ruihua Han, Zhi Hou, Hengshuang Zhao |
+| [One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation](https://arxiv.org/abs/2608.26058) | Robot Foundation / VLA | Xiaomi Embodied Intelligence Team, University of Macau, :, Shaoqing Xu, Fang Li, Guozhi Zhan, Zhixiang Duan, Yuhan Wang, Yuechen Luo, Shengyin Jiang, Hanbing Li, Zhiying Du, Longlong Wang, Longmei Jiang, Weixiang Liang, Ying Gong, Yong Pan, Ziping Zhao, Zhiyuan Chen, Yangwei You, Kun Ma, Qinyuan Liu, Hangjun Ye, Zhi-xin Yang |
+| [4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting](https://arxiv.org/abs/2608.25956) | World Model | Yueen Ma, Zenglin Xu, Irwin King |
+| [Code World Model: Coding Agent as World Brain](https://arxiv.org/abs/2608.25927) | World Model | Yiwen Chen, Guosheng Lin, Chi Zhang |
+| [MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization](https://arxiv.org/abs/2608.25864) | Robot Foundation / VLA | Zaibin Zhang, Junlan Xiao, Zhongbo Zhang, Yifan Wang, Li Kang, Yiran Qin, Changxing Xia, Heng Zhou, Talas Fu, Enshen Zhou, Ruimao Zhang, Zhenfei Yin, Huchuan Lu, Lijun Wang |
+| [TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback](https://arxiv.org/abs/2608.25798) | Robot Foundation / VLA | Jianbo Zhou, Boyuan Zhao, Yuzheng Zhang, Yiyang Chen, Wenxin Chen, Qiuyue Li, Xiangyang Gu, Yuhan Cao, Xiao Xia, Yanzhe Hu, Zhijie Deng |
+| [LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation](https://arxiv.org/abs/2608.25757) | Robot Foundation / VLA | Jin Lou, Jingxuan Zhu, Andong Chen, Xupeng Wang, Yuan Xu, Yuexuan Li, Xingdong Zhu, Zhijie Zhu, Yingwei Ji, Wenpeng Nie, Jingyi Li, Liangliang Chen, Jinyan Liu, Zhiqi Song, Jidong Zhang, Hongming Li, Yuchen Zhu |
+| [PRISM: Projection-Integrated Sampling-Based MPC with Bayesian Cost Tuning for Bimanual Manipulation](https://arxiv.org/abs/2608.25666) | World Model | Alinjar Dan, Iryna Hurova, Karl Kruusamäe, Arun Kumar Singh |
+| [GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation](https://arxiv.org/abs/2608.25659) | Robot Foundation / VLA | Yuqing Jiang, Zijian Zhang, Weitao Zhou, Jiawei Wang, Junjie He, Lei Yang, Haifang Qing, Si Liu, Ding Zhao, Ping Luo, Haibao Yu |
+| [RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation](https://arxiv.org/abs/2608.25585) | Robot Foundation / VLA | Sanghwan Jang, Minjin Jeon, Minsoo Kim, Seongjin Choi, Dongha Kim, Hwanjo Yu |
+| [ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models](https://arxiv.org/abs/2608.25572) | World Model | Xiang Liu, Sen Cui, Changshui Zhang |
+| [4DStreamCtrl: Interactive Video Generation with Online 4D Control](https://arxiv.org/abs/2608.25479) | World Model | Shiqian Li, Chenguo Lin, Zhiguang Liu, Yu Tang, Jiarong Ou, Rui Chen, Yixin Zhu |
+| [Towards safe and optimal flight: Viability Kernel MPC for Fully Actuated Multirotor](https://arxiv.org/abs/2608.25459) | World Model | Massimiliano Bertoni, Alberto Piccina, Gianni Lunardi, Elias Fontanari, Andrea Del Prete, Angelo Cenedese, Giulia Michieletto |
+| [A Taxonomy of Construction Task Activities for Robot Workers](https://arxiv.org/abs/2608.25395) | Robot Foundation / VLA | Sadman Sakib, Zhangyi None Peng, Yujie Pang, Yu Otsuki, Mohammad Abdullah Al Faruque |
+| [V-Link: Recovering Lost Visual Representations in Action DiT for Vision-Language-Action Models](https://arxiv.org/abs/2608.25308) | Robot Foundation / VLA | Yehao Lu, Jiarui Yang, Yuning Su, Yufeng Xie, Yu Zhong, Yazhou Zhang, Haiyu Lan, Kaixiang Lu, Peiwen Lin, Chuang Wang, Zequn Qin, Enyu Li, Xi Li |
+| [Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning](https://arxiv.org/abs/2608.24885) | World Model | Sixiang Chen, Jiaming Liu, Jixian Wu, Yichen Guo, Tinghao Wang, Siyuan Qian, Hao Chen, Jiajun Cao, Jian Tang, Shanghang Zhang |
+| [LeFlow: Generative Latent Flow Planning for World Models](https://arxiv.org/abs/2608.24855) | World Model | Hsiang-Wei Huang, Jianxu Shangguan, Junbin Lu, Jenq-Neng Hwang |
+| [Gripper-aware Vision Language Action Models](https://arxiv.org/abs/2608.24603) | Robot Foundation / VLA | Hanyi Zhang, Zihong Luo, Tianyu Li, Khang Nguyen, Basu Hela, Shreyas Kumar, Ngoc Duy Tran, Feng Dai, Charith Munasinghe, Jorge Peña Queralta, Giovanni Toffetti, Khoa Vo, Ngan Le, Ravi Prakash, Quan Vuong, Tung D. Ta, Long Hu, Anh Nguyen, Baoru Huang |
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：
