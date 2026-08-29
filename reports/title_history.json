@@ -1210,6 +1210,21 @@
         "LeFlow: Generative Latent Flow Planning for World Models",
         "Gripper-aware Vision Language Action Models"
       ]
+    },
+    {
+      "run_at": "2026-08-29T07:36:13Z",
+      "lookback_days": 2,
+      "paper_count": 8,
+      "titles": [
+        "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators",
+        "FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference",
+        "Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models",
+        "Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models",
+        "GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation",
+        "Riemann-1.0: An Embodied World Action Model for Physical AI",
+        "TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation",
+        "Decoupling Planning and Control for Instructable Agents"
+      ]
     }
   ]
 }
