@@ -1225,6 +1225,12 @@
         "TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation",
         "Decoupling Planning and Control for Instructable Agents"
       ]
+    },
+    {
+      "run_at": "2026-08-31T06:34:52Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
