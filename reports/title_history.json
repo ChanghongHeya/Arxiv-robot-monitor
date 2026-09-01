@@ -1231,6 +1231,30 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-09-01T05:58:43Z",
+      "lookback_days": 2,
+      "paper_count": 17,
+      "titles": [
+        "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+        "CAER: Causal Action Effect Reweighting for World Model Training",
+        "Temporal Forcing: 4D Representation Alignment for Vision-Language-Action Models",
+        "Behavior-Skill: A Fine-Grained Benchmark for Evaluating Vision-Language-Action Policies in Long-Horizon Tasks",
+        "PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies",
+        "CometVLA: Co-Training on an Embodied Data Pyramid towards Physical Understanding",
+        "Motus2: A Self-Evolving General World Model for Dexterous Manipulation",
+        "Rethinking Language's Role in Efficient VLA for Autonomous Vehicles: Toward Smarter, Trustworthy Driving",
+        "Aligning Multi-Trajectory Supervision with Policy Optimization for VLA Driving",
+        "How do World Models and Policies Compose in LLM Agents? A Joint Spectral and Behavioral Account",
+        "The Intervention Gap in Latent World Models",
+        "Training-Free Action Correction for VLA Model Failures via Language Feedback",
+        "AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies",
+        "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory",
+        "Self-Aware Active Learning Enables Continual Improvement in Autonomous Driving",
+        "SmoothRL: Online Reinforcement Learning During Asynchronous Execution",
+        "DriftingVLA: Native One-Step Vision-Language-Action Generation via Per-Dimension Temporal Drifting"
+      ]
     }
   ]
 }

@@ -4,10 +4,28 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-08-31 06:34 UTC
-- Relevant papers: 0
+- Updated at: 2026-09-01 05:58 UTC
+- Relevant papers: 17
 
-最近时间窗口内没有筛选到相关论文。
+| Title | Type | Authors |
+|---|---|---|
+| [SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies](https://arxiv.org/abs/2608.31167) | World Model | Weiqi Wang, Zhi Li, Yudong Lei, David Martinez, Xiaofeng Gao, Yuxin Jiang, Chenfanfu Jiang, Yingnian Wu, Demetri Terzopoulos, Ran Gong |
+| [CAER: Causal Action Effect Reweighting for World Model Training](https://arxiv.org/abs/2608.30897) | World Model | Jianjie Fang, Xvyuan Liu, Ziyou Wang, Rongze Tang, Zhaolu Wang, Zhuohang Li, Xin Zhang, Haisheng Su, Chen Gao, Wei Wu, Xinlei Chen, Yong Li |
+| [Temporal Forcing: 4D Representation Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2608.30643) | Robot Foundation / VLA | Xingyu Ding, Yuzhong Zhao, Chunhai Zhao, Yinghuan Shi, Chaoyang Zhao, Yifan Zhang |
+| [Behavior-Skill: A Fine-Grained Benchmark for Evaluating Vision-Language-Action Policies in Long-Horizon Tasks](https://arxiv.org/abs/2608.30536) | Robot Foundation / VLA | Chunyun Ma, Lun Luo, Xingjian Luo, Xiexing Feng, Hang Zhang, Wei Liu, Feng Qiao, Yaonan Wang, Huimin Lu, Xieyuanli Chen |
+| [PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies](https://arxiv.org/abs/2608.30378) | Robot Foundation / VLA | Botong Zhao, Fang Yu, Tim, Senhua Zhu, Xinyuan Chen, Yue Lu |
+| [CometVLA: Co-Training on an Embodied Data Pyramid towards Physical Understanding](https://arxiv.org/abs/2608.30289) | Robot Foundation / VLA | Hanwen Wan, Dafeng Chi, Linbo Zhai, Tianao Shen, Yuzheng Zhuang, Tianle Zhang, Peidong Liu, Liang Lin, Xiaoqiang Ji |
+| [Motus2: A Self-Evolving General World Model for Dexterous Manipulation](https://arxiv.org/abs/2608.30237) | Robot Foundation / VLA | Hongzhe Bi, Zihao Zhou, Yihang Tang, Jingrui Pang, Shuhe Huang, Haitian Liu, Runqing Wang, Shuai Huang, Yichen Wang, Yiming Cheng, Ruowen Zhao, Zhenghua Li, Hengkai Tan, Xiaolong Liu, Jinhui Wan, Jiabao Liu, Min Zhao, Fan Bao, Jun Zhu |
+| [Rethinking Language's Role in Efficient VLA for Autonomous Vehicles: Toward Smarter, Trustworthy Driving](https://arxiv.org/abs/2608.30144) | Robot Foundation / VLA | Tongfei Guo, Lili Su |
+| [Aligning Multi-Trajectory Supervision with Policy Optimization for VLA Driving](https://arxiv.org/abs/2608.30122) | Robot Foundation / VLA | Tian Zhang, Zhuo Huang, Hongrui Ye, Yu Wu, Zengmao Wang, Kaixuan Zhou |
+| [How do World Models and Policies Compose in LLM Agents? A Joint Spectral and Behavioral Account](https://arxiv.org/abs/2608.30067) | World Model | Ruize Xu, Xiao Yu, Yujin Tang, Chenming Shang, Nikhil Singh |
+| [The Intervention Gap in Latent World Models](https://arxiv.org/abs/2608.29998) | World Model | Donna Vakalis |
+| [Training-Free Action Correction for VLA Model Failures via Language Feedback](https://arxiv.org/abs/2608.29967) | Robot Foundation / VLA | Owen Kwon, Pablo Ortega-Kral, Arthur Bucker, Jean Oh |
+| [AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies](https://arxiv.org/abs/2608.29937) | Robot Foundation / VLA | Yafei Zhang, Nan Wu |
+| [Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory](https://arxiv.org/abs/2608.29910) | World Model | Runjia Qian, Zile Wang, Jihai Zhang, Kai Zou, Wei Yu, Jiaxing Li, Zexiang Liu, Yaokun Li, Fei Kang, Kaichen Huang, Mengyin An, Haobo Zhang, Biao Jiang, Jiahua Wang, Haofeng Sun, Yang Liu, Yangguang Li |
+| [Self-Aware Active Learning Enables Continual Improvement in Autonomous Driving](https://arxiv.org/abs/2608.29772) | World Model | Dong Hu, Chao Huang, Carman K. M. Lee, Dimitrios Kanoulas |
+| [SmoothRL: Online Reinforcement Learning During Asynchronous Execution](https://arxiv.org/abs/2608.29768) | Robot Foundation / VLA | Guang Gao, Yuxuan Nong, Baifu Huang, Jianan Wang |
+| [DriftingVLA: Native One-Step Vision-Language-Action Generation via Per-Dimension Temporal Drifting](https://arxiv.org/abs/2608.29749) | Robot Foundation / VLA | Yuxuan Gao, Shiqi Zhang, Yedong Shen, Yifan Duan, Wenhao Yu, Xin Zhang, Siyuan Cao, Jiajun Deng, Yanyong Zhang |
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：
