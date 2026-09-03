@@ -1255,6 +1255,29 @@
         "SmoothRL: Online Reinforcement Learning During Asynchronous Execution",
         "DriftingVLA: Native One-Step Vision-Language-Action Generation via Per-Dimension Temporal Drifting"
       ]
+    },
+    {
+      "run_at": "2026-09-03T05:25:18Z",
+      "lookback_days": 2,
+      "paper_count": 16,
+      "titles": [
+        "Discriminative World Models for Web Agents",
+        "Do Better Imagined Rollouts Mean Better Robot Control? A Controlled Study of World-Model Evaluation Under Feedback",
+        "From Proxy Learning to Driving Decisions: A Transfer-Based Framework for Evaluating Future-Aware Autonomous Driving Planners",
+        "HINT: Human-Intent Inception for Long-Horizon Robot Manipulation",
+        "Latent Cluster Analysis for Vision-Language-Action Models",
+        "ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation",
+        "World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain",
+        "Spatially Aware World Action Model via Geometric Latent Diffusion",
+        "Towards Zero-Shot Transfer Across Embodiments For Driving VLAs",
+        "Modeling What Changes: Sparse, Residual World Models for Object-Centric Manipulation",
+        "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
+        "Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching",
+        "EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents",
+        "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs",
+        "ProxPI: Proximal Prior Injection for Sampling-Based MPC under Learned-Prior Mismatch",
+        "Knowing When to Stop: Adaptive Action Chunking via Internal Cross-Attention Dynamics in VLAs"
+      ]
     }
   ]
 }
