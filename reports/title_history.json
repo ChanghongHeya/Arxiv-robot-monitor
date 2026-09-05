@@ -1278,6 +1278,27 @@
         "ProxPI: Proximal Prior Injection for Sampling-Based MPC under Learned-Prior Mismatch",
         "Knowing When to Stop: Adaptive Action Chunking via Internal Cross-Attention Dynamics in VLAs"
       ]
+    },
+    {
+      "run_at": "2026-09-05T05:12:23Z",
+      "lookback_days": 2,
+      "paper_count": 14,
+      "titles": [
+        "GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation",
+        "Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving",
+        "Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models",
+        "A hybrid pipeline for dynamic ontology-based semantic mapping",
+        "FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation",
+        "Semantic Bayesian World Models",
+        "Rethinking World Models for Safety-Critical Embodied Systems",
+        "MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO?",
+        "Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty",
+        "WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models",
+        "SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving",
+        "Scaling Bimanual Household Manipulation from 1,500 hours of Demonstrations to On-Policy Corrections",
+        "Drive-HWM: Hierarchical World Models for Dynamic-Latent Guided Autonomous Driving",
+        "Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning"
+      ]
     }
   ]
 }
