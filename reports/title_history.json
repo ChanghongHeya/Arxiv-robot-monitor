@@ -1299,6 +1299,12 @@
         "Drive-HWM: Hierarchical World Models for Dynamic-Latent Guided Autonomous Driving",
         "Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning"
       ]
+    },
+    {
+      "run_at": "2026-09-07T05:37:07Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
