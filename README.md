@@ -4,10 +4,29 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-09-07 05:37 UTC
-- Relevant papers: 0
+- Updated at: 2026-09-09 05:40 UTC
+- Relevant papers: 18
 
-最近时间窗口内没有筛选到相关论文。
+| Title | Type | Authors |
+|---|---|---|
+| [TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](https://arxiv.org/abs/2609.09158) | Robot Foundation / VLA | Anqi Li, Yuxin Chen, Zhaobo Li, Zhuo Cao, Junli Ren, Masayoshi Tomizuka, Dhruv Shah |
+| [SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators](https://arxiv.org/abs/2609.09155) | World Model | Yuncong Yang, Zhengtao Han, Furkan Ozyurt, Zeyuan Yang, Han Yang, Junyi Cao, Haoyu Zhen, Yilun Du, Chuang Gan |
+| [Proxy Policy Steering](https://arxiv.org/abs/2609.09148) | Robot Foundation / VLA | Chuanruo Ning, Tianrui Wang, Wei-Chiu Ma, Kuan Fang |
+| [DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination](https://arxiv.org/abs/2609.09119) | Robot Foundation / VLA | Yankai Fu, Ning Chen, Junkai Zhao, Heng Zhang, Guocai Yao, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang |
+| [Online, Reachability-Aware, Sampling-Based Motion Planning](https://arxiv.org/abs/2609.09073) | World Model | Brendan Gould, Zhiyuan Zhang, Panagiotis Tsiotras, Samuel Coogan |
+| [Model Predictive Control of Tensegrity Robots via Contact-Aware Graph Neural Dynamics Model](https://arxiv.org/abs/2609.08958) | World Model | Nelson Chen, Patrick Meng, Charles Tang, Angelina Degay, Zachary Brei, Rebecca Kramer-Bottiglio, Kostas E. Bekris, Mridul Aanjaneya |
+| [VeriScene: Reconstructing Crime Scenes from Legal Evidence via World-Model Agent](https://arxiv.org/abs/2609.08342) | World Model | Kevin Chuanpu Fu, Yongsen Zheng, Zee Kin Yeong, Kwok-Yan Lam |
+| [CALIPER: Clean Scenes Cannot Rank Physical Inference in Pretrained Visual Representations](https://arxiv.org/abs/2609.08250) | World Model | Aman Mehta, Riya Baviskar |
+| [WorldAgen: Unified State-Action Prediction with Test-Time World Model Training](https://arxiv.org/abs/2609.08162) | Robot Foundation / VLA | Chi Wan, Kangrui Wang, Yuan Si, Pingyue Zhang, Manling Li |
+| [mjorbit: A Simulation Framework for Space Robotics](https://arxiv.org/abs/2609.08010) | World Model | John Z. Zhang, Joris Verhagen, Fausto Vega, Patrick McKeen, Zachary Manchester |
+| [ComVLA: Communication-Aware Split Inference for VLA Models in 6G-Connected Robotics](https://arxiv.org/abs/2609.07838) | Robot Foundation / VLA | Boliang Liu, Wint Yi Poe, Jingyun Di, Riccardo Trivisonno, Giuseppe Caire |
+| [ICI-VLA: In-Context Imitation with Spatiotemporally Aligned Demonstrations for Vision-Language-Action Models](https://arxiv.org/abs/2609.07581) | Robot Foundation / VLA | Songhua Yang, Ziyu Liu, Xuetao Li, Ruqi Xiao, Kangxin Zhu, Miao Li |
+| [Anti-Gravity Walking by a Flying Humanoid Robot via Thrust-Rate Input Whole-Body Model Predictive Control](https://arxiv.org/abs/2609.07544) | World Model | Kazuki Sugihara, Kei Okada |
+| [PhysReal: Learning Real-World Deformable Object Physics via Hybrid Constitutive Modeling](https://arxiv.org/abs/2609.07532) | World Model | Yinan Deng, Jianqiao Song, Yisi Zhang, Yuhan Wang, Jiahui Wang, Yufeng Yue |
+| [Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-Language-Action Policy](https://arxiv.org/abs/2609.07470) | Robot Foundation / VLA | Ayoub Kirouane, Georgios Giaples, Christos Petrocheilos |
+| [PV-WM: A Heterogeneous Micro-Macro World Model for Articulated Pedestrian-Vehicle Co-Rollout](https://arxiv.org/abs/2609.07328) | World Model | Haozhuang Chi, Jingsong Liang, Ziying Song, Lei Yang, Shihao Li, Haoruo Zhang, Chen Lv |
+| [World Models Under Asynchronous Sensor Observations](https://arxiv.org/abs/2609.07299) | World Model | Akash Anand, Abhay Anand, Yash Vishe |
+| [Beyond Task Success: Stage-Wise Reliability of World Model Planning under Sensing Degradation](https://arxiv.org/abs/2609.07126) | World Model | Geonmyeong Lee, Byoung-Tak Zhang |
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：

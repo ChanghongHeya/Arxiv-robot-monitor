@@ -1305,6 +1305,31 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-09-09T05:40:04Z",
+      "lookback_days": 2,
+      "paper_count": 18,
+      "titles": [
+        "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+        "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
+        "Proxy Policy Steering",
+        "DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination",
+        "Online, Reachability-Aware, Sampling-Based Motion Planning",
+        "Model Predictive Control of Tensegrity Robots via Contact-Aware Graph Neural Dynamics Model",
+        "VeriScene: Reconstructing Crime Scenes from Legal Evidence via World-Model Agent",
+        "CALIPER: Clean Scenes Cannot Rank Physical Inference in Pretrained Visual Representations",
+        "WorldAgen: Unified State-Action Prediction with Test-Time World Model Training",
+        "mjorbit: A Simulation Framework for Space Robotics",
+        "ComVLA: Communication-Aware Split Inference for VLA Models in 6G-Connected Robotics",
+        "ICI-VLA: In-Context Imitation with Spatiotemporally Aligned Demonstrations for Vision-Language-Action Models",
+        "Anti-Gravity Walking by a Flying Humanoid Robot via Thrust-Rate Input Whole-Body Model Predictive Control",
+        "PhysReal: Learning Real-World Deformable Object Physics via Hybrid Constitutive Modeling",
+        "Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-Language-Action Policy",
+        "PV-WM: A Heterogeneous Micro-Macro World Model for Articulated Pedestrian-Vehicle Co-Rollout",
+        "World Models Under Asynchronous Sensor Observations",
+        "Beyond Task Success: Stage-Wise Reliability of World Model Planning under Sensing Degradation"
+      ]
     }
   ]
 }
