@@ -1330,6 +1330,29 @@
         "World Models Under Asynchronous Sensor Observations",
         "Beyond Task Success: Stage-Wise Reliability of World Model Planning under Sensing Degradation"
       ]
+    },
+    {
+      "run_at": "2026-09-11T05:34:03Z",
+      "lookback_days": 2,
+      "paper_count": 16,
+      "titles": [
+        "UniMPA: A Unified Memory-Prediction-Action Model via Action-Grounded Transition Modeling",
+        "ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies",
+        "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
+        "CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising",
+        "FARM: Reading Failure Signals from the Internal Predictive States of a Frozen Robotic World Model",
+        "Your Model Already Knows Don't Teach It, Learn to Ask It: Soft Prompting for Few-Shot Adaptation of Vision-Language Models",
+        "IMLE-VLA: Fast Single-Step Action Generation for Vision-Language-Action Policies",
+        "HuRo: Robotizing Human Videos for Scalable VLA Pretraining",
+        "Programmable World Model",
+        "DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation",
+        "Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization",
+        "Frequency-Conditioned Flow Matching for Vision-Language-Action Models",
+        "FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects",
+        "RoboDrop: Curating VLA Post-Training Data via Local Gradient Compatibility",
+        "HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy",
+        "Time-Frequency Geometric Cross-Attention for Chunked Vision-Language-Action Models"
+      ]
     }
   ]
 }
