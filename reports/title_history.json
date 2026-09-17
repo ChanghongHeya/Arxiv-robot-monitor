@@ -1353,6 +1353,49 @@
         "HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy",
         "Time-Frequency Geometric Cross-Attention for Chunked Vision-Language-Action Models"
       ]
+    },
+    {
+      "run_at": "2026-09-17T05:40:18Z",
+      "lookback_days": 2,
+      "paper_count": 36,
+      "titles": [
+        "PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics",
+        "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference",
+        "VLA-ULAP: Interleaving Cloud VLA Calls with Ultra-Lightweight Local Action Prediction at the Edge",
+        "FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback",
+        "FIVE-VLA: Fast and EffectIVE Autonomous Driving with Recurrent Action Memory",
+        "ActiveScale: Scaling Active Perception for Robots across Model, Data, and Hardware",
+        "TAO-Force: Unifying Force-Aware Perception and Fast-Slow Control for Contact-Rich Manipulation",
+        "ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models",
+        "ForwardDLO: Model-Based Bimanual Shape Matching of Unconstrained Deformable Linear Objects",
+        "WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories",
+        "StrucPhysVideo: Learning Physical Dynamics from Structured Captions and Robot Actions",
+        "DistAL: Distance-based Advantage Learning for VLA Fine-Tuning",
+        "Decoupling Vision, Language, and Action for Efficient Multi-Task Robot Policies",
+        "UAVs Meet Embodied Intelligence: Bridging Human Intents and Flying Dynamics Via Harnessing Physical-Digital AI Agents",
+        "${M}^2$Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models",
+        "Acting in Meters: Learning Metric Interactions for Precise Robotic Manipulation",
+        "ForceDelta-VLA: Distilling Force-Conditioned ActionCorrections for Contact-Rich Manipulation",
+        "UMI-Bridge: Action-Anchored Latent Alignment across Human and Robot Manipulation Data",
+        "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+        "WAVE-Go: World-Model Navigation with Adaptive Execution for Wheel-Legged Robots",
+        "A Comprehensive Review of Generative Physical Artificial Intelligence",
+        "Technical Report: One-Step Drifting Action Heads for GR00T N1.7",
+        "Not All Layers Need Tuning: Diagnosing and Directing Adaptation in Vision-Language-Action Models",
+        "Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control",
+        "RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving",
+        "XPACE: Joint World and Action Modeling from Heterogeneous Experience",
+        "Intrinsic Motivation in Reinforcement Learning: A Research Agenda for Adaptive Self-Organisation",
+        "FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence",
+        "Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement",
+        "SWIM: Vision-Language-Grounded Soft Whole-Body Interactive Manipulation",
+        "sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader",
+        "Artificial Intelligence-Enabled Space Robot Operations: Technologies, Challenges and Prospects",
+        "TEMPO: Learning Temporal Context for Dynamic Robot Manipulation",
+        "The Robot Data Factory",
+        "World Models for Embodied Intelligence: From Plausible to Controllable to Actionable",
+        "AI for Games in the Foundation Model Era"
+      ]
     }
   ]
 }
