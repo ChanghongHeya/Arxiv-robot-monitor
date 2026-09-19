@@ -1396,6 +1396,28 @@
         "World Models for Embodied Intelligence: From Plausible to Controllable to Actionable",
         "AI for Games in the Foundation Model Era"
       ]
+    },
+    {
+      "run_at": "2026-09-19T05:26:27Z",
+      "lookback_days": 2,
+      "paper_count": 15,
+      "titles": [
+        "GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies",
+        "MoWAM: Explicit Future Motion Prediction for Efficient World Action Models",
+        "HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface",
+        "DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation",
+        "SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation",
+        "TraceFlow: Guiding Frozen Flow-Matching Robot Policies with Success and Failure Traces",
+        "Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control",
+        "DR-MPC: Fast and Feasible Dynamics-Relaxed Model-Predictive Control for Legged Locomotion",
+        "Astronex-World 1.0: Real-Time Interactive World Model Foundation",
+        "Compliance for Free: Learning Identifiable Impedance via Bilateral Teleoperation",
+        "Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models",
+        "Uni-LaDiR: Latent Diffusion Unifies Multimodal Reasoning",
+        "Feeling Terrain Before Crossing: World Models for Off-Road Navigation",
+        "Improving Cross-embodiment Transfer in Latent Action Models with Action-Similarity Supervision",
+        "AI Smart Glasses for Wearable Intelligence: From Egocentric Sensing to Agentic Personalization"
+      ]
     }
   ]
 }
