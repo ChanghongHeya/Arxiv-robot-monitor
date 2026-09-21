@@ -1418,6 +1418,12 @@
         "Improving Cross-embodiment Transfer in Latent Action Models with Action-Similarity Supervision",
         "AI Smart Glasses for Wearable Intelligence: From Egocentric Sensing to Agentic Personalization"
       ]
+    },
+    {
+      "run_at": "2026-09-21T05:48:49Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
