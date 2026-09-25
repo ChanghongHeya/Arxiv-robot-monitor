@@ -1467,6 +1467,46 @@
         "StenoVLA-3D: 3D-Aware Reasoning VLA for Navigation Through Gastrointestinal Stenoses",
         "An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond"
       ]
+    },
+    {
+      "run_at": "2026-09-25T05:42:58Z",
+      "lookback_days": 2,
+      "paper_count": 33,
+      "titles": [
+        "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+        "Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage",
+        "Self-Adaptive VLA for Robust Robot Deployment",
+        "Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think",
+        "Robo-Harness K1: Harnessing Robot-Use Agents via Perception Augmentation",
+        "Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs",
+        "AdaHVLA: Adaptive Harnesses for Long-Horizon Vision-Language-Action Execution",
+        "Representation World Model: Learning States, Transition and Executable Plans in Representation",
+        "DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models",
+        "CrossSafe: Towards Cross-Embodiment Latent Safety Filters",
+        "Sim-to-Real Aware End-to-End Learning Environment for Micromobility",
+        "ActGaze: Learning Action-Grounded Gaze through Counterfactual Visual Interventions for High-Precision Manipulation",
+        "A Field-Deployable GNSS-based Navigation Stack for Outdoor Mobile Robots",
+        "Streaming-WAM: Action-Conditioned World-Action Model for Asynchronous Robot Manipulation",
+        "Online Sim-to-Real Adaptation via Closed-Loop System Modeling",
+        "Direction-Scale Decomposition in Action Representation: Rethinking What to Tokenize for Vision-Language-Action Models",
+        "Uncertainty-Gated Exploration Noise Suppresses Task Collapse in Online RL Fine-Tuning of a Flow-Matching Vision-Language-Action Policy",
+        "LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion",
+        "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+        "Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model",
+        "PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation",
+        "TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning",
+        "Generalizable Robotic Insertion with World Models",
+        "MemBodied: Recurrent Associative Memory for Vision-Language-Action Models",
+        "Dissecting Advantage-Guided Post-Training for Vision-Language-Action Policies",
+        "Prompt, Probe, Train, or Annotate? Single-camera sports video understanding in amateur settings",
+        "Less Language, More Latents: Annotation-Efficient VLAs for Driving",
+        "InfiNoVA: Infinite Novel View Augmentation for Viewpoint Invariant Robot Policies",
+        "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions",
+        "CereVLA: Cerebellum-Inspired Consequence-Aware Residual Governance for Efficient Vision-Language-Action Execution",
+        "Safety-Filtered Distributed Koopman-MPC",
+        "BEE: Intervention-Adaptive Real-World Reinforcement Learning with Vision-Language-Action Models",
+        "X2Real: an eXtensive simulation benchmark for real-world generalist policies"
+      ]
     }
   ]
 }
