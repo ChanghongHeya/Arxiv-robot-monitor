@@ -1507,6 +1507,12 @@
         "BEE: Intervention-Adaptive Real-World Reinforcement Learning with Vision-Language-Action Models",
         "X2Real: an eXtensive simulation benchmark for real-world generalist policies"
       ]
+    },
+    {
+      "run_at": "2026-09-27T06:06:11Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
