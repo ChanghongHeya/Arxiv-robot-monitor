@@ -1663,6 +1663,28 @@
         "RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts",
         "DSWM: Decomposed Spatio-Temporal World Model for Demand-Driven UAV Base Station Repositioning"
       ]
+    },
+    {
+      "run_at": "2026-10-03T05:58:22Z",
+      "lookback_days": 2,
+      "paper_count": 15,
+      "titles": [
+        "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
+        "DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication",
+        "UniWAM: Unified World-Action Model",
+        "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
+        "ChunkVLA-AM: Parallel Action Chunking for Vision-Language-Action Robot Control in Additive Manufacturing",
+        "Continuous Conditioning of VLAs with Augmenting EMG and Visual Task Descriptors",
+        "World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories",
+        "ATI-VLA: Action-Centric Predictive Vision-Language-Action Models via Actionable Alignment Then Adaptive Injection",
+        "Oneira: From Open-Ended Generation to Open-World Interaction in Video World Models",
+        "ReCo: Response-Consistent Locomotion with Policy-Aware MPC for Legged Manipulation",
+        "Completion Aware Guidance for World Action Models",
+        "Is Success All You Need? Investigating the Impact of Input Perturbations on VLA Behaviour in Tabletop Manipulation Tasks",
+        "Cross-entropy optimization with prioritized constraints",
+        "Supervise What Decides Success: Criterion-Aligned Auxiliary Losses for Latent World-Model Planning",
+        "PhysicsLENS: Diagnosing Physical Property Blindness in Video Generation Models"
+      ]
     }
   ]
 }
