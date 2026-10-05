@@ -1685,6 +1685,12 @@
         "Supervise What Decides Success: Criterion-Aligned Auxiliary Losses for Latent World-Model Planning",
         "PhysicsLENS: Diagnosing Physical Property Blindness in Video Generation Models"
       ]
+    },
+    {
+      "run_at": "2026-10-05T06:29:59Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
