@@ -1749,6 +1749,12 @@
         "How (and How Not) to Use Data Augmentation in VLA Post-Training",
         "OGAM: Connecting Systematic Testing to Runtime Assurance through Object-Grounded Attention Monitoring for VLA Policies"
       ]
+    },
+    {
+      "run_at": "2026-10-11T06:45:00Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
