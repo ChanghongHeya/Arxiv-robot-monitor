@@ -1828,6 +1828,12 @@
         "DriveWLA: Unifying Future Dynamics and Scene Semantics through World-Language-Action Modeling for Autonomous Driving",
         "Beyond Safe Execution: Safe Online Reinforcement Learning for Autonomous Driving with Value Calibration and Adaptive Guidance"
       ]
+    },
+    {
+      "run_at": "2026-10-19T05:37:34Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
