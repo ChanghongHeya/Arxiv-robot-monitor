@@ -1880,6 +1880,52 @@
         "EmbodiedWorld-200K: Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models",
         "Vision-Language-Delta-Action: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation"
       ]
+    },
+    {
+      "run_at": "2026-10-23T05:41:02Z",
+      "lookback_days": 2,
+      "paper_count": 39,
+      "titles": [
+        "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+        "DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control",
+        "Progress Probes $P^2$: Lightweight Runtime Monitoring for Vision-Language-Action Models",
+        "Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models",
+        "Skeleton-Grounded Latent Action Model for Robot World Models",
+        "FastHarness: Experience-Driven Review Scheduling for Vision-Language-Action Policies",
+        "FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models",
+        "Learning Robot Behavior Priors from Non-Robotic Synthetic Data",
+        "Inside-JEPA: From Prediction to Relational Grounding in Latent World Models",
+        "Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation",
+        "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models",
+        "UniFlowWAM: A Unified World-Action Model with Visual Semantics and 4D Geometry",
+        "In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garment with Partial Observations",
+        "Measuring the Reasoning-Action Coupling in Driving Vision-Language-Action Models through Counterfactuals",
+        "DRILL: Training World Models to Improve Policies, Not Predict Pixels",
+        "An Introduction to World Models for Generalist Agents",
+        "DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models",
+        "When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies",
+        "SmolVLA-MoE: Sparse Mixture-of-Experts for Efficient Multi-Task Robotic Manipulation",
+        "Co^2Gen: Collaboratively Generating Task Plans for Decentralized Multi-Robot and Human Collaboration",
+        "Anticipating Social Consequences with Distributional World Models",
+        "Tactile-Based Robotic Manipulation: From Mechanics-Driven to Data-Driven Perspectives",
+        "Self-Distilling Future Video Representations for World Action Models",
+        "Agentic World Action Models",
+        "Rethinking Video Autoencoders for Interactive World Models",
+        "ALPS: Visual State Encoders for World Models",
+        "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation",
+        "SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation",
+        "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
+        "Object- and Task-Aware Active Perception for Safe Navigation of Mobile Manipulators in Semi-Static Environments",
+        "GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models",
+        "Post-hoc Epistemic Uncertainty for Vision-Language-Action Policies",
+        "FlowVLA: Learning Flow-Aware Physical Completion for Quantitative Robotic Pouring",
+        "From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation",
+        "LiveAct: Towards Real-Time Multi-Agent World Models with Heterogeneous Action Interfaces",
+        "Integrating Flow Matching and Model Predictive Control for Safe Robot Navigation",
+        "Plan First, Act Later: Streaming Reasoning for Executable Memory in Robot Control",
+        "LLM-Based Exogenous World Modeling for Dynamic Scheduling",
+        "Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation"
+      ]
     }
   ]
 }
