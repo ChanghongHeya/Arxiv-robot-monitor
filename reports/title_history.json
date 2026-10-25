@@ -1926,6 +1926,12 @@
         "LLM-Based Exogenous World Modeling for Dynamic Scheduling",
         "Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation"
       ]
+    },
+    {
+      "run_at": "2026-10-25T05:35:42Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
