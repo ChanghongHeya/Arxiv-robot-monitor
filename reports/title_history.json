@@ -1932,6 +1932,38 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-10-27T05:54:36Z",
+      "lookback_days": 2,
+      "paper_count": 25,
+      "titles": [
+        "Nonprehensile Robotic Catching Using Virtual Constraints",
+        "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy",
+        "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent",
+        "Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation",
+        "Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies",
+        "RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies",
+        "Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena",
+        "RoKON: Efficient and Adaptive Data-Enabled Predictive Control for Robotic Manipulation",
+        "VisGeo-PipeTrack: A Visual Geometric Servo Control Framework with MPC-RCAPID Control for UAV-Based Dynamic Pipes Tracking",
+        "Labference: Benchmarking the Reasoning-Action Connection in Robotic Laboratories",
+        "DriveUniTok: A Unified Multimodal Tokenizer for Driving World-Action Models",
+        "JevVLA: Jev-Inspired Energy-Based Adaptation for Vision-Language-Action Policies",
+        "Physics-Informed and Data-Driven Composite Disturbance Separation and Predictive Control for Airborne Electro-Optical Gimbals with Multiple Constraints",
+        "VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware",
+        "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation",
+        "Video World Models Need Predictable Latents",
+        "Dream to Assist: Intent-Conditioned World Models for Shared Vehicle Control",
+        "RobotAgentBench: Towards Open-world Robot Autonomy",
+        "What Does World Modeling Actually Improve in Robot Action Learning?",
+        "How Humans Learn Unfamiliar Worlds: A Think-Aloud Dataset on ARC-AGI-3",
+        "TRIAGE: Efficient Vision-Language-Action Inference Needs Both Reuse and Pruning",
+        "RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions",
+        "Variational Cognitive Memory Abstraction for Long-Horizon Vision-Language-Action Models",
+        "HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience",
+        "RoboDuo: Attempt, Check and Atomic Recovery through Code for Vision-Language-Action Models"
+      ]
     }
   ]
 }
