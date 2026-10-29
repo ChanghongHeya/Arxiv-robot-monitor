@@ -1964,6 +1964,29 @@
         "HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience",
         "RoboDuo: Attempt, Check and Atomic Recovery through Code for Vision-Language-Action Models"
       ]
+    },
+    {
+      "run_at": "2026-10-29T06:41:56Z",
+      "lookback_days": 2,
+      "paper_count": 16,
+      "titles": [
+        "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+        "Understanding the limits of latent world models",
+        "World Dreamer v5-lite: A Multi-Robot World Action Model with One Dreamer",
+        "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+        "VLA-Stem: A Lightweight Safety Mechanism for Vision-Language-Action Models via Reinforcement Learning",
+        "Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer",
+        "Vision-Language-Action or World-Action? Just Action Models",
+        "Retrieve to Act: Motion Primitive Graph Retrieval for Robust VLA Execution",
+        "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation",
+        "Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception",
+        "Vision-Language Agents Can Learn in Their Own Latent Worlds",
+        "When Black-Box Robot Policies Fail: Online Sensor Diagnosis and Repair with a Transparent Surrogate",
+        "TAPESTRY: A Single Backbone for Video Generation and Robot Control",
+        "RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions",
+        "Evaluation-Guided Demonstration Refinement for Vision-Language-Action Policies: The Winning Entry in the MetaFine Open Competition",
+        "Making Self-Driving Laboratories Auditable:A Unified Framework for Hybrid Actions,Measurements, and Safe Execution"
+      ]
     }
   ]
 }
