@@ -1987,6 +1987,29 @@
         "Evaluation-Guided Demonstration Refinement for Vision-Language-Action Policies: The Winning Entry in the MetaFine Open Competition",
         "Making Self-Driving Laboratories Auditable:A Unified Framework for Hybrid Actions,Measurements, and Safe Execution"
       ]
+    },
+    {
+      "run_at": "2026-10-31T06:33:43Z",
+      "lookback_days": 2,
+      "paper_count": 16,
+      "titles": [
+        "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+        "BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing",
+        "Improving Fine-Grained Manipulation through Demonstration Expansion and Execution Design",
+        "Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors",
+        "HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model",
+        "JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning",
+        "TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation",
+        "Wizard: Manipulate Any World in Real Time via Agentic Control",
+        "Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles",
+        "RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence",
+        "LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks",
+        "How Much Should a VLA Trust Its Reasoning? Step-Level Guidance as a Measured Action-Value Function",
+        "Teaching a Tree to Recover: Online Distillation of an LLM Supervisor with Counterfactual Replay",
+        "WorldProbe: When Video World Models Fall Apart under Long-Horizon Spatial Exploration",
+        "From Reasoning to Action: Consequence-Grounded Alignment for Vision-Language-Action Models",
+        "PRIME W0: Physical Priors from World Models for Embodied Manipulation"
+      ]
     }
   ]
 }
