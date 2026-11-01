@@ -2010,6 +2010,12 @@
         "From Reasoning to Action: Consequence-Grounded Alignment for Vision-Language-Action Models",
         "PRIME W0: Physical Priors from World Models for Embodied Manipulation"
       ]
+    },
+    {
+      "run_at": "2026-11-01T07:03:59Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }

@@ -4,27 +4,10 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-10-31 06:33 UTC
-- Relevant papers: 16
+- Updated at: 2026-11-01 07:03 UTC
+- Relevant papers: 0
 
-| Title | Type | Authors |
-|---|---|---|
-| [Gym-Anything for Robotics: Scaling physical simulations with digital agents](https://arxiv.org/abs/2610.40565) | Robot Foundation / VLA | Pranjal Aggarwal, Sean Welleck |
-| [BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing](https://arxiv.org/abs/2610.40532) | Robot Foundation / VLA | Xiangyu Xu, Bangshuai Peng, Ziyi Liu, Mengjie Zhao, Chenhao Lu, Zhengyang Fan, Huazhe Xu, Kaizhe Hu |
-| [Improving Fine-Grained Manipulation through Demonstration Expansion and Execution Design](https://arxiv.org/abs/2610.40430) | Robot Foundation / VLA | Jingxu Gu, Dongze Lian |
-| [Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors](https://arxiv.org/abs/2610.40401) | World Model | Liangyu Li, Qingwen Liu |
-| [HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model](https://arxiv.org/abs/2610.40373) | Robot Foundation / VLA | Rongxing Ding, Hongyu Qu, Kehong Wu, Xudong Wang, Fan Zhang, Xinguang Xiang, Xiangbo Shu |
-| [JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning](https://arxiv.org/abs/2610.40356) | Robot Foundation / VLA | Jiazhao Liang, Zhewen He, Shuaihang Yuan, Hao Huang, Yi Fang |
-| [TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation](https://arxiv.org/abs/2610.40349) | Robot Foundation / VLA | Haozhe Zhang, Gu Zhang, Zirui Zou, Yuzheng Chen, Jinlong Wu, Zixuan Hu, Jianke Zhang, Yucheng Hu, Zhecheng Yuan, Huazhe Xu |
-| [Wizard: Manipulate Any World in Real Time via Agentic Control](https://arxiv.org/abs/2610.40339) | World Model | Yuzhe Wu, Zijun Lin, Yeying Jin |
-| [Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles](https://arxiv.org/abs/2610.40075) | Robot Foundation / VLA | Jianming Ma, Rongjun Jin, Yizhi Chen, Yue Gao |
-| [RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence](https://arxiv.org/abs/2610.40026) | Robot Foundation / VLA | Xin Ma, Furong Chen, Xinlong Man, Bo Zhang, Yalong Guo, Haolan Lei, Chaochen Cui, Hongyuan Zhang, Mulin Chen, Yi Wang, Lap-pui Chau, Chuang Yang |
-| [LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks](https://arxiv.org/abs/2610.40016) | Robot Foundation / VLA | Enqiao Lu, Yuxiang Xie, Xingrui Yu, Yuyang Wang, Yipeng Gu, Zhenglin Wan, Pengfei Zhou, Wangbo Zhao, Yang You, Yuxiang Gao, Ivor Tsang |
-| [How Much Should a VLA Trust Its Reasoning? Step-Level Guidance as a Measured Action-Value Function](https://arxiv.org/abs/2610.40002) | Robot Foundation / VLA | Dabin Seo, Eunhyek Joa |
-| [Teaching a Tree to Recover: Online Distillation of an LLM Supervisor with Counterfactual Replay](https://arxiv.org/abs/2610.39775) | Robot Foundation / VLA | Kristian Ceder, Kilian Freitag, Knut Åkesson |
-| [WorldProbe: When Video World Models Fall Apart under Long-Horizon Spatial Exploration](https://arxiv.org/abs/2610.39721) | World Model | Minqi Wang, Jie Peng, Hejun Dong, Ruchang Yao, Puyi Wang, Siyuan Huang, Jihai Zhang, Yafu Li, Qi Dou, Xiaoye Qu, Yu Cheng |
-| [From Reasoning to Action: Consequence-Grounded Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2610.39543) | Robot Foundation / VLA | Yixue Zhang, Wenke Xia, Kun Wu, Wenbo Yu, Pei Ren, Junnan Nie, Di Hu, Zhengping Che, Chang Liu |
-| [PRIME W0: Physical Priors from World Models for Embodied Manipulation](https://arxiv.org/abs/2610.39528) | Robot Foundation / VLA | Huabin Peng, Fagang Jin, Yancong Wei, Tengfei Ma, Chuhang Liu, Chao Yu, Liqing Chen |
+最近时间窗口内没有筛选到相关论文。
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：
