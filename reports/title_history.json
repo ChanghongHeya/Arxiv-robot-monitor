@@ -2016,6 +2016,33 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-11-03T07:29:32Z",
+      "lookback_days": 2,
+      "paper_count": 20,
+      "titles": [
+        "Toward Uncertainty-Aware, Physics-Grounded Human World Models",
+        "ForceLDM: A Force-aware Latent Dynamics Model for Contact-Rich Manipulation",
+        "Rollout then Recycle: 3,718 Labelled Real-Robot Episodes from Benchmarking 7 Policies on 12 Tasks",
+        "VLALagBench: Understanding When and Why VLA Inference Latency Matters",
+        "Predictive Safety Guardrails Do Not Always Make LLM Agents Safer",
+        "Beyond Policy Patches: Distilling RL Specialists into Vision-Language-Action Policies",
+        "Right Ranking, Wrong Scale: Reproducing the Robotic World Model's Dynamics Model and Testing the Uncertainty of Its Follow-up",
+        "HeLM: Hierarchical Explicit Language Memory for Non-Markovian Manipulation",
+        "INTERACT: Learning Interaction-Aware World Dynamics from Driving Videos for Autonomous Driving",
+        "RoboColosseum: Evaluating Physical Intelligence at Scale In-The-Wild",
+        "MirrorComm: A Communication-Efficient Cooperative Perception Framework via Mirrored World Models",
+        "AgiWorld: An Agentic Video World Model for Building Persistent Worlds",
+        "SVD-Prune: Spectral Vision Token Pruning under Extreme Compression",
+        "When to Probe and When to Act: Clarity-Aware Risk-Adaptive Control for Interactive Driving",
+        "Beyond Ensemble Disagreement: Predictive STL Monitoring of RL Locomotion under Distribution Shift",
+        "When Delay Meets Drift: Physical Safety of Robot Foundation Models Is a Cross-Layer Problem",
+        "OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining",
+        "ODE Policy: Robot Learning via Action Dynamics, Not Actions",
+        "Route-Guided CBF-QP Repair for Safe Vision-Language-Action Models",
+        "Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence"
+      ]
     }
   ]
 }
