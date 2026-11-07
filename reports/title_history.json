@@ -2084,6 +2084,26 @@
         "Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots",
         "Hybrid Particle-Voxel Dynamics for Multimodal 3D World Simulation"
       ]
+    },
+    {
+      "run_at": "2026-11-07T06:46:56Z",
+      "lookback_days": 2,
+      "paper_count": 13,
+      "titles": [
+        "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
+        "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
+        "T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models",
+        "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+        "GPWM: Modeling the World as 3D Particle Motion",
+        "La-JEPA: Compact Robot Policies with Latent World Modeling",
+        "FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching",
+        "WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation",
+        "GuidedWAM: Training-Free Energy Guidance for World Action Models in Autonomous Driving",
+        "PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation",
+        "Learning Robotic World Models with Semantic and Visual Feedback",
+        "Seeing Beyond the Next Step: World-Model-Guided Human-Like Navigation in Multi-Agent Scenes",
+        "AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction"
+      ]
     }
   ]
 }
