@@ -2104,6 +2104,12 @@
         "Seeing Beyond the Next Step: World-Model-Guided Human-Like Navigation in Multi-Agent Scenes",
         "AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction"
       ]
+    },
+    {
+      "run_at": "2026-11-09T07:33:43Z",
+      "lookback_days": 2,
+      "paper_count": 0,
+      "titles": []
     }
   ]
 }
