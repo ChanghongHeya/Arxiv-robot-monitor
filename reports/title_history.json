@@ -2110,6 +2110,41 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-11-11T07:27:11Z",
+      "lookback_days": 2,
+      "paper_count": 28,
+      "titles": [
+        "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
+        "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
+        "OnlyAct: Extracting Action Representations from Foundation Models for World Models",
+        "From Video Frames to Robot Meta-Frames: A Unified Latent Interface for World Action Models",
+        "DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning",
+        "LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning",
+        "From Egocentric Human Video to Robot Manipulation in the Era of Embodied Intelligence",
+        "Few-Shot Residual Adaptation of Pretrained Latent World Models",
+        "GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM",
+        "Incorporating World Models in Decision Making for Next Best View Selection in Active Sensing",
+        "Ground Reaction Force-Aware Model Predictive Control for Underactuated Upright Physical Assistance",
+        "How Much of Your VLA Is kNN",
+        "Building World Models from Intrinsic Motivation",
+        "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+        "$Σ$-LeWM: Learning World Models via S-Information for Robot Control",
+        "Library of Hands: Fix the Hands, Not the World Model",
+        "VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess",
+        "WanderBench: Can World Models Explore Dynamic Worlds from Video?",
+        "How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time",
+        "Mitigating SM-Level Load Imbalance in 3D Gaussian Splatting on GPUs",
+        "Be My Eye: Learning to See Beyond a Robot's Own Perspective",
+        "VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation",
+        "Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks",
+        "A Game-Theoretic MPC Planner for Cooperative and Adversarial Drone Coordination",
+        "Learning to Act with World Models by Valuing What Comes Next",
+        "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models",
+        "Motion Belief Action: From a Visual Scene Map to Physical Decisions",
+        "Benchmarking language models and agents for scientific reasoning in evolving materials laboratories"
+      ]
     }
   ]
 }
