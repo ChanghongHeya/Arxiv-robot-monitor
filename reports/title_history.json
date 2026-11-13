@@ -2145,6 +2145,29 @@
         "Motion Belief Action: From a Visual Scene Map to Physical Decisions",
         "Benchmarking language models and agents for scientific reasoning in evolving materials laboratories"
       ]
+    },
+    {
+      "run_at": "2026-11-13T07:32:57Z",
+      "lookback_days": 2,
+      "paper_count": 16,
+      "titles": [
+        "SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models",
+        "STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models",
+        "ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving",
+        "PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning",
+        "BlinkMimic: Training a Humanoid Motion Tracker in Minutes on a Single GPU",
+        "I See What You Want: Decoding Hierarchical Operator Intent from Visual Teleoperation History",
+        "What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation",
+        "MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes",
+        "What World Model Does Active Object Search Need? A Study under Imperfect Detection",
+        "Recover, Don't Just Continue: Learning from Feedback for Physical Failure Understanding and Correction",
+        "What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation",
+        "ActionCodec2: A Streaming Action Tokenizer",
+        "Low-Cost Mobile Bimanual Manipulation for Long-Horizon Toilet Cleaning",
+        "Bind-WAM: Binding-Uncertainty-Guided Selective Future Imagination in World Action Models",
+        "CARE-Drive: Coupled Alternating Refinement for Ego-trajectories",
+        "AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention"
+      ]
     }
   ]
 }
