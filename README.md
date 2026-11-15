@@ -4,27 +4,10 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-11-13 07:32 UTC
-- Relevant papers: 16
+- Updated at: 2026-11-15 07:28 UTC
+- Relevant papers: 0
 
-| Title | Type | Authors |
-|---|---|---|
-| [SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models](https://arxiv.org/abs/2611.17110) | Robot Foundation / VLA | Jiachun Jin, Zetong Zhou, Haonan Wang, Xiao Yang, Jun Zhu, Zhijie Deng |
-| [STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models](https://arxiv.org/abs/2611.16589) | Robot Foundation / VLA | Zhuo Han, Yeqiang Wang, Xinran Wang, Hongwei Han, Yi Xiong, Zunian Wan, Jianbo Mao, Huan Peng, Yongcheng Liu, Wei Shan, Maoqing Yao |
-| [ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving](https://arxiv.org/abs/2611.16579) | World Model | Ziying Song, Shengkai Zhang, Caiyan Jia, Lei Yang, Lin Liu, Yuchen Liu, Ziyang Liu, Zirui Li, Gang Wang, Peiliang Wu, Li Wang, Yadan Luo, Chen Lv |
-| [PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning](https://arxiv.org/abs/2611.16424) | World Model | Haofeng Wang, Pengcheng Wen, Ruiqi Li, Yuhao Zhang, Tiange Zhang, Boren Zheng, Xuanyi Liu, Siyu Tao, Danni Yu, Gan Lin, Haocheng Tang, Tianzizhe Guo, Mingyuan Su, Boyuan Chen, Zhongyuan Wang |
-| [BlinkMimic: Training a Humanoid Motion Tracker in Minutes on a Single GPU](https://arxiv.org/abs/2611.16422) | World Model | Fuyi Chen |
-| [I See What You Want: Decoding Hierarchical Operator Intent from Visual Teleoperation History](https://arxiv.org/abs/2611.16419) | Robot Foundation / VLA | Xiangyi Jia, Kaixian Qu, Shengzhi Wang, Chenyu Yang, Robert Katzschmann, Marco Hutter |
-| [What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation](https://arxiv.org/abs/2611.16246) | Robot Foundation / VLA | Jinze Tao, Yuxiao Han, Kangkang Dong, Yancong Wei, Xiaojun Zhu, Bokui Chen, Houde Liu |
-| [MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes](https://arxiv.org/abs/2611.15937) | Robot Foundation / VLA | Richard Shi, Mohammad Mahdavian, Mehrdad Momeni Zadeh, Mohammed Elmahgiubi, Amir Rasouli |
-| [What World Model Does Active Object Search Need? A Study under Imperfect Detection](https://arxiv.org/abs/2611.15689) | World Model | Kyeongryeol Go |
-| [Recover, Don't Just Continue: Learning from Feedback for Physical Failure Understanding and Correction](https://arxiv.org/abs/2611.15651) | Robot Foundation / VLA | Miao Pan, Kaixiang Yao, Xiaohe Zhou, Xu Wang, Qinfeng Li, Wenqi Zhang, Xuhong Zhang |
-| [What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation](https://arxiv.org/abs/2611.15491) | Robot Foundation / VLA | Zhuoyue Li, Zhendong Han, Pankhuri Vanjani, Wenting Li, Rudolf Lioutikov |
-| [ActionCodec2: A Streaming Action Tokenizer](https://arxiv.org/abs/2611.15490) | Robot Foundation / VLA | Zibin Dong, Yicheng Liu, Shiduo Zhang, Tianyuan Yuan, Baijun Ye, Jinqiu Wang, Hang Zhao |
-| [Low-Cost Mobile Bimanual Manipulation for Long-Horizon Toilet Cleaning](https://arxiv.org/abs/2611.15381) | Robot Foundation / VLA | Sven Schreiber, Bernard Burdiek, Lasse Huber-Saffer, Yung-Hui Li, Donglin Chen, Shang-Ching Liu, Jianwei Zhang |
-| [Bind-WAM: Binding-Uncertainty-Guided Selective Future Imagination in World Action Models](https://arxiv.org/abs/2611.15368) | World Model | Chenhao Qiu, Shuyi Chen, Songen Gu, Shufeng Nan, Tianyu Wang, Siyu Lin, Yifan Li, Bingwen Zhu, Yanwei Fu |
-| [CARE-Drive: Coupled Alternating Refinement for Ego-trajectories](https://arxiv.org/abs/2611.15360) | Robot Foundation / VLA | Xiao Ma, Yijun Chen, Zhiquan Hu, Jicheng Zhao, Yuming Li, Chuang Dai |
-| [AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention](https://arxiv.org/abs/2611.15215) | World Model | Haoyi Zhang, Qi Zhang, Yunfan Ren, Yi Bin, Lei Zhu, Heng Tao Shen |
+最近时间窗口内没有筛选到相关论文。
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：
