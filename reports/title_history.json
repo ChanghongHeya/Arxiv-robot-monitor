@@ -2174,6 +2174,33 @@
       "lookback_days": 2,
       "paper_count": 0,
       "titles": []
+    },
+    {
+      "run_at": "2026-11-17T08:45:22Z",
+      "lookback_days": 2,
+      "paper_count": 20,
+      "titles": [
+        "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
+        "Lazy-MOSAIC: Accelerating Skill-Centric Manipulation Planning with Learned Skill-Effect World Models",
+        "Data-Driven Predictive Control for Autonomous Vehicle Racing under Varying Friction",
+        "BoBDeLaN: Bounded-Bandwidth Context Adaptation for Deep Lagrangian Robot Control",
+        "MetricHand: Geometry-Aware Flow Matching for 4D Hand Reconstruction in Metric World Space",
+        "POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models",
+        "FAVR: Flow-Aware Visual Residual Alignment for Vision-Language-Action Policies",
+        "Competent Autonomous Driving Through Fine Tuning Vision Language Action Models with Symbolic Traffic Rules",
+        "Instructions Before Actions: Prospective and Retrospective Language Supervision for Driving Vision-Language-Action Data",
+        "JEPTERA: A Platform Agnostic JEPA-Assisted Model Predictive Planner for Urban UAV Navigation",
+        "Lift, See, Act: Hierarchical Robot Policy Pretraining with 3D Foundation Models",
+        "ReRead: Wrong Predictions, Useful Representations - Correcting Frozen Robot Policies by Re-reading Their Own Representations",
+        "Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models",
+        "XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute",
+        "NF-VLA: A Normalizing-Flow Baseline for Vision-Language-Action Learning",
+        "Right Goal, Wrong Body: Re-grounding Frozen VLAs under Actuation Shift",
+        "SAFER: Navigating the Exploration-Exploitation Dilemma in World-Model-Based Planning for Autonomous Driving",
+        "ReactBench-AD: Do Driving VLAs and World-Action Models React to Imminent Hazards in Their Path?",
+        "PlanDiv: Test-Time Scaling with Latent Plans for Vision-Language-Action Models",
+        "Value and Policy Calibration from Execution Feedback for Socially Compatible Driving"
+      ]
     }
   ]
 }

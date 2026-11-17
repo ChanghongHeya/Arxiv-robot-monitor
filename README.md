@@ -4,10 +4,31 @@
 ## Latest Results
 
 - Window: last 2 day(s)
-- Updated at: 2026-11-15 07:28 UTC
-- Relevant papers: 0
+- Updated at: 2026-11-17 08:45 UTC
+- Relevant papers: 20
 
-最近时间窗口内没有筛选到相关论文。
+| Title | Type | Authors |
+|---|---|---|
+| [ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters](https://arxiv.org/abs/2611.21607) | Robot Foundation / VLA | Ruixi Yu, Dairu Liu, Xuchuan Chen, Zekun Qi, Zekai Li, Zhuo Cao, Luyang Niu, Yingsheng Zhang, Sikai Liang, Ke Fan, He Wang, Li Yi |
+| [Lazy-MOSAIC: Accelerating Skill-Centric Manipulation Planning with Learned Skill-Effect World Models](https://arxiv.org/abs/2611.21517) | World Model | Itamar Mishani, Mukund Krishnakumar, Oren Salzman, Maxim Likhachev |
+| [Data-Driven Predictive Control for Autonomous Vehicle Racing under Varying Friction](https://arxiv.org/abs/2611.21378) | World Model | Julius Beerwerth, Julius Tischbein, Bassam Alrifaee |
+| [BoBDeLaN: Bounded-Bandwidth Context Adaptation for Deep Lagrangian Robot Control](https://arxiv.org/abs/2611.21209) | World Model | Lucas Schulze, Sucheth Shenoy, Jan Peters, Oleg Arenz |
+| [MetricHand: Geometry-Aware Flow Matching for 4D Hand Reconstruction in Metric World Space](https://arxiv.org/abs/2611.21060) | Robot Foundation / VLA | Yibo Bai, Likui Zhang, Jinglei Zhang, Zhengbin Pang, Xingshen Song, Xiaoqing Yin, Jinsheng Deng |
+| [POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models](https://arxiv.org/abs/2611.21033) | Robot Foundation / VLA | Jaehyuk Lee, Yeajin Lee, Suhyun Bae, Donghun Lee |
+| [FAVR: Flow-Aware Visual Residual Alignment for Vision-Language-Action Policies](https://arxiv.org/abs/2611.20971) | Robot Foundation / VLA | Qixuan Wu, Xiaole Yang, Yuguang Yang, Canyu Chen, Linlin Yang, Haixia Pan, Guodong Guo, Baochang Zhang |
+| [Competent Autonomous Driving Through Fine Tuning Vision Language Action Models with Symbolic Traffic Rules](https://arxiv.org/abs/2611.20648) | Robot Foundation / VLA | Barkin Dagda, Vinal Asodia, Iman Sharifi, Peng Wei, Saber Fallah |
+| [Instructions Before Actions: Prospective and Retrospective Language Supervision for Driving Vision-Language-Action Data](https://arxiv.org/abs/2611.20631) | Robot Foundation / VLA | Angel Martinez-Sanchez, Ross Greer |
+| [JEPTERA: A Platform Agnostic JEPA-Assisted Model Predictive Planner for Urban UAV Navigation](https://arxiv.org/abs/2611.20593) | World Model | Gibran Fathoni Belva, Mansur Arief, Ahmad Alfan Alfian Irfan |
+| [Lift, See, Act: Hierarchical Robot Policy Pretraining with 3D Foundation Models](https://arxiv.org/abs/2611.20481) | Robot Foundation / VLA | Yiyuan Ge, Changxing Ding, Ziyu Hao, Zijie Zheng, Xiangmin Xu |
+| [ReRead: Wrong Predictions, Useful Representations - Correcting Frozen Robot Policies by Re-reading Their Own Representations](https://arxiv.org/abs/2611.20465) | Robot Foundation / VLA | Xu Su, Shunlong Xiao, Qintao Yi, Mingkuan Zhao, Xinmiao Yu, Yizhe Li, Zihan Wang, Bokui Chen |
+| [Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models](https://arxiv.org/abs/2611.20460) | Robot Foundation / VLA | Jingru Guo, Alessandra Russo, Joey Bose, Christos Ziakas |
+| [XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute](https://arxiv.org/abs/2611.20452) | World Model | Nico Bohlinger, Jan Peters |
+| [NF-VLA: A Normalizing-Flow Baseline for Vision-Language-Action Learning](https://arxiv.org/abs/2611.20314) | Robot Foundation / VLA | Ruichen Deng, Qinyu Zhao, Yong-Hyun Park, Mutian Tong, Liang Zheng, Jiatao Gu |
+| [Right Goal, Wrong Body: Re-grounding Frozen VLAs under Actuation Shift](https://arxiv.org/abs/2611.20244) | Robot Foundation / VLA | Umer Siddique, Peilang Li, Yongcan Cao |
+| [SAFER: Navigating the Exploration-Exploitation Dilemma in World-Model-Based Planning for Autonomous Driving](https://arxiv.org/abs/2611.20107) | World Model | Yansong Qu, Zilin Huang, Zihao Sheng, Sikai Chen, Samuel Labi |
+| [ReactBench-AD: Do Driving VLAs and World-Action Models React to Imminent Hazards in Their Path?](https://arxiv.org/abs/2611.20011) | Robot Foundation / VLA | Nikos Theodoridis, Reenu Mohandas, Sushil Sharma, Ciarán Hogan, Ganesh Sistu, Anthony Scanlan, Tim Brophy, Ciarán Eising |
+| [PlanDiv: Test-Time Scaling with Latent Plans for Vision-Language-Action Models](https://arxiv.org/abs/2611.20010) | Robot Foundation / VLA | Hanbo Zhang, Lianlei Shan, Liuhaichen Yang, Zezhi Tang |
+| [Value and Policy Calibration from Execution Feedback for Socially Compatible Driving](https://arxiv.org/abs/2611.19969) | World Model | Sen Shen, Ning Liu, Xiangrui Kong, Yingwei Li, Dongkun Han |
 <!-- AUTO_RESULTS_END -->
 
 这个项目会自动抓取 arXiv 最近 2 天的新论文，分析摘要，筛选出和以下方向相关的论文：
