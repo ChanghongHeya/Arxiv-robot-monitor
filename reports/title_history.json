@@ -2267,6 +2267,27 @@
         "CoBoVLA: Decoupling Language from Action with Discrete Codes for Robust and Interpretable Robot Manipulation",
         "FailureGen: Scalable Robot Failure Data Generation with World Models"
       ]
+    },
+    {
+      "run_at": "2026-11-21T07:56:02Z",
+      "lookback_days": 2,
+      "paper_count": 14,
+      "titles": [
+        "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation",
+        "PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity",
+        "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+        "Risk-Controlled Test-Time Adaptation for Vision-Language-Action Models",
+        "Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience",
+        "TacInno: Teaching Vision-Language-Action Models the Contact Dynamics Beyond Vision and Action",
+        "FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving",
+        "Teaching Vision-Language-Action Models to Stop Safely",
+        "SpecWM: Turning Verification into Refinement for Streaming World Models",
+        "One View, One Action: Spatially Generalizable VLAs through Observation-Aligned Experts and Cross Graph Consistency",
+        "Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models",
+        "Point Dynamics as Proxy for Robotic World Models",
+        "Fast-JEPA: Advancing the Success-Latency Frontier for Latent World Models",
+        "DMT-Attack: Diffusion-Prior Texture Search for Closed-Loop Vision-Language-Action Policies"
+      ]
     }
   ]
 }
